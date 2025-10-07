@@ -1,312 +1,247 @@
-# Beyond Monolingual Assumptions: Code-Switched NLP in the LLM Era
+Of course\! I've updated the README to be more "awesome" and resourceful, incorporating your provided links and structuring it perfectly according to your taxonomy image. The new `Language Identification` section is now populated with your links, and the rest of the structure is ready for you to continue adding more.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Here is the detailed and updated `README.md` for your `awesome-code-mixing` repository.
 
-This collection presents tutorials, workshops, papers, and other resources focused on computational linguistics research in code-switching. The list will be continuously updated, and contributions through pull requests are encouraged.
+-----
 
-## Table of Contents
+# Awesome Code-Mixing & Code-Switching
 
-- [🚀 Highlights](#-highlights)
-- [🏫 Workshops & Conferences](#-workshops--conferences)
-- [📚 Surveys & Literature Reviews](#-surveys--literature-reviews)
-- [🧠 Code-Mixed Language Analytics](#-code-mixed-language-analytics)
-  - [Natural Language Understanding](#natural-language-understanding)
-  - [Natural Language Generation](#natural-language-generation)
-- [📊 Datasets & Resources](#-datasets--resources)
-  - [Datasets](#datasets)
-  - [Frameworks & Toolkits](#frameworks--toolkits)
-- [🛠️ Model Training & Adaptation](#️-model-training--adaptation)
-  - [Pre-training Approaches](#pre-training-approaches)
-  - [Fine-tuning Approaches](#fine-tuning-approaches)
-  - [Post-training Approaches](#post-training-approaches)
-- [📏 Evaluation & Benchmarking](#-evaluation--benchmarking)
-  - [Benchmarks](#benchmarks)
-  - [Evaluation Metrics](#evaluation-metrics)
-- [🎥 Multi- & Cross-Modal Applications](#-multi--cross-modal-applications)
-  - [Speech Processing](#speech-processing)
-  - [Vision-Language Processing](#vision-language-processing)
-  - [Cross-Modal Integration](#cross-modal-integration)
-- [📖 Books & Theses](#-books--theses)
-- [🔧 Tools & Libraries](#-tools--libraries)
-- [👥 Contributors](#-contributors)
+\<p align="center"\>
+\<img src="[https://awesome.re/badge.svg](https://awesome.re/badge.svg)" alt="Awesome"\>
+\</p\>
 
-## 🚀 Highlights
+\<p align="center"\>
+A curated list of resources including papers, datasets, and toolkits dedicated to Code-Switching (CSW) and Code-Mixing research in Natural Language Processing.
+\</p\>
 
-- **The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges** - Comprehensive survey paper on code-switching research evolution
-- **NAACL 2025** - Code-switching workshop coming soon! 
-- **EMNLP 2023** - Successful code-switching workshop organized
-- **CodeMixEval** - Most extensive analytical framework for studying code-mixing in LLMs across 18 languages
-- **MEGAVERSE** - Benchmarking large language models across 22 datasets and 83 languages
+This collection, inspired by the survey paper **"Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models"**, presents tutorials, workshops, papers, and other resources focused on computational linguistics research in code-switching. The list will be continuously updated, and contributions through pull requests are encouraged.
 
-## 🏫 Workshops & Conferences
+For direct links to many of the papers listed below, please refer to this community-maintained spreadsheet: [Code-Switching Paper Links](https://docs.google.com/spreadsheets/d/1G1FbMDWZPvb6FLHCcohr9s7woc6uI-dzYGMNL_Px-2s/edit?usp=sharing)
 
-### Recent Workshops
-- **[CALCS 2025](https://aclanthology.org/2025.calcs-1.pdf)** - 7th Workshop on Computational Approaches to Linguistic Code-Switching
-- **[EMNLP 2023](https://github.com/gentaiscool/code-switching-papers)** - Code-switching workshop
-- **[FIRE 2020](https://github.com/goru001/nlp-for-hinglish)** - Dravidian-Codemix-HASOC workshop
+## 📑 Table of Contents
 
-### Upcoming Events
-- **NAACL 2025** - Code-switching workshop (details coming soon)
+  - [✨ Survey Papers](https://www.google.com/search?q=%23-survey-papers)
+  - [1. 📝 Natural Language Understanding (NLU) Tasks](https://www.google.com/search?q=%231--natural-language-understanding-nlu-tasks)
+      - [Language Identification (LID)](https://www.google.com/search?q=%23language-identification-lid)
+      - [Part-of-Speech (POS) Tagging](https://www.google.com/search?q=%23part-of-speech-pos-tagging)
+      - [Named Entity Recognition (NER)](https://www.google.com/search?q=%23named-entity-recognition-ner)
+      - [Sentiment & Emotion Analysis](https://www.google.com/search?q=%23sentiment--emotion-analysis)
+      - [Syntactic Analysis](https://www.google.com/search?q=%23syntactic-analysis)
+      - [Intent Classification](https://www.google.com/search?q=%23intent-classification)
+      - [Question Answering (QA)](https://www.google.com/search?q=%23question-answering-qa)
+      - [Natural Language Inference (NLI)](https://www.google.com/search?q=%23natural-language-inference-nli)
+  - [2. ✍️ Natural Language Generation (NLG) Tasks](https://www.google.com/search?q=%232-%EF%B8%8F-natural-language-generation-nlg-tasks)
+      - [Code-Mixed Text Generation](https://www.google.com/search?q=%23code-mixed-text-generation)
+      - [Machine Translation (MT)](https://www.google.com/search?q=%23machine-translation-mt)
+      - [Cross-lingual Transfer](https://www.google.com/search?q=%23cross-lingual-transfer)
+      - [Text Summarization](https://www.google.com/search?q=%23text-summarization)
+      - [Dialogue Generation](https://www.google.com/search?q=%23dialogue-generation)
+  - [3. 🧠 Model Training & Adaptation](https://www.google.com/search?q=%233--model-training--adaptation)
+      - [Pre-training Approaches](https://www.google.com/search?q=%23pre-training-approaches)
+      - [Fine-tuning Approaches](https://www.google.com/search?q=%23fine-tuning-approaches)
+      - [Post-training Approaches](https://www.google.com/search?q=%23post-training-approaches)
+  - [4. 📊 Evaluation & Benchmarking](https://www.google.com/search?q=%234--evaluation--benchmarking)
+      - [Benchmarks](https://www.google.com/search?q=%23benchmarks)
+      - [Evaluation Metrics](https://www.google.com/search?q=%23evaluation-metrics)
+  - [5. 🖼️ Multi- & Cross-Modal Applications](https://www.google.com/search?q=%235-%EF%B8%8F-multi--cross-modal-applications)
+      - [Speech Processing](https://www.google.com/search?q=%23speech-processing)
+      - [Vision-Language & Document Processing](https://www.google.com/search?q=%23vision-language--document-processing)
+      - [Cross-Modal Integration](https://www.google.com/search?q=%23cross-modal-integration)
+  - [6. 📚 Datasets & Resources](https://www.google.com/search?q=%236--datasets--resources)
+      - [Datasets](https://www.google.com/search?q=%23datasets)
+      - [Frameworks & Toolkits](https://www.google.com/search?q=%23frameworks--toolkits)
+  - [🏫 Workshops & Shared Tasks](https://www.google.com/search?q=%23-workshops--shared-tasks)
+  - [🤝 Contributing](https://www.google.com/search?q=%23-contributing)
 
-## 📚 Surveys & Literature Reviews
+## ✨ Survey Papers
 
-### Comprehensive Surveys
-- **[A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies](https://arxiv.org/abs/2301.01967)** (2023) - Doğruöz et al.
-- **[Code-Switching in End-to-End Automatic Speech Recognition: A Systematic Literature Review](https://arxiv.org/html/2507.07741v1)** (2025) - Agro et al.
-- **[Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models](file:2)** - Anonymous ACL submission covering 304 studies across 5 research areas
+  * Anonymous ACL Submission. (2025). Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models.
+  * Winata, G. I., Aji, A. F., Yong, Z. X., & Solorio, T. (2023). The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges. *ACL Findings*.
 
-### Specialized Reviews
-- **[Shared Lexical Items as Triggers of Code Switching](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00613/118711/)** (2023) - Wintner et al.
-- **[Analyzing the Role of Part-of-Speech in Code-Switching](https://aclanthology.org/2024.findings-eacl.120.pdf)** (2024) - Chi et al.
+## 1\. 📝 Natural Language Understanding (NLU) Tasks
 
-## 🧠 Code-Mixed Language Analytics
+### Language Identification (LID)
 
-### Natural Language Understanding
+  * Lambebo Tonja, A., et al. (2022). Transformer-based Model for Word Level Language Identification in Code-mixed Kannada-English Texts. *ICON*. [[Paper]](https://aclanthology.org/2022.icon-wlli.4/)
+  * Sterner, I., & Teufel, S. (2023). TongueSwitcher: Fine-Grained Identification of German-English Code-Switching. *CALCS, EMNLP*. [[Paper]](https://aclanthology.org/2023.calcs-1.1/)
+  * Kargaran, A. H., et al. (2024). MaskLID: Code-Switching Language Identification through Iterative Masking. *ACL*. [[Paper]](https://aclanthology.org/2024.acl-short.43/)
+  * Kuwanto, G., et al. (2024). Linguistics Theory Meets LLM: Code-Switched Text Generation via Equivalence Constrained Large Language Models. *ArXiv*. [[Paper]](https://api.semanticscholar.org/CorpusID:273695372)
+  * Iliescu, D.-M., et al. (2021). Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far can we get?. *CALCS, NAACL*. [[Paper]](https://aclanthology.org/2021.calcs-1.9/)
+  * Hossain, E., et al. (2021). NLP-CUET@LT-EDI-EACL2021: Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner. *LT-EDI, EACL*. [[Paper]](https://aclanthology.org/2021.ltedi-1.23)
+  * Dave, B., et al. (2021). IRNLP\_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL. *LT-EDI, EACL*. [[Paper]](https://aclanthology.org/2021.ltedi-1.15/)
 
-#### Language Identification
-- **TongueSwitcher** - Boundary detection enhancement for German-English CSW
-- **MaskLID** - Subdominant language pattern identification
-- **[COOLI](https://github.com/topics/code-mixed)** - Code-mixing offensive language identification
-- **Equivalence Constraint Theory** - Integration with transformers for grammatically valid switch points
+### Part-of-Speech (POS) Tagging
 
-#### POS Tagging
-- **XLM-RoBERTa** - Fine-tuning with S-index for Hinglish POS tagging
-- **[PRO-CS](https://aclanthology.org/2024.findings-naacl.198.pdf)** - Instance-based prompt composition for code-switched tasks
-- **CoMix** - POS-guided attention with phonetic signals
-- **PACMAN** - Parallel CodeMixed data generation for POS tagging
+  * Absar, S. (2025). Fine-tuning cross-lingual LLMs for POS tagging in code-switched contexts. *RESOURCEFUL*. `[Paper]`
+  * Aguilar, G., & Solorio, T. (2020). From English to code-switching: Transfer learning with strong morphological clues. *ACL*. `[Paper]` `[Code]`
+  * Dowlagar, S., & Mamidi, R. (2021). A pre-trained transformer and CNN model with joint language ID and part-of-speech tagging for code-mixed social-media text. *RANLP*. `[Paper]`
+  * Chopra, P., et al. (2021). Switch point biased self-training: Re-purposing pretrained models for code-switching. *EMNLP Findings*. `[Paper]`
 
-#### Named Entity Recognition
-- **Multi-CoNER** - Multilingual complex named entity recognition
-- **[CodemixedNLP](https://github.com/AI4Bharat/indicnlp_catalog)** - Toolkit supporting multilingual and Hinglish NER
-- **GLiNER** - Outperforms ChatGPT in zero-shot NER settings
-- **CMB Models** - Two-stage approach for Hinglish NER
+### Named Entity Recognition (NER)
 
-#### Sentiment & Emotion Analysis
-- **[HinglishNLP](https://github.com/TrigonaMinima/HinglishNLP)** - Comprehensive NLP resources for Hinglish
-- **EmoMix-3L** - Bangla-English-Hindi emotion classification
-- **OffMix-3L** - Trilingual offensive language identification
-- **DravidianCodeMix** - Sentiment analysis for Dravidian languages
+  * Wang, C., et al. (2018). Code-switched named entity recognition with embedding attention. *CALCS, ACL*. `[Paper]`
+  * Zhou, R., et al. (2022). MELM: Data augmentation with masked entity language modeling for low-resource NER. *ACL*. `[Paper]`
+  * Malmasi, S., et al. (2022). MultiCoNER: A large-scale multilingual and code-mixed dataset for complex NER. *NAACL*. `[Paper]`
+  * Zaratiana, U., et al. (2024). GLINER: Generalist model for named entity recognition using bidirectional transformer. *NAACL*. `[Paper]`
 
-### Natural Language Generation
+### Sentiment & Emotion Analysis
 
-#### Machine Translation
-- **[PHINC Corpus](https://www.kaggle.com/datasets/mrutyunjaybiswal/phincparallel-hinglish-corpus-machine-translation)** - Parallel Hinglish corpus for machine translation
-- **CoVoSwitch** - Prosody-aware synthetic data generation
-- **COMET-based** - Synthetic data boost for Indic translation
-- **Fine-tuned T5** - Strong CodeMix-to-English results
+  * Angel, J., et al. (2020). NLP-CIC at SemEval-2020 task 9: Analysing sentiment in code-switching language. *SemEval*. `[Paper]`
+  * Chakravarthi, B. R., et al. (2022). Dravidiancodemix: Sentiment analysis and offensive language identification dataset for dravidian languages in code-mixed text. *Language Resources and Evaluation*. `[Paper]`
+  * Zeng, L. (2024). Leveraging large language models for code-mixed data augmentation in sentiment analysis. *SICon*. `[Paper]`
 
-#### Text Generation
-- **[COMMIT](https://aclanthology.org/2024.findings-naacl.198.pdf)** - Code-mixing English-centric LLM for multilingual instruction tuning
-- **COCOA** - Strong English-Spanish generation
-- **EZSwitch** - Code-mixed text generation framework
-- **Dependency Tree Methods** - CSW text production without parallel corpora
+### Syntactic Analysis
 
-#### Dialogue & Conversation
-- **GupShup** - First code-mixed dialogue summarization dataset
-- **MulZDG** - Multilingual code-switching framework for zero-shot dialogue generation
-- **CST5** - Data augmentation for code-switched semantic parsing
+  * Kodali, P., et al. (2022). SyMCOM syntactic measure of code mixing a study of English-Hindi code-mixing. *ACL Findings*. `[Paper]`
+  * Ghosh, U., et al. (2019). Dependency parser for Bengali-English code-mixed data enhanced with a synthetic treebank. *TLT, Syntax Fest*. `[Paper]`
+  * Arora, G., et al. (2023). CoMix: Guide transformers to code-mix using POS structure and phonetics. *ACL Findings*. `[Paper]`
 
-## 📊 Datasets & Resources
+### Intent Classification
 
-### Datasets
+  * Krishnan, J., et al. (2021). Multilingual code-switching for zero-shot cross-lingual intent prediction and slot filling. *MRL, EMNLP*. `[Paper]`
+  * Bansal, S., et al. (2022). PRO-CS: An instance-based prompt composition technique for code-switched tasks. *EMNLP*. `[Paper]` `[Code]`
 
-#### Multilingual Coverage
-- **[MEGAVERSE](https://arxiv.org/abs/2410.13394)** - 83 languages across 22 datasets
-- **SwitchLingua** - 420k texts, 80+ hours across 12 languages
-- **GLUECoS** - Comprehensive benchmark for code-switched tasks
-- **X-RiSAWOZ** - 18k+ utterances per language
+### Question Answering (QA)
 
-#### Low-Resource Coverage
-- **BnSentMix** - Bengali-English code-mixed sentiment dataset
-- **DravidianCodeMix** - Tamil, Kannada, Malayalam-English datasets
-- **KRCS** - Kazakh-Russian code-switching corpus
-- **AfroCS-xs** - 4 African languages + English agricultural domain
+  * Gupta, D., et al. (2018). Uncovering code-mixed challenges: A framework for linguistically driven question generation and neural based question answering. *CoNLL*. `[Paper]`
+  * Lee, J., et al. (2024). COMMIT: Code-mixing English-centric large language model for multilingual instruction tuning. *NAACL Findings*. `[Paper]` `[Code]`
+  * Ahuja, S., et al. (2024). MEGAVERSE: Benchmarking large language models across languages, modalities, models and tasks. *NAACL*. `[Paper]`
 
-#### Hinglish Specialized
-- **[Hinglish Language Corpus](https://data.mendeley.com/datasets/vdtcp2yt9n/3)** - Synthetic and manually written Hinglish sentences
-- **[Hinglish Everyday Conversations](https://huggingface.co/datasets/Abhishekcr448/Hinglish-Everyday-Conversations-1M)** - 1M synthetic Hinglish conversations
-- **L3Cube-HingCorpus** - Used for HingBERT training
-- **IIIT-H en-hi-codemixed-corpus** - Gold standard parallel corpus
+### Natural Language Inference (NLI)
 
-#### Speech Datasets
-- **ASCEND** - Mandarin-English conversational dataset
-- **SEAME** - Mandarin-English-Hokkien three-language mixing
-- **CI-AVSR** - Cantonese audio-visual speech dataset
-- **English-isiZulu CS** - Low-resource African language dataset
+  * Khanuja, S., et al. (2020). A new dataset for natural language inference from code-mixed conversations. *CALCS, LREC*. `[Paper]`
+  * Qin, L., et al. (2020). Cosda-ml: Multi-lingual code-switching data augmentation for zero-shot cross-lingual nlp. *IJCAI*. `[Paper]` `[Code]`
+  * Shankar, B., et al. (2024). In-context mixing (ICM): Code-mixed prompts for multilingual LLMs. *ACL*. `[Paper]`
 
-### Frameworks & Toolkits
+## 2\. ✍️ Natural Language Generation (NLG) Tasks
 
-#### Annotation Frameworks
-- **COMMENTATOR** - LLM-integrated robust text annotation
-- **CoSSAT** - Speech annotation enablement
-- **ToxVidLM** - Multimodal video toxicity detection
+### Code-Mixed Text Generation
 
-#### Synthetic Data Generation
-- **GCM** - Open-source code-mixed text generation
-- **[CodemixedNLP](https://github.com/sagorbrur/codeswitch)** - Language identification, POS, NER, sentiment analysis toolkit
-- **VACS** - Text generation with variational autoencoder
-- **SynCS** - Zero-shot gains through synthetic data
+  * Tarunesh, I., et al. (2021). From machine translation to code-switching: Generating high-quality code-switched text. *ACL*. `[Paper]`
+  * Mondal, S., et al. (2022). CoCoa: An encoder-decoder model for controllable code-switched generation. *EMNLP*. `[Paper]` `[Code]`
+  * Yong, Z. X., et al. (2023). Prompting multilingual large language models to generate code-mixed texts. *CALCS, EMNLP*. `[Paper]`
 
-## 🛠️ Model Training & Adaptation
+### Machine Translation (MT)
+
+  * Gupta, A., et al. (2021). Training data augmentation for code-mixed translation. *NAACL*. `[Paper]`
+  * Dowlagar, S., & Mamidi, R. (2021). Gated convolutional sequence to sequence based learning for English-hingilsh code-switched machine translation. *CALCS, NAACL*. `[Paper]`
+  * Chatterjee, A., et al. (2023). Lost in translation no more: Fine-tuned transformer-based models for CodeMix to English machine translation. *ICON*. `[Paper]`
+
+### Cross-lingual Transfer
+
+  * Li, Z., et al. (2024). Improving zero-shot cross-lingual transfer via progressive code-switching. *ArXiv*. `[Paper]`
+  * Lee, D., et al. (2021). Scopa: Soft code-switching and pairwise alignment for zero-shot cross-lingual transfer. *CIKM*. `[Paper]`
+  * Yoo, H., et al. (2025). Code-switching curriculum learning for multilingual transfer in LLMs. *ACL Findings*. `[Paper]`
+
+### Text Summarization
+
+  * Mehnaz, L., et al. (2021). GupShup: Summarizing open-domain code-switched conversations. *EMNLP*. `[Paper]` `[Dataset]`
+  * Zhang, R., & Eickhoff, C. (2024). CroCoSum: A benchmark dataset for cross-lingual code-switched summarization. *LREC-COLING*. `[Paper]`
+  * Suresh, S. K., et al. (2025). Cs-sum: A benchmark for code-switching dialogue summarization and the limits of large language models. *ArXiv*. `[Paper]`
+
+### Dialogue Generation
+
+  * Liu, Y., et al. (2022). MulZDG: Multilingual code-switching framework for zero-shot dialogue generation. *COLING*. `[Paper]`
+  * Agarwal, A., et al. (2023). CST5: Data augmentation for code-switched semantic parsing. *Taming Large Language Models*. `[Paper]`
+
+## 3\. 🧠 Model Training & Adaptation
 
 ### Pre-training Approaches
 
-#### Specialized Code-Mixed Models
-- **[HingBERT](https://github.com/l3cube-pune/MarathiNLP)** - Outperforms mBERT on GLUECoS
-- **CoMix** - Translation boost by 12.98 BLEU
-- **CMLFormer** - Dual-decoder with switching point learning
-- **CMCLIP** - 5-10% improvement over baselines
-
-#### Task-Adaptive Pre-Training
-- **Boundary-aware MLM** - Improves QA/SA performance
-- **Alignment-based pre-training** - +7.32% SA, +0.76% NER, +1.9% QA
-- **SynCS** - +10.14 points in Chinese performance
+  * **Specialized Code-Mixed Models**:
+      * Nayak, R., & Joshi, R. (2022). L3Cube-HingCorpus and HingBERT: A code mixed Hindi-English dataset and BERT language models. *WILDRE, LREC*. `[Paper]` `[Models]`
+  * **Task-Adaptive Pre-Training (TAPT)**:
+      * Gururangan, S., et al. (2020). Don't Stop Pretraining: Adapt Language Models to Domains and Tasks. *ACL*. `[Paper]`
+  * **Cross-lingual Alignment**:
+      * Lample, G., et al. (2018). Word translation without parallel data. *ICLR*. `[Paper]`
 
 ### Fine-tuning Approaches
 
-#### Task-Specific Fine-tuning
-- **XLM-RoBERTa** - S-index for switching intensity measurement
-- **Transformer models** - State-of-the-art Kannada-English LID
-- **mBART/mT5** - Enhanced fluency for Hinglish
-
-#### Multi-task Fine-tuning
-- **Intermediate-task mBERT** - 2-3% improvement on GLUECoS
-- **Joint training** - Boosts offensive LID and NER
-- **AdapterFusion** - Modular approaches for zero-shot transfer
+  * **Task-specific fine-tuning**:
+      * Yoo, H., et al. (2025). Code-switching curriculum learning for multilingual transfer in LLMs. *ACL Findings*. `[Paper]`
+  * **Multi-task fine-tuning**:
+      * Aguilar, G., et al. (2020). LinCE: A centralized benchmark for linguistic code-switching evaluation. *LREC*. `[Paper]`
+  * **Instruction Tuning**:
+      * Lee, J., et al. (2024). COMMIT: Code-mixing English-centric large language model for multilingual instruction tuning. *NAACL Findings*. `[Paper]` `[Code]`
+  * **Parameter Efficient Methods (PEFT)**:
+      * Srivastava, V. (2025). Dwesh Vaani: An LLM for detecting religious hate speech in code-mixed Hindi-English. *CHIPSAL*. `[Paper]`
 
 ### Post-training Approaches
 
-#### Few-shot & Zero-shot Learning
-- **EntityCS** - 10% gain in slot filling with Wikidata
-- **CoSDA-ML** - 0.70 score for zero-shot NER
-- **ChatGPT prompting** - Various few-shot approaches
-- **RAG-based learning** - 63.03 score for hate speech detection
+  * **Zero-, One- and Few-shot Learning**:
+      * Winata, G. I., et al. (2021). Are Multilingual Models Effective in Code-Switching?. *CALCS, NAACL*. `[Paper]`
+  * **Instance-based Prompting**:
+      * Bansal, S., et al. (2022). PRO-CS: An instance-based prompt composition technique for code-switched tasks. *EMNLP*. `[Paper]` `[Code]`
 
-#### Instance-based Prompting
-- **PRO-CS** - 10-15% improvement in NER and POS tagging
-- **GLOSS** - 55% BLEU/METEOR gains through self-training
-- **In-Context Mixing** - 5-8% improvement in intent classification
-
-## 📏 Evaluation & Benchmarking
+## 4\. 📊 Evaluation & Benchmarking
 
 ### Benchmarks
 
-#### Comprehensive Benchmarks
-- **[CodeMixEval](https://arxiv.org/pdf/2507.18791.pdf)** - 18 languages from 7 language families
-- **[MMLU-ProX](https://mmluprox.github.io)** - 29 languages multilingual benchmark
-- **GLUECoS** - Multi-task evaluation framework
-- **LinCE** - Centralized benchmark for linguistic code-switching
-
-#### Domain-Specific Benchmarks
-- **CodeMixBench** - 5k+ Hinglish, Spanish-English, Chinese Pinyin-English prompts
-- **Medical Dialogue Dataset** - Telugu-English with 3k dialogs
-- **CroCoSum** - Manually annotated summarization data
+  * Khanuja, S., et al. (2020). GLUECOS: An evaluation benchmark for code-switched NLP. *ACL*. `[Paper]` `[Dataset]`
+  * Aguilar, G., et al. (2020). LinCE: A centralized benchmark for linguistic code-switching evaluation. *LREC*. `[Paper]`
+  * Ahuja, S., et al. (2024). MEGAVERSE: Benchmarking large language models across languages, modalities, models and tasks. *NAACL*. `[Paper]`
+  * Sheokand, M., et al. (2025). CodeMixBench: A new benchmark for generating code from code-mixed prompts. *ICON*. `[Paper]`
 
 ### Evaluation Metrics
 
-#### Traditional Metrics
-- **F1, Precision, Recall** - Classification tasks
-- **BLEU, ROUGE, METEOR** - Generative tasks
-- **Accuracy measures** - General performance
+  * **CS-Specific Metrics**:
+      * Kodali, P., et al. (2022). SyMCOM syntactic measure of code mixing a study of English-Hindi code-mixing. *ACL Findings*. `[Paper]`
+  * **Task-Specific Metrics**:
+      * Popović, M. (2015). chrF: character n-gram F-score for automatic MT evaluation. *WMT*. `[Paper]`
+  * **Quality Assessment**:
+      * Reimers, N., & Gurevych, I. (2020). Making monolingual sentence embeddings multilingual using knowledge distillation. *EMNLP*. `[Paper]` `[Code]`
 
-#### CS-Specific Metrics
-- **Code-Mixing Index (CMI)** - Word-level mixing measurement
-- **SyMCoM** - Grammatical well-formedness evaluation
-- **I-Index** - Switch-point integration assessment
-- **HinglishEval** - Linguistic metrics with embeddings
-
-#### Task-Specific Metrics
-- **Semantic-Aware Error Rate (SAER)** - Enhanced ASR evaluation
-- **PhoBLEU** - Orthographic variation handling
-- **chrF++** - Character n-grams for morphologically rich languages
-
-## 🎥 Multi- & Cross-Modal Applications
+## 5\. 🖼️ Multi- & Cross-Modal Applications
 
 ### Speech Processing
 
-#### Speech Translation & ASR
-- **Whisper-based segmentation** - Korean-English CS data generation
-- **Wav2Vec2/GPT-2 fusion** - Enhanced performance across Indian languages
-- **MoE with SC-LLMs** - Audio-visual integration for Mandarin-English
-- **Transformer-based** - Hindi-Marathi ASR
+  * Weller, O., et al. (2022). End-to-end speech translation for code switched speech. *ACL Findings*. `[Paper]`
+  * Dai, W., et al. (2022). CI-AVSR: A Cantonese audio-visual speech dataset- for in-car command recognition. *LREC*. `[Paper]`
+  * Kronis, M., et al. (2024). Code-mixed text augmentation for Latvian ASR. *LREC-COLING*. `[Paper]`
 
-#### Audio-Visual Recognition
-- **CI-AVSR** - Enhanced visual features in Mandarin-English
-- **Low-resource enhancement** - Yoruba-English ASR improvements
-- **Multimodal fusion** - Audio, visual, textual cue integration
+### Vision-Language & Document Processing
 
-### Vision-Language Processing
-
-#### Multimodal VQA
-- **Knowledge distillation** - Hinglish systems for code-mixed queries
-- **BanglAssist** - RAG for Bengali-English CSW
-- **Cross-modal alignment** - Vision-language integration
-
-#### Document Processing
-- **Multilingual OCR** - Robust extraction capabilities
-- **Contrastive learning** - Vietnamese-English analysis improvement
+  * Raj Khan, H., et al. (2021). Towards developing a multilingual and code-mixed visual question answering system by knowledge distillation. *EMNLP Findings*. `[Paper]`
+  * Ahuja, S., et al. (2024). MEGAVERSE: Benchmarking large language models across languages, modalities, models and tasks. *NAACL*. `[Paper]`
 
 ### Cross-Modal Integration
 
-#### Phonetic & Multimodal Processing
-- **Discriminative language modeling** - Multilingual CSW enhancement
-- **Transliteration** - Agglutinative language support
-- **Transformer-based phonetic guidance** - CSW phonetic task improvement
+  * Chi, J., & Bell, P. (2022). Improving code-switched ASR with linguistic information. *COLING*. `[Paper]`
+  * Srivastava, V. (2025). Dwesh Vaani: An LLM for detecting religious hate speech in code-mixed Hindi-English. *CHIPSAL*. `[Paper]`
 
-## 📖 Books & Theses
+## 6\. 📚 Datasets & Resources
 
-### Books
-- **Multilingual NLP** - Comprehensive guide to multilingual processing
-- **Code-Switching: Theory and Practice** - Linguistic foundations
+### Datasets
 
-### Theses
-- **Understanding and Modeling Code-Switching** - Edinburgh Research Archive
-- **Code-Mixing in Social Media** - Computational approaches
-- **Multilingual Neural Networks** - Advanced architectures
+  * **Low-Resource Coverage**:
+      * Borisov, M., et al. (2025). Low-resource machine translation for code-switched Kazakh-Russian language pair. *NAACL*. `[Paper]`
+      * Samih, Y., & Maier, W. (2016). An Arabic-Moroccan Darija code-switched corpus. *LREC*. `[Paper]`
+  * **Multilingual Coverage**:
+      * Xie, P., et al. (2025). Switchlingua: The first large-scale multilingual and multi-ethnic code-switching dataset. *ArXiv*. `[Paper]`
+  * **Synthetic Data Generation**:
+      * Kuwanto, G., et al. (2024). Linguistics theory meets llm: Code-switched text generation via equivalence constrained large language models. *ArXiv*. `[Paper]`
 
-## 🔧 Tools & Libraries
+### Frameworks & Toolkits
 
-### General NLP Libraries
-- **[polyglot](https://sunscrapers.com/blog/9-best-python-natural-language-processing-nlp/)** - Multilingual NLP library with 130+ languages
-- **[Indic NLP Library](https://github.com/AI4Bharat/indicnlp_catalog)** - Comprehensive Indian language NLP toolkit
-- **[iNLTK](https://github.com/AI4Bharat/indicnlp_catalog)** - Out-of-box support for Indic languages
+  * **Annotation Frameworks**:
+      * Sheth, R., et al. (2024). Commentator: A code-mixed multilingual text annotation framework. *EMNLP*. `[Paper]`
+  * **Synthetic Data Generation Toolkits**:
+      * Gautam, D., et al. (2021). CoMeT: Towards code-mixed translation using parallel monolingual sentences. *CALCS, NAACL*. `[Paper]`
+      * Potter, T., & Yuan, Z. (2024). LLM-based code-switched text generation for grammatical error correction. *EMNLP*. `[Paper]`
 
-### Code-Switching Specific
-- **[CodeSwitch](https://github.com/sagorbrur/codeswitch)** - Language identification, POS tagging, NER, sentiment analysis
-- **[HinglishNLP](https://github.com/TrigonaMinima/HinglishNLP)** - Comprehensive Hinglish NLP resources
-- **Sanskrit Coders Indic Transliteration** - Script conversion and romanization
+## 🏫 Workshops & Shared Tasks
 
-### Research Frameworks
-- **[ULCA](https://github.com/AI4Bharat/indicnlp_catalog)** - Universal Language Contribution API
-- **[AI4Bharat](https://github.com/AI4Bharat/indicnlp_catalog)** - Indian language technologies
-- **LTRC** - Language Technologies Research Center tools
+A list of the code-switching workshop series and related events:
 
-## Contributing
+  * [First Workshop on Processing Code-Mixed Social Media Text (LingoMix 2018)](https://lingo.iitgn.ac.in/codemixing/)
+  * First Workshop on Computational Approaches to Code-switching, EMNLP 2014
+  * Second Workshop on Computational Approaches to Code-switching, EMNLP 2016
+  * Third Workshop on Computational Approaches to Linguistic Code-switching, ACL 2018
+  * Fourth Workshop on Computational Approaches to Linguistic Code-switching, LREC 2020
+  * Fifth Workshop on Computational Approaches to Linguistic Code-switching, NAACL 2021
+  * Sixth Workshop on Computational Approaches to Linguistic Code-switching, EMNLP 2023
+  * Seventh Workshop on Computational Approaches to Linguistic Code-switching, NAACL 2025
 
-We welcome contributions! Please see our [contribution guidelines](CONTRIBUTING.md) for more information.
+## 🤝 Contributing
 
-### How to Contribute
-1. Fork the repository
-2. Add your resource in the appropriate section
-3. Follow the existing format
-4. Submit a pull request
-5. Ensure your addition includes proper citations and links
-
-## 👥 Contributors
-
-Thanks to all the researchers and developers who have contributed to this awesome list!
-
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This work is licensed under CC0 1.0 Universal.
-
----
-
-**Maintained by**: Research Community  
-**Last Updated**: January 2025  
-**Total Resources**: 200+ papers, datasets, and tools
-
-> "Code-switching is not a deficient form of language use but a sophisticated linguistic skill that reflects the multilingual reality of global communication." - Computational Linguistics Community
+Your contributions are always welcome\! Please read the `CONTRIBUTING.md` file first. If you have a paper, dataset, or tool you'd like to add, please send a pull request to update the list and become one of our contributors\! We especially welcome additions of `[Paper]` and `[Code]` links.
