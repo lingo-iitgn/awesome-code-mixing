@@ -1,11 +1,15 @@
 
-# Awesome Code-Mixing & Code-Switching
+Awesome Code-Mixing & Code-Switching
+<p align="center">
+<img src="https://awesome.re/badge.svg" alt="Awesome">
+</p>
 
+<p align="center">
+A curated list of resources including papers, datasets, and toolkits dedicated to Code-Switching (CSW) and Code-Mixing research in Natural Language Processing.
+</p>
 
+This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models", presents tutorials, workshops, papers, and other resources focused on computational linguistics research in code-switching. The list will be continuously updated, and contributions through pull requests are encouraged.
 
-This collection, inspired by the survey paper **"Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models"**, presents tutorials, workshops, papers, and other resources focused on computational linguistics research in code-switching. The list will be continuously updated, and contributions through pull requests are encouraged.
-
-For direct links to many of the papers listed below, please refer to this community-maintained spreadsheet: [Code-Switching Paper Links](https://docs.google.com/spreadsheets/d/1G1FbMDWZPvb6FLHCcohr9s7woc6uI-dzYGMNL_Px-2s/edit?usp=sharing)
 
 ## 📑 Table of Contents
 
