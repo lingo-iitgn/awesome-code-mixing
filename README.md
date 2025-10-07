@@ -1,18 +1,7 @@
-Of course\! I've updated the README to be more "awesome" and resourceful, incorporating your provided links and structuring it perfectly according to your taxonomy image. The new `Language Identification` section is now populated with your links, and the rest of the structure is ready for you to continue adding more.
-
-Here is the detailed and updated `README.md` for your `awesome-code-mixing` repository.
-
------
 
 # Awesome Code-Mixing & Code-Switching
 
-\<p align="center"\>
-\<img src="[https://awesome.re/badge.svg](https://awesome.re/badge.svg)" alt="Awesome"\>
-\</p\>
 
-\<p align="center"\>
-A curated list of resources including papers, datasets, and toolkits dedicated to Code-Switching (CSW) and Code-Mixing research in Natural Language Processing.
-\</p\>
 
 This collection, inspired by the survey paper **"Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models"**, presents tutorials, workshops, papers, and other resources focused on computational linguistics research in code-switching. The list will be continuously updated, and contributions through pull requests are encouraged.
 
