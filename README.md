@@ -49,7 +49,9 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
 
   * Winata, G. I., Aji, A. F., Yong, Z. X., & Solorio, T. (2023). The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges. *ACL Findings*.
 
-## 1\. Natural Language Understanding (NLU) Tasks
+##1\. NLP Tasks  
+
+## 1.1\. Natural Language Understanding (NLU) Tasks
 
 ### Language Identification (LID)
 
@@ -104,7 +106,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Qin, L., et al. (2020). Cosda-ml: Multi-lingual code-switching data augmentation for zero-shot cross-lingual nlp. *IJCAI*. `[Paper]` `[Code]`
   * Shankar, B., et al. (2024). In-context mixing (ICM): Code-mixed prompts for multilingual LLMs. *ACL*. `[Paper]`
 
-## 2\. Natural Language Generation (NLG) Tasks
+## 1.2\. Natural Language Generation (NLG) Tasks
 
 ### Code-Mixed Text Generation
 
