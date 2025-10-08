@@ -45,9 +45,8 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   - [🏫 Workshops & Shared Tasks](https://www.google.com/search?q=%23-workshops--shared-tasks)
   - [🤝 Contributing](https://www.google.com/search?q=%23-contributing)
 
-## ✨ Survey Papers
+##  Survey Papers
 
-  * Anonymous ACL Submission. (2025). Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models.
   * Winata, G. I., Aji, A. F., Yong, Z. X., & Solorio, T. (2023). The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges. *ACL Findings*.
 
 ## 1\. 📝 Natural Language Understanding (NLU) Tasks
