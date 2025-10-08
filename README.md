@@ -17,7 +17,7 @@
 
 *Click on any link to jump to the corresponding section on this page.*
 * [Survey Papers](#survey-papers)
-  * [1. Natural Language Understanding (NLU) Tasks](#11-natural-language-understanding-nlu-tasks)
+  * [1. Natural Language Understanding (NLU) Tasks](#1-natural-language-understanding-nlu-tasks)
       * [Language Identification (LID)](#language-identification-lid)
       * [Part-of-Speech (POS) Tagging](#part-of-speech-pos-tagging)
       * [Named Entity Recognition (NER)](#named-entity-recognition-ner)
@@ -26,7 +26,7 @@
       * [Intent Classification](#intent-classification)
       * [Question Answering (QA)](#question-answering-qa)
       * [Natural Language Inference (NLI)](#natural-language-inference-nli)
-  * [2. Natural Language Generation (NLG) Tasks](#12-natural-language-generation-nlg-tasks)
+  * [2. Natural Language Generation (NLG) Tasks](#2-natural-language-generation-nlg-tasks)
       * [Code-Mixed Text Generation](#code-mixed-text-generation)
       * [Machine Translation (MT)](#machine-translation-mt)
       * [Cross-lingual Transfer](#cross-lingual-transfer)
