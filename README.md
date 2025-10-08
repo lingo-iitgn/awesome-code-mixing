@@ -12,46 +12,45 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
 
 ## Table of Contents
 
-  - [Survey Papers](https://www.google.com/search?q=%23-survey-papers)
-  - [1. NLP Tasks](https://www.google.com/search?q=%231--natural-language-understanding-nlu-tasks)
+- [1. NLP Tasks](#1-nlp-tasks)
   - [1.1 Natural Language Understanding (NLU) Tasks](#11-natural-language-understanding-nlu-tasks)
-      - [Language Identification (LID)](https://www.google.com/search?q=%23language-identification-lid)
-      - [Part-of-Speech (POS) Tagging](https://www.google.com/search?q=%23part-of-speech-pos-tagging)
-      - [Named Entity Recognition (NER)](https://www.google.com/search?q=%23named-entity-recognition-ner)
-      - [Sentiment & Emotion Analysis](https://www.google.com/search?q=%23sentiment--emotion-analysis)
-      - [Syntactic Analysis](https://www.google.com/search?q=%23syntactic-analysis)
-      - [Intent Classification](https://www.google.com/search?q=%23intent-classification)
-      - [Question Answering (QA)](https://www.google.com/search?q=%23question-answering-qa)
-      - [Natural Language Inference (NLI)](https://www.google.com/search?q=%23natural-language-inference-nli)
-  - [1.2 Natural Language Generation (NLG) Tasks](#12-natural-language-understanding-nlu-tasks)
-      - [Code-Mixed Text Generation](https://www.google.com/search?q=%23code-mixed-text-generation)
-      - [Machine Translation (MT)](https://www.google.com/search?q=%23machine-translation-mt)
-      - [Cross-lingual Transfer](https://www.google.com/search?q=%23cross-lingual-transfer)
-      - [Text Summarization](https://www.google.com/search?q=%23text-summarization)
-      - [Dialogue Generation](https://www.google.com/search?q=%23dialogue-generation)
-  - [3. Model Training & Adaptation](https://www.google.com/search?q=%233--model-training--adaptation)
-      - [Pre-training Approaches](https://www.google.com/search?q=%23pre-training-approaches)
-      - [Fine-tuning Approaches](https://www.google.com/search?q=%23fine-tuning-approaches)
-      - [Post-training Approaches](https://www.google.com/search?q=%23post-training-approaches)
-  - [4. Evaluation & Benchmarking](https://www.google.com/search?q=%234--evaluation--benchmarking)
-      - [Benchmarks](https://www.google.com/search?q=%23benchmarks)
-      - [Evaluation Metrics](https://www.google.com/search?q=%23evaluation-metrics)
-  - [5. Multi- & Cross-Modal Applications](https://www.google.com/search?q=%235-%EF%B8%8F-multi--cross-modal-applications)
-      - [Speech Processing](https://www.google.com/search?q=%23speech-processing)
-      - [Vision-Language & Document Processing](https://www.google.com/search?q=%23vision-language--document-processing)
-      - [Cross-Modal Integration](https://www.google.com/search?q=%23cross-modal-integration)
-  - [6. Datasets & Resources](https://www.google.com/search?q=%236--datasets--resources)
-      - [Datasets](https://www.google.com/search?q=%23datasets)
-      - [Frameworks & Toolkits](https://www.google.com/search?q=%23frameworks--toolkits)
-  - [Workshops & Shared Tasks](https://www.google.com/search?q=%23-workshops--shared-tasks)
+      - [Language Identification (LID)](#language-identification-lid)
+      - [Part-of-Speech (POS) Tagging](#part-of-speech-pos-tagging)
+      - [Named Entity Recognition (NER)](#named-entity-recognition-ner)
+      - [Sentiment & Emotion Analysis](#sentiment--emotion-analysis)
+      - [Syntactic Analysis](#syntactic-analysis)
+      - [Intent Classification](#intent-classification)
+      - [Question Answering (QA)](#question-answering-qa)
+      - [Natural Language Inference (NLI)](#natural-language-inference-nli)
+  - [1.2 Natural Language Generation (NLG) Tasks](#12-natural-language-generation-nlg-tasks)
+      - [Code-Mixed Text Generation](#code-mixed-text-generation)
+      - [Machine Translation (MT)](#machine-translation-mt)
+      - [Cross-lingual Transfer](#cross-lingual-transfer)
+      - [Text Summarization](#text-summarization)
+      - [Dialogue Generation](#dialogue-generation)
+  - [3. Model Training & Adaptation](#3-model-training--adaptation)
+      - [Pre-training Approaches](#pre-training-approaches)
+      - [Fine-tuning Approaches](#fine-tuning-approaches)
+      - [Post-training Approaches](#post-training-approaches)
+  - [4. Evaluation & Benchmarking](#4-evaluation--benchmarking)
+      - [Benchmarks](#benchmarks)
+      - [Evaluation Metrics](#evaluation-metrics)
+  - [5. Multi- & Cross-Modal Applications](#5-multi--cross-modal-applications)
+      - [Speech Processing](#speech-processing)
+      - [Vision-Language & Document Processing](#vision-language--document-processing)
+      - [Cross-Modal Integration](#cross-modal-integration)
+  - [6. Datasets & Resources](#6-datasets--resources)
+      - [Datasets](#datasets)
+      - [Frameworks & Toolkits](#frameworks--toolkits)
+  - [Workshops & Shared Tasks](#workshops--shared-tasks)
 
-##  Survey Papers
+## Survey Papers
 
   * Winata, G. I., Aji, A. F., Yong, Z. X., & Solorio, T. (2023). The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges. *ACL Findings*.
 
-##1\. NLP Tasks  
+## 1. NLP Tasks
 
-## 1.1\. Natural Language Understanding (NLU) Tasks
+## 1.1. Natural Language Understanding (NLU) Tasks
 
 ### Language Identification (LID)
 
@@ -61,7 +60,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Kuwanto, G., et al. (2024). Linguistics Theory Meets LLM: Code-Switched Text Generation via Equivalence Constrained Large Language Models. *ArXiv*. [[Paper]](https://api.semanticscholar.org/CorpusID:273695372)
   * Iliescu, D.-M., et al. (2021). Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far can we get?. *CALCS, NAACL*. [[Paper]](https://aclanthology.org/2021.calcs-1.9/)
   * Hossain, E., et al. (2021). NLP-CUET@LT-EDI-EACL2021: Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner. *LT-EDI, EACL*. [[Paper]](https://aclanthology.org/2021.ltedi-1.23)
-  * Dave, B., et al. (2021). IRNLP\_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL. *LT-EDI, EACL*. [[Paper]](https://aclanthology.org/2021.ltedi-1.15/)
+  * Dave, B., et al. (2021). IRNLP_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL. *LT-EDI, EACL*. [[Paper]](https://aclanthology.org/2021.ltedi-1.15/)
 
 ### Part-of-Speech (POS) Tagging
 
@@ -106,7 +105,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Qin, L., et al. (2020). Cosda-ml: Multi-lingual code-switching data augmentation for zero-shot cross-lingual nlp. *IJCAI*. `[Paper]` `[Code]`
   * Shankar, B., et al. (2024). In-context mixing (ICM): Code-mixed prompts for multilingual LLMs. *ACL*. `[Paper]`
 
-## 1.2\. Natural Language Generation (NLG) Tasks
+## 1.2. Natural Language Generation (NLG) Tasks
 
 ### Code-Mixed Text Generation
 
@@ -137,7 +136,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Liu, Y., et al. (2022). MulZDG: Multilingual code-switching framework for zero-shot dialogue generation. *COLING*. `[Paper]`
   * Agarwal, A., et al. (2023). CST5: Data augmentation for code-switched semantic parsing. *Taming Large Language Models*. `[Paper]`
 
-## 3\. Model Training & Adaptation
+## 3. Model Training & Adaptation
 
 ### Pre-training Approaches
 
@@ -166,7 +165,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * **Instance-based Prompting**:
       * Bansal, S., et al. (2022). PRO-CS: An instance-based prompt composition technique for code-switched tasks. *EMNLP*. `[Paper]` `[Code]`
 
-## 4\. Evaluation & Benchmarking
+## 4. Evaluation & Benchmarking
 
 ### Benchmarks
 
@@ -184,7 +183,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * **Quality Assessment**:
       * Reimers, N., & Gurevych, I. (2020). Making monolingual sentence embeddings multilingual using knowledge distillation. *EMNLP*. `[Paper]` `[Code]`
 
-## 5\. Multi- & Cross-Modal Applications
+## 5. Multi- & Cross-Modal Applications
 
 ### Speech Processing
 
@@ -202,7 +201,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Chi, J., & Bell, P. (2022). Improving code-switched ASR with linguistic information. *COLING*. `[Paper]`
   * Srivastava, V. (2025). Dwesh Vaani: An LLM for detecting religious hate speech in code-mixed Hindi-English. *CHIPSAL*. `[Paper]`
 
-## 6\. Datasets & Resources
+## 6. Datasets & Resources
 
 ### Datasets
 
@@ -233,4 +232,5 @@ A list of the code-switching workshop series and related events:
   * Fifth Workshop on Computational Approaches to Linguistic Code-switching, NAACL 2021
   * Sixth Workshop on Computational Approaches to Linguistic Code-switching, EMNLP 2023
   * Seventh Workshop on Computational Approaches to Linguistic Code-switching, NAACL 2025
+
 
