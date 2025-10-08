@@ -2,10 +2,10 @@
 
 # Awesome Code-Mixing & Code-Switching
 
-\<p align="center"\>
-\<a href="[https://awesome.re](https://awesome.re)"\>\<img src="[https://awesome.re/badge.svg](https://awesome.re/badge.svg)" alt="Awesome"\>\</a\>
-\<a href="https://www.google.com/search?q=%23contributing"\>\<img src="[https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/PRs-welcome-brightgreen.svg%3Fstyle%3Dflat-square)" alt="PRs Welcome"\>\</a\>
-\</p\>
+<p align="center"\>
+<a href="[https://awesome.re](https://awesome.re)"\>\<img src="[https://awesome.re/badge.svg](https://awesome.re/badge.svg)" alt="Awesome"\>\</a\>
+<a href="https://www.google.com/search?q=%23contributing"\>\<img src="[https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/PRs-welcome-brightgreen.svg%3Fstyle%3Dflat-square)" alt="PRs Welcome"\>\</a\>
+</p>
 
 > A curated list of awesome papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing.
 
@@ -16,7 +16,7 @@ Inspired by the survey paper "Beyond Monolingual Assumptions," this collection a
 *Click on any link to jump to the corresponding section on this page.*
 
   * [Survey Papers](https://www.google.com/search?q=%23survey-papers)
-  * [1. Natural Language Understanding (NLU) Tasks](https://www.google.com/search?q=%231-natural-language-understanding-nlu-tasks)
+  * [1. Natural Language Understanding (NLU) Tasks]()
       * [Language Identification (LID)](https://www.google.com/search?q=%23language-identification-lid)
       * [Part-of-Speech (POS) Tagging](https://www.google.com/search?q=%23part-of-speech-tagging)
       * [Named Entity Recognition (NER)](https://www.google.com/search?q=%23named-entity-recognition-ner)
@@ -54,8 +54,6 @@ Inspired by the survey paper "Beyond Monolingual Assumptions," this collection a
 ## Survey Papers
 
 > Comprehensive reviews of the code-switching research landscape. A great place to start.
-
-  * **[Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models](https://aclanthology.org/2023.calcs-1.1/)** - *Anonymous (2025)*.
   * **[The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges](https://aclanthology.org/2023.findings-acl.185/)** - *Winata, G. I., et al. (2023)*.
   * **[Challenges of Computational Processing of Code-Switching](https://aclanthology.org/W16-5801/)** - *Çetinoğlu, Ö., et al. (2016)*.
 
