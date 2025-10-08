@@ -232,6 +232,3 @@ A list of the code-switching workshop series and related events:
   * Sixth Workshop on Computational Approaches to Linguistic Code-switching, EMNLP 2023
   * Seventh Workshop on Computational Approaches to Linguistic Code-switching, NAACL 2025
 
-## 🤝 Contributing
-
-Your contributions are always welcome\! Please read the `CONTRIBUTING.md` file first. If you have a paper, dataset, or tool you'd like to add, please send a pull request to update the list and become one of our contributors\! We especially welcome additions of `[Paper]` and `[Code]` links.
