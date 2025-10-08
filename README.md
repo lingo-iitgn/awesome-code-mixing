@@ -46,7 +46,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
 
 ## Survey Papers
 
-  * Winata, G. I., Aji, A. F., Yong, Z. X., & Solorio, T. (2023). The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges. *ACL Findings*.
+  * Winata, G. I., Aji, A. F., Yong, Z. X., & Solorio, T. (2023). The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges. *ACL Findings*. [[Paper]](https://aclanthology.org/2023.findings-acl.185.pdf)
 
 ## 1. NLP Tasks
 
