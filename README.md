@@ -14,7 +14,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
 
   - [Survey Papers](https://www.google.com/search?q=%23-survey-papers)
   - [1. NLP Tasks](https://www.google.com/search?q=%231--natural-language-understanding-nlu-tasks)
-  - [1.1 Natural Language Understanding (NLU) Tasks](https://www.google.com/search?q=%231--natural-language-understanding-nlu-tasks)
+  - [1.1 Natural Language Understanding (NLU) Tasks](#11-natural-language-understanding-nlu-tasks)
       - [Language Identification (LID)](https://www.google.com/search?q=%23language-identification-lid)
       - [Part-of-Speech (POS) Tagging](https://www.google.com/search?q=%23part-of-speech-pos-tagging)
       - [Named Entity Recognition (NER)](https://www.google.com/search?q=%23named-entity-recognition-ner)
@@ -23,7 +23,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
       - [Intent Classification](https://www.google.com/search?q=%23intent-classification)
       - [Question Answering (QA)](https://www.google.com/search?q=%23question-answering-qa)
       - [Natural Language Inference (NLI)](https://www.google.com/search?q=%23natural-language-inference-nli)
-  - [1.2 Natural Language Generation (NLG) Tasks](https://www.google.com/search?q=%232-%EF%B8%8F-natural-language-generation-nlg-tasks)
+  - [1.2 Natural Language Generation (NLG) Tasks](#12-natural-language-understanding-nlu-tasks)
       - [Code-Mixed Text Generation](https://www.google.com/search?q=%23code-mixed-text-generation)
       - [Machine Translation (MT)](https://www.google.com/search?q=%23machine-translation-mt)
       - [Cross-lingual Transfer](https://www.google.com/search?q=%23cross-lingual-transfer)
