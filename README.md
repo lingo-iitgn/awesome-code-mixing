@@ -224,7 +224,6 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
 
 A list of the code-switching workshop series and related events:
 
-  * [First Workshop on Processing Code-Mixed Social Media Text (LingoMix 2018)](https://lingo.iitgn.ac.in/codemixing/)
   * First Workshop on Computational Approaches to Code-switching, EMNLP 2014
   * Second Workshop on Computational Approaches to Code-switching, EMNLP 2016
   * Third Workshop on Computational Approaches to Linguistic Code-switching, ACL 2018
