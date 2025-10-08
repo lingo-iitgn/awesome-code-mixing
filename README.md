@@ -10,10 +10,10 @@ A curated list of resources including papers, datasets, and toolkits dedicated t
 This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models", presents tutorials, workshops, papers, and other resources focused on computational linguistics research in code-switching. The list will be continuously updated, and contributions through pull requests are encouraged.
 
 
-## 📑 Table of Contents
+## Table of Contents
 
-  - [✨ Survey Papers](https://www.google.com/search?q=%23-survey-papers)
-  - [1. 📝 Natural Language Understanding (NLU) Tasks](https://www.google.com/search?q=%231--natural-language-understanding-nlu-tasks)
+  - [Survey Papers](https://www.google.com/search?q=%23-survey-papers)
+  - [1. Natural Language Understanding (NLU) Tasks](https://www.google.com/search?q=%231--natural-language-understanding-nlu-tasks)
       - [Language Identification (LID)](https://www.google.com/search?q=%23language-identification-lid)
       - [Part-of-Speech (POS) Tagging](https://www.google.com/search?q=%23part-of-speech-pos-tagging)
       - [Named Entity Recognition (NER)](https://www.google.com/search?q=%23named-entity-recognition-ner)
@@ -22,34 +22,33 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
       - [Intent Classification](https://www.google.com/search?q=%23intent-classification)
       - [Question Answering (QA)](https://www.google.com/search?q=%23question-answering-qa)
       - [Natural Language Inference (NLI)](https://www.google.com/search?q=%23natural-language-inference-nli)
-  - [2. ✍️ Natural Language Generation (NLG) Tasks](https://www.google.com/search?q=%232-%EF%B8%8F-natural-language-generation-nlg-tasks)
+  - [2. Natural Language Generation (NLG) Tasks](https://www.google.com/search?q=%232-%EF%B8%8F-natural-language-generation-nlg-tasks)
       - [Code-Mixed Text Generation](https://www.google.com/search?q=%23code-mixed-text-generation)
       - [Machine Translation (MT)](https://www.google.com/search?q=%23machine-translation-mt)
       - [Cross-lingual Transfer](https://www.google.com/search?q=%23cross-lingual-transfer)
       - [Text Summarization](https://www.google.com/search?q=%23text-summarization)
       - [Dialogue Generation](https://www.google.com/search?q=%23dialogue-generation)
-  - [3. 🧠 Model Training & Adaptation](https://www.google.com/search?q=%233--model-training--adaptation)
+  - [3. Model Training & Adaptation](https://www.google.com/search?q=%233--model-training--adaptation)
       - [Pre-training Approaches](https://www.google.com/search?q=%23pre-training-approaches)
       - [Fine-tuning Approaches](https://www.google.com/search?q=%23fine-tuning-approaches)
       - [Post-training Approaches](https://www.google.com/search?q=%23post-training-approaches)
-  - [4. 📊 Evaluation & Benchmarking](https://www.google.com/search?q=%234--evaluation--benchmarking)
+  - [4. Evaluation & Benchmarking](https://www.google.com/search?q=%234--evaluation--benchmarking)
       - [Benchmarks](https://www.google.com/search?q=%23benchmarks)
       - [Evaluation Metrics](https://www.google.com/search?q=%23evaluation-metrics)
-  - [5. 🖼️ Multi- & Cross-Modal Applications](https://www.google.com/search?q=%235-%EF%B8%8F-multi--cross-modal-applications)
+  - [5. Multi- & Cross-Modal Applications](https://www.google.com/search?q=%235-%EF%B8%8F-multi--cross-modal-applications)
       - [Speech Processing](https://www.google.com/search?q=%23speech-processing)
       - [Vision-Language & Document Processing](https://www.google.com/search?q=%23vision-language--document-processing)
       - [Cross-Modal Integration](https://www.google.com/search?q=%23cross-modal-integration)
-  - [6. 📚 Datasets & Resources](https://www.google.com/search?q=%236--datasets--resources)
+  - [6. Datasets & Resources](https://www.google.com/search?q=%236--datasets--resources)
       - [Datasets](https://www.google.com/search?q=%23datasets)
       - [Frameworks & Toolkits](https://www.google.com/search?q=%23frameworks--toolkits)
-  - [🏫 Workshops & Shared Tasks](https://www.google.com/search?q=%23-workshops--shared-tasks)
-  - [🤝 Contributing](https://www.google.com/search?q=%23-contributing)
+  - [Workshops & Shared Tasks](https://www.google.com/search?q=%23-workshops--shared-tasks)
 
 ##  Survey Papers
 
   * Winata, G. I., Aji, A. F., Yong, Z. X., & Solorio, T. (2023). The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges. *ACL Findings*.
 
-## 1\. 📝 Natural Language Understanding (NLU) Tasks
+## 1\. Natural Language Understanding (NLU) Tasks
 
 ### Language Identification (LID)
 
@@ -104,7 +103,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Qin, L., et al. (2020). Cosda-ml: Multi-lingual code-switching data augmentation for zero-shot cross-lingual nlp. *IJCAI*. `[Paper]` `[Code]`
   * Shankar, B., et al. (2024). In-context mixing (ICM): Code-mixed prompts for multilingual LLMs. *ACL*. `[Paper]`
 
-## 2\. ✍️ Natural Language Generation (NLG) Tasks
+## 2\. Natural Language Generation (NLG) Tasks
 
 ### Code-Mixed Text Generation
 
@@ -135,7 +134,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Liu, Y., et al. (2022). MulZDG: Multilingual code-switching framework for zero-shot dialogue generation. *COLING*. `[Paper]`
   * Agarwal, A., et al. (2023). CST5: Data augmentation for code-switched semantic parsing. *Taming Large Language Models*. `[Paper]`
 
-## 3\. 🧠 Model Training & Adaptation
+## 3\. Model Training & Adaptation
 
 ### Pre-training Approaches
 
@@ -164,7 +163,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * **Instance-based Prompting**:
       * Bansal, S., et al. (2022). PRO-CS: An instance-based prompt composition technique for code-switched tasks. *EMNLP*. `[Paper]` `[Code]`
 
-## 4\. 📊 Evaluation & Benchmarking
+## 4\. Evaluation & Benchmarking
 
 ### Benchmarks
 
@@ -182,7 +181,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * **Quality Assessment**:
       * Reimers, N., & Gurevych, I. (2020). Making monolingual sentence embeddings multilingual using knowledge distillation. *EMNLP*. `[Paper]` `[Code]`
 
-## 5\. 🖼️ Multi- & Cross-Modal Applications
+## 5\. Multi- & Cross-Modal Applications
 
 ### Speech Processing
 
@@ -200,7 +199,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
   * Chi, J., & Bell, P. (2022). Improving code-switched ASR with linguistic information. *COLING*. `[Paper]`
   * Srivastava, V. (2025). Dwesh Vaani: An LLM for detecting religious hate speech in code-mixed Hindi-English. *CHIPSAL*. `[Paper]`
 
-## 6\. 📚 Datasets & Resources
+## 6\. Datasets & Resources
 
 ### Datasets
 
@@ -220,7 +219,7 @@ This collection, inspired by the survey paper "Beyond Monolingual Assumptions: A
       * Gautam, D., et al. (2021). CoMeT: Towards code-mixed translation using parallel monolingual sentences. *CALCS, NAACL*. `[Paper]`
       * Potter, T., & Yuan, Z. (2024). LLM-based code-switched text generation for grammatical error correction. *EMNLP*. `[Paper]`
 
-## 🏫 Workshops & Shared Tasks
+## Workshops & Shared Tasks
 
 A list of the code-switching workshop series and related events:
 
