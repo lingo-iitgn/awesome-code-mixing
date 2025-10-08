@@ -2,14 +2,16 @@
 
 # Awesome Code-Mixing & Code-Switching
 
-<p align="center"\>
-<a href="[https://awesome.re](https://awesome.re)"\>\<img src="[https://awesome.re/badge.svg](https://awesome.re/badge.svg)" alt="Awesome"\>\</a\>
-<a href="https://www.google.com/search?q=%23contributing"\>\<img src="[https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/PRs-welcome-brightgreen.svg%3Fstyle%3Dflat-square)" alt="PRs Welcome"\>\</a\>
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+  <a href="https://www.google.com/search?q=%23contributing">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
 </p>
 
 > A curated list of awesome papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing.
-
-Inspired by the survey paper "Beyond Monolingual Assumptions," this collection aims to be the go-to resource for researchers and developers working with mixed-language data.
 
 ## Table of Contents
 
@@ -17,7 +19,7 @@ Inspired by the survey paper "Beyond Monolingual Assumptions," this collection a
 
   * [Survey Papers](https://www.google.com/search?q=%23survey-papers)
   * [1. Natural Language Understanding (NLU) Tasks]()
-      * [Language Identification (LID)](https://www.google.com/search?q=%23language-identification-lid)
+      * [Language Identification (LID)](<a href="#language-identificationlid">)
       * [Part-of-Speech (POS) Tagging](https://www.google.com/search?q=%23part-of-speech-tagging)
       * [Named Entity Recognition (NER)](https://www.google.com/search?q=%23named-entity-recognition-ner)
       * [Sentiment & Emotion Analysis](https://www.google.com/search?q=%23sentiment--emotion-analysis)
