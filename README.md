@@ -262,7 +262,6 @@
 
 > A list of academic workshops and community shared tasks dedicated to code-switching.
 
-  * **[LingoMix 2018](https://lingo.iitgn.ac.in/codemixing/)**: First Workshop on Processing Code-Mixed Social Media Text.
   * **CALCS @ EMNLP 2014, 2016, 2023**: Workshop on Computational Approaches to Linguistic Code-Switching.
   * **CALCS @ ACL 2018**: Workshop on Computational Approaches to Linguistic Code-Switching.
   * **CALCS @ LREC 2020**: Workshop on Computational Approaches to Linguistic Code-Switching.
