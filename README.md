@@ -34,6 +34,9 @@
       * [Text Summarization](#text-summarization)
       * [Dialogue Generation](#dialogue-generation)
       * [Transliteration](#transliteration)
+  * [2. Datasets & Resources](#2-datasets--resources)
+      * [Datasets](#datasets)
+      * [Frameworks & Toolkits](#frameworks--toolkits)
   * [3. Model Training & Adaptation](#3-model-training--adaptation)
       * [Pre-training Approaches](#pre-training-approaches)
       * [Fine-tuning Approaches](#fine-tuning-approaches)
@@ -45,15 +48,10 @@
       * [Speech Processing](#speech-processing)
       * [Vision-Language & Document Processing](#vision-language--document-processing)
       * [Cross-Modal Integration](#cross-modal-integration)
-  * [6. Datasets & Resources](#6-datasets--resources)
-      * [Datasets](#datasets)
-      * [Frameworks & Toolkits](#frameworks--toolkits)
   * [Workshops & Shared Tasks](#workshops--shared-tasks)
   * [Contributing](#contributing)
 
 -----
-
-#samridhi lingo
 
 ## Survey Papers
 
@@ -174,6 +172,26 @@
 
 -----
 
+## 2\. Datasets & Resources
+
+> Corpora, toolkits, and frameworks to support your research.
+
+### Datasets
+
+  * **[HiACC: Hinglish adult & children code-switched corpus](https://doi.org/10.1016/j.dib.2025.111886)** - *Singh, S., et al. (2025)*.
+  * **[AfroCS-xs: Creating a Compact, High-Quality, Human-Validated Code-Switched Dataset for African Languages](https://aclanthology.org/2025.acl-long.1601/)** - *Olaleye, K., et al. (2025)*.
+  * **[OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification](https://aclanthology.org/2023.socialnlp-1.3/)** - *Goswami, D., et al. (2023)*.
+  * **[My Boli: A Comprehensive Suite of Corpora and Pre-trained Models for Marathi-English Code-Mixing](https://aclanthology.org/2023.eacl-main.249)** - *Joshi, A., et al. (2023)*.
+
+### Frameworks & Toolkits
+
+  * **[CoSSAT: Code-Switched Speech Annotation Tool](https://aclanthology.org/D19-5907/)** - *Shah, S., et al. (2019)*.
+  * **[Commentator: A Code-mixed Multilingual Text Annotation Framework](https://aclanthology.org/2024.emnlp-demo.11)** - *Sheth, R., et al. (2024)*.
+  * **[CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing](https://aclanthology.org/2021.calcs-1.14/)** - *Jayanthi, S. M., et al. (2021)*.
+  * **[GCM: A Toolkit for Generating Synthetic Code-mixed Text](https://aclanthology.org/2021.eacl-demos.24/)** - *Rizvi, M. S. Z., et al. (2021)*.
+
+-----
+
 ## 3\. Model Training & Adaptation
 
 > Techniques for building and adapting models to understand and generate code-mixed language.
@@ -219,7 +237,7 @@
 
 -----
 
-## 5\. Multi- & Cross-Modal Applications
+## 5\. Multi & Cross-Modal Applications
 
 > Applying code-switching NLP to speech, vision, and other modalities.
 
@@ -241,25 +259,6 @@
 
 -----
 
-## 6\. Datasets & Resources
-
-> Corpora, toolkits, and frameworks to support your research.
-
-### Datasets
-
-  * **[HiACC: Hinglish adult & children code-switched corpus](https://doi.org/10.1016/j.dib.2025.111886)** - *Singh, S., et al. (2025)*.
-  * **[AfroCS-xs: Creating a Compact, High-Quality, Human-Validated Code-Switched Dataset for African Languages](https://aclanthology.org/2025.acl-long.1601/)** - *Olaleye, K., et al. (2025)*.
-  * **[OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification](https://aclanthology.org/2023.socialnlp-1.3/)** - *Goswami, D., et al. (2023)*.
-  * **[My Boli: A Comprehensive Suite of Corpora and Pre-trained Models for Marathi-English Code-Mixing](https://aclanthology.org/2023.eacl-main.249)** - *Joshi, A., et al. (2023)*.
-
-### Frameworks & Toolkits
-
-  * **[CoSSAT: Code-Switched Speech Annotation Tool](https://aclanthology.org/D19-5907/)** - *Shah, S., et al. (2019)*.
-  * **[Commentator: A Code-mixed Multilingual Text Annotation Framework](https://aclanthology.org/2024.emnlp-demo.11)** - *Sheth, R., et al. (2024)*.
-  * **[CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing](https://aclanthology.org/2021.calcs-1.14/)** - *Jayanthi, S. M., et al. (2021)*.
-  * **[GCM: A Toolkit for Generating Synthetic Code-mixed Text](https://aclanthology.org/2021.eacl-demos.24/)** - *Rizvi, M. S. Z., et al. (2021)*.
-
------
 
 ## Workshops & Shared Tasks
 
