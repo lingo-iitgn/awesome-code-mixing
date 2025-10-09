@@ -264,13 +264,13 @@
 
 > A list of academic workshops and community shared tasks dedicated to code-switching.
 
-  * [**CALCS 2018**: Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/volumes/W18-32/).
-  * [**CALCS 2020**: Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/2020.calcs-1.0/).
-  * [**CALCS 2021**: Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/events/calcs-2021/).
-  * [**WILDRE-6 2022**: Workshop within the 13th Language Resources and Evaluation Conference](https://aclanthology.org/volumes/2022.wildre-1/).
-  * [**ICON 2022**: 19th International Conference on Natural Language Processing (ICON)](https://aclanthology.org/volumes/2022.icon-wlli/).
-  * [**CALCS 2023**: 6th Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/events/calcs-2023/).
-  * [**CALCS 2025**: 7th Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/volumes/2025.calcs-1/).
+  * [**CALCS 2018:** Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/volumes/W18-32/).
+  * [**CALCS 2020:** Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/2020.calcs-1.0/).
+  * [**CALCS 2021:** Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/events/calcs-2021/).
+  * [**WILDRE-6 2022:** Workshop within the 13th Language Resources and Evaluation Conference](https://aclanthology.org/volumes/2022.wildre-1/).
+  * [**ICON 2022:** 19th International Conference on Natural Language Processing (ICON)](https://aclanthology.org/volumes/2022.icon-wlli/).
+  * [**CALCS 2023:** 6th Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/events/calcs-2023/).
+  * [**CALCS 2025:** 7th Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/volumes/2025.calcs-1/).
 
 -----
 
