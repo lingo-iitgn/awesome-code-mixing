@@ -264,7 +264,6 @@
 
 > A list of academic workshops and community shared tasks dedicated to code-switching.
 
-  * [**CALCS @ EMNLP 2014**: Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/events/emnlp-2014/).
   * [**CALCS @ ACL 2018**: Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/volumes/W18-32/).
   * [**CALCS @ LREC 2020**: Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/2020.calcs-1.0/).
   * [**CALCS @ NAACL 2021**: Workshop on Computational Approaches to Linguistic Code-Switching](https://aclanthology.org/events/calcs-2021/).
