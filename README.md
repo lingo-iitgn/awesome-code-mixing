@@ -195,12 +195,12 @@
   * **[Improving Code-Switching Dependency Parsing with Semi-Supervised Auxiliary Tasks](https://aclanthology.org/2022.findings-naacl.87/)** - *Özateş, Ş. B., et al. (2022)*.
   * **[CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics](https://aclanthology.org/2023.findings-acl.506.pdf)** - *Arora, G., et al. (2023)*.
   * **[CST5: Data Augmentation for Code-Switched Semantic Parsing](https://aclanthology.org/2023.tllm-1.1.pdf)** - *Agarwal, A., et al. (2023)*.
-  * **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Kodali, P., et al. (2025)*.
   * **[Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data](https://aclanthology.org/2024.lrec-main.307.pdf)** - *Peng, S., et al. (2024)*.
   * **[Towards Safer Communities: Detecting Aggression and Offensive Language in Code-Mixed Tweets to Combat Cyberbullying](https://aclanthology.org/2024.emnlp-main.942.pdf)** - *Nafis, N., et al. (2024)*.
   * **[Fine-Tuning Cross-Lingual LLMs for POS Tagging in Code-Switched Contexts](https://aclanthology.org/2024.findings-emnlp.916.pdf)** - *Absar, S. (2024)*.
   * **[Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation](https://aclanthology.org/2024.lrec-main.698.pdf)** - *Doğruöz, A. S., et al. (2024)*.
   * **[A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions](https://aclanthology.org/2025.americasnlp-1.2.pdf)** - *Hamed, I., et al. (2025)*.
+  * **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Kodali, P., et al. (2025)*.
 
   
 ### Intent Classification
