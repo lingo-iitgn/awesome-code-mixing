@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> A curated list of awesome papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing.
+> A curated list of papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing.
 
 ## Table of Contents
 
@@ -56,9 +56,12 @@
 ## Survey Papers
 
 > Comprehensive reviews of the code-switching research landscape. A great place to start.
-  * **[The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges](https://aclanthology.org/2023.findings-acl.185/)** - *Winata, G. I., et al. (2023)*.
   * **[Challenges of Computational Processing of Code-Switching](https://aclanthology.org/W16-5801/)** - *Çetinoğlu, Ö., et al. (2016)*.
-
+  * **[A Survey of Current Datasets for Code-Switching Research](https://ieeexplore.ieee.org/document/9074205)** - *Jose, N., et al. (2020)*.
+  * **[A Survey of Code-switched Speech and Language Processing](https://arxiv.org/pdf/1904.00784)** - *Sitaram, S., et al. (2020)*.
+  * **[A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies](https://aclanthology.org/2021.acl-long.131/)** - *Doğruöz, A. S., et al. (2021)*.
+  * **[The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges](https://aclanthology.org/2023.findings-acl.185/)** - *Winata, G. I., et al. (2023)*.
+  * **[A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions](https://aclanthology.org/2025.coling-main.307/)** - *Hamed, I., et al. (2025)*.
 -----
 
 ## 1\. NLP Tasks
