@@ -185,11 +185,24 @@
   
 
 ### Syntactic Analysis
-
-  * **[Dependency Parser for Bengali-English Code-Mixed Data enhanced with a Synthetic Treebank](https://aclanthology.org/W19-7810/)** - *Ghosh, U., et al. (2019)*.
-  * **[SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing](https://aclanthology.org/2022.findings-acl.40/)** - *Kodali, P., et al. (2022)*.
+  * **[Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning](https://aclanthology.org/W18-3207.pdf)** - *Winata, G. I., et al. (2018)*.
+  * **[Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data](https://aclanthology.org/P18-1143.pdf)** - *Pratapa, A., et al. (2018)*.
+  * **[Dependency Parser for Bengali-English Code-Mixed Data enhanced with a Synthetic Treebank](https://aclanthology.org/W19-7810.pdf)** - *Ghosh, U., et al. (2019)*.
+  * **[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206.pdf)** - *Gupta, D., et al. (2020)*.
+  * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.acl-long.245.pdf)** - *Tarunesh, I., et al. (2021)*.
+  * **[PreCogIIITH at HinglishEval : Leveraging Code-Mixing Metrics & Language Model Embeddings To Estimate Code-Mix Quality](https://aclanthology.org/2022.inlg-genchal.4.pdf)** - *Kodali, P., et al. (2022)*.
+  *  **[SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing](https://aclanthology.org/2022.findings-acl.40/)** - *Kodali, P., et al. (2022)*.
   * **[Improving Code-Switching Dependency Parsing with Semi-Supervised Auxiliary Tasks](https://aclanthology.org/2022.findings-naacl.87/)** - *Özateş, Ş. B., et al. (2022)*.
+  * **[CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics](https://aclanthology.org/2023.findings-acl.506.pdf)** - *Arora, G., et al. (2023)*.
+  * **[CST5: Data Augmentation for Code-Switched Semantic Parsing](https://aclanthology.org/2023.tllm-1.1.pdf)** - *Agarwal, A., et al. (2023)*.
+  * **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Kodali, P., et al. (2025)*.
+  * **[Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data](https://aclanthology.org/2024.lrec-main.307.pdf)** - *Peng, S., et al. (2024)*.
+  * **[Towards Safer Communities: Detecting Aggression and Offensive Language in Code-Mixed Tweets to Combat Cyberbullying](https://aclanthology.org/2024.emnlp-main.942.pdf)** - *Nafis, N., et al. (2024)*.
+  * **[Fine-Tuning Cross-Lingual LLMs for POS Tagging in Code-Switched Contexts](https://aclanthology.org/2024.findings-emnlp.916.pdf)** - *Absar, S. (2024)*.
+  * **[Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation](https://aclanthology.org/2024.lrec-main.698.pdf)** - *Doğruöz, A. S., et al. (2024)*.
+  * **[A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions](https://aclanthology.org/2025.americasnlp-1.2.pdf)** - *Hamed, I., et al. (2025)*.
 
+  
 ### Intent Classification
 
   * **[IIT Gandhinagar at SemEval-2020 Task 9: Code-Mixed Sentiment Classification Using Candidate Sentence Generation and Selection](https://aclanthology.org/2020.semeval-1.168/)** - *Srivastava, V. & Singh, M. (2020)*.
