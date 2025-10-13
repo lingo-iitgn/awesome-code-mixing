@@ -120,12 +120,23 @@
 
 ### Named Entity Recognition (NER)
 
+  * **[Tackling Code-Switched NER: Participation of CMU](https://aclanthology.org/W18-3217.pdf)** - *Geetha, P., et al. (2018)*.
   * **[Cross Script Hindi English NER Corpus from Wikipedia](https://arxiv.org/abs/1810.03430)** - *Ansari, M. Z., et al. (2019)*.
   * **[Character level neural architectures for boosting named entity recognition in code mixed tweets](https://api.semanticscholar.org/CorpusID:216587955)** - *Narayanan, A., et al. (2020)*.
+  * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Qin, L., et al. (2020)*.
+  * **[Contextual Embeddings for Arabic-English Code-Switched Data](https://aclanthology.org/2020.wanlp-1.20.pdf)** - *Sabty, C., et al. (2020)*.
   * **[Named Entity Recognition for Code Mixed Social Media Sentences](https://api.semanticscholar.org/CorpusID:232434202)** - *Sharma, Y., et al. (2021)*.
+  * **[Switch Point biased Self-Training: Re-purposing Pretrained Models for Code-Switching](https://aclanthology.org/2021.findings-emnlp.373.pdf)** - *Chopra, P., et al. (2021)*.
   * **[Performance analysis of named entity recognition approaches on code-mixed data](https://api.semanticscholar.org/CorpusID:243100435)** - *Gaddamidi, S. & Prasath, R. R. (2021)*.
+  * **[Are Multilingual Models Effective in Code-Switching?](https://aclanthology.org/2021.calcs-1.20.pdf)** - *Winata, G. I., et al. (2021)*.
   * **[CMNEROne at SemEval-2022 Task 11: Code-Mixed Named Entity Recognition by leveraging multilingual data](https://aclanthology.org/2022.semeval-1.214/)** - *Dowlagar, S. & Mamidi, R. (2022)*.
+  * **[UM6P-CS at SemEval-2022 Task 11: Enhancing Multilingual and Code-Mixed Complex Named Entity Recognition via Pseudo Labels using Multilingual Transformer](https://aclanthology.org/2022.semeval-1.207.pdf)** - *El Mekki, A., et al. (2022)*.
   * **["Kanglish alli names\!" Named Entity Recognition for Kannada-English Code-Mixed Social Media Data](https://aclanthology.org/2022.wnut-1.17/)** - *S, Sumukh & Shrivastava, M. (2022)*.
+  * **[MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER](https://aclanthology.org/2022.acl-long.160.pdf)** - *Zhou, R., et al. (2022)*.
+  * **[CMB AI Lab at SemEval-2022 Task 11: A Two-Stage Approach for Complex Named Entity Recognition via Span Boundary Detection and Span Classification](https://aclanthology.org/2022.semeval-1.221.pdf)** - *PU, K., et al. (2022)*.
+  * **[On Utilizing Constituent Language Resources to Improve Downstream Tasks in Hinglish](https://aclanthology.org/2022.findings-emnlp.283.pdf)** - *Kumar, V., et al. (2022)*.
+  * **[COCOA: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Mondal, S., et al. (2022)*.
+  * **[Sebastian, Basti, Wastl?! Recognizing Named Entities in Bavarian Dialectal Data](https://aclanthology.org/2024.lrec-main.1262.pdf)** - *Peng, S., et al. (2024)*.
   * **[GPT-NER: Named Entity Recognition via Large Language Models](https://aclanthology.org/2025.findings-naacl.239/)** - *Wang, S., et al. (2025)*.
 
 ### Sentiment & Emotion Analysis
