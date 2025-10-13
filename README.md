@@ -71,17 +71,33 @@
 
 ### Language Identification (LID)
 
+
   * **[Word-level Language Identification using CRF: Code-switching Shared Task Report of MSR India System](https://aclanthology.org/W14-3908/)** - *Chittaranjan, G., et al. (2014)*.
   * **[Word Level Language Identification in English Telugu Code Mixed Data](https://aclanthology.org/Y18-1021/)** - *Gundapu, S. & Mamidi, R. (2018)*.
   * **[A fast, compact, accurate model for language identification of codemixed text](https://arxiv.org/abs/1810.04142)** - *Zhang, Y., et al. (2018)*.
   * **[Language identification framework in code-mixed social media text based on quantum LSTM](https://api.semanticscholar.org/CorpusID:214459891)** - *Shekhar, S., et al. (2020)*.
+  * **[A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42.pdf)** - *Dowlagar, S., et al. (2021)*.
   * **[Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far can we get?](https://aclanthology.org/2021.calcs-1.9/)** - *Iliescu, D.-M., et al. (2021)*.
   * **[IRNLP\_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL](https://aclanthology.org/2021.ltedi-1.15/)** - *Dave, B., et al. (2021)*.
   * **[Transformer-based Model for Word Level Language Identification in Code-mixed Kannada-English Texts](https://aclanthology.org/2022.icon-wlli.4/)** - *Lambebo Tonja, A., et al. (2022)*.
+  * **[Transformer-based Model for Word Level Language Identification in Code-mixed Kannada-English Texts](https://aclanthology.org/2022.icon-wlli.4.pdf)** - *Tonja, A. L., et al. (2022)*.
   * **[TongueSwitcher: Fine-Grained Identification of German-English Code-Switching](https://aclanthology.org/2023.calcs-1.1/)** - *Sterner, I., & Teufel, S. (2023)*.
+* **[Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation](https://aclanthology.org/2023.findings-emnlp.382.pdf)** - *Doğruöz, A. S., et al. (2023)*.
+  * **[Multilingual Large Language Models Are Not (Yet) Code-Switchers](https://aclanthology.org/2023.emnlp-main.774.pdf)** - *Zhang, R., et al. (2023)*.
+* **[Code-Switched Language Identification is Harder Than You Think](https://aclanthology.org/2024.eacl-long.38.pdf)** - *Burchell, L., et al. (2024)*.
+  * **[Multilingual Identification of English Code-Switching](https://aclanthology.org/2024.vardial-1.14.pdf)** - *Sterner, I. (2024)*.
   * **[MaskLID: Code-Switching Language Identification through Iterative Masking](https://aclanthology.org/2024.acl-short.43/)** - *Kargaran, A. H., et al. (2024)*.
   * **[Hope Speech Detection in code-mixed Roman Urdu tweets](https://api.semanticscholar.org/CorpusID:280011615)** - *Ahmad, M., et al. (2025)*.
   
+#### Offensive Language Identification 
+
+  * **[MUCS@DravidianLangTech-EACL2021:COOLI-Code-Mixing Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.47.pdf)** - *Balouchzahi, F., et al. (2021)*.
+  * **[SJ AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44.pdf)** - *Jayanthi, S. M., et al. (2021)*.
+  * **[DravidianCodeMix: Sentiment Analysis and Offensive Language Identification Dataset for Dravidian Languages in Code-Mixed Text](https://link.springer.com/article/10.1007/s10579-022-09583-7)** - *Chakravarthi, B. R., et al. (2022)*.
+  * **[Offensive Language Identification in Transliterated and Code-Mixed Bangla](https://aclanthology.org/2023.banglalp-1.1.pdf)** - *Raihan, M. N., et al. (2023)*.
+  * **[OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification](https://aclanthology.org/2023.socialnlp-1.3/)** - *Goswami, D., et al. (2023)*.
+  * **[Towards Safer Communities: Detecting Aggression and Offensive Language in Code-Mixed Tweets to Combat Cyberbullying](https://aclanthology.org/2023.woah-1.3.pdf)** - *Nafis, N., et al. (2023)*.
+  * **[Offensive Content Detection Via Synthetic Code-Switched Text](https://aclanthology.org/2022.coling-1.575.pdf)** - *Salaam, C., et al. (2022)*.
 
 ### Part-of-Speech (POS) Tagging
   * **[POS Tagging of English-Hindi Code-Mixed Social Media Content](https://aclanthology.org/D14-1105/)** - *Vyas, Y., et al. (2014)*.
