@@ -208,6 +208,7 @@
   * **[IIT Gandhinagar at SemEval-2020 Task 9: Code-Mixed Sentiment Classification Using Candidate Sentence Generation and Selection](https://aclanthology.org/2020.semeval-1.168/)** - *Srivastava, V. & Singh, M. (2020)*.
   * **[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18/)** - *Krishnan, J., et al. (2021)*.
   * **[Regional language code-switching for natural language understanding and intelligent digital assistants](https://doi.org/10.1007/978-981-16-0749-3_71)** - *Rajeshwari, S. & Kallimani, J. S. (2021)*.
+  * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Nag, A., et al. (2024)*.
 
 ### Question Answering (QA)
 
