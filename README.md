@@ -214,7 +214,15 @@
 
   * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering](https://aclanthology.org/K18-1012/)** - *Gupta, D., et al. (2018)*.
   * **[Code-Mixed Question Answering Challenge using Deep Learning Methods](https://www.google.com/search?q=https://doi.org/10.1109/ICCES48766.2020.9137971)** - *Thara, S., et al. (2020)*.
-  * **[MLQA: Evaluating Cross-lingual Extractive Question Answering](https://aclanthology.org/2020.acl-main.653/)** - *Lewis, P., et al. (2020)*.
+  * **[MLQA: Evaluating Cross-lingual Extractive Question Answering](https://aclanthology.org/2020.acl-main.653/)** - *Lewis, P., et al. (2020)*
+  * **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Prasad, A., et al. (2021)*.
+  * **[To Ask LLMs about English Grammaticality, Prompt Them in a Different Language](https://aclanthology.org/2024.findings-emnlp.916.pdf)** - *Behzad, S., et al. (2024)*.
+  * **[COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning](https://aclanthology.org/2024.findings-naacl.198.pdf)** - *Lee, J., et al. (2024)*.
+  * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143/)** - *Ahuja, S., et al. (2024)*.
+  * **[Controlling Language Confusion in Multilingual LLMs](https://aclanthology.org/2025.acl-srw.81/)** - *Lee, N., et al. (2025)*.
+  * **[Qorǵau: Evaluating Safety in Kazakh-Russian Bilingual Contexts](https://aclanthology.org/2025.findings-acl.507.pdf)** - *Goloburda, M., et al. (2025)*.
+  * **[Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://aclanthology.org/2025.findings-acl.407/)** - *Yoo, H., et al. (2025)*.
+     
 
 ### Natural Language Inference (NLI)
 
