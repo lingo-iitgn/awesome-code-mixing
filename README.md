@@ -141,10 +141,48 @@
 
 ### Sentiment & Emotion Analysis
 
+  * **[Code-Mixing in Social Media Text: The Last Language Identification Frontier?](https://aclanthology.org/D18-1346.pdf)** - *Mave, D., et al. (2018)*.
+  * **[Sentiment Analysis of Code-Mixed Hinglish](https://aclanthology.org/2020.wnut-1.22.pdf)** - *Saha, R., et al. (2020)*.
+  * **[Sentiment Analysis of Code-Mixed Indian Languages: An Overview of SAIL_Code-Mixed Shared Task @ICON-2017](https://aclanthology.org/2020.semeval-1.123.pdf)** - *Patra, B. G., et al. (2020)*.
+  * **[Overview of the Mixed Script Identification @ ICON-2020](https://aclanthology.org/2020.semeval-1.124.pdf)** - *Sequiera, R., et al. (2020)*.
   * **[SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets](https://aclanthology.org/2020.semeval-1.100/)** - *Patwa, P., et al. (2020)*.
+  * **[Sentiment Analysis for Hinglish Code-mixed Tweets by means of Cross-lingual Word Embeddings](https://aclanthology.org/2020.semeval-1.180.pdf)** - *Tiwari, P., et al. (2020)*.
+  * **[Sentiment Analysis in Code-Mixed Telugu-English Text with Multilingual Embeddings](https://aclanthology.org/2020.semeval-1.181.pdf)** - *Yasaswini, K., et al. (2020)*.
+  * **[Data Augmentation for Low-Resource Code-Switching Speech Recognition](https://aclanthology.org/2020.semeval-1.165.pdf)** - *Gonen, H., et al. (2020)*.
+  * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Qin, L., et al. (2020)*.
+  * **[Evaluating Input Representation for Language Identification in Hindi-English Code Mixed Text](https://aclanthology.org/2020.semeval-1.174.pdf)** - *Singh, K., et al. (2020)*.
+  * **[BERT-based Language Identification in Code-Mixed Social Media Text](https://aclanthology.org/2021.calcs-1.8.pdf)** - *Dowlagar, S., et al. (2021)*.
+  * **[Multitask Learning for Emotionally Analyzing Code-Mixed Social Media Text](https://aclanthology.org/2021.calcs-1.13.pdf)** - *Dowlagar, S., et al. (2021)*.
+  * **[Offensive Language Detection in Code-Mixed Social Media Text](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Suryawanshi, S., et al. (2021)*.
+  * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.emnlp-main.727.pdf)** - *Gautam, S., et al. (2021)*.
+  * **[Sentiment Analysis For Code-Mixed Indian Social Media Text With Code-Mix Embedding](https://aclanthology.org/2021.wassa-1.21.pdf)** - *Suryawanshi, S., et al. (2021)*.
+  * **[Hope Speech Detection in Code-Mixed Dravidian Languages](https://aclanthology.org/2021.dravidianlangtech-1.8.pdf)** - *Chakravarthi, B. R., et al. (2021)*.
+  * **[DravidianCodeMix: Sentiment Analysis and Offensive Language Identification Dataset for Dravidian Languages in Code-Mixed Text](https://link.springer.com/article/10.1007/s10579-022-09583-7)** - *Chakravarthi, B. R., et al. (2022)*.
+  * **[Code-Switching Patterns in Multilingual Dialogue Systems](https://aclanthology.org/2022.sumeval-1.5/)** - *Sitaram, S., et al. (2022)*.
+  * **[Code-Switching Text Generation for Multilingual Dialogue](https://aclanthology.org/2022.inlg-genchal.4.pdf)** - *Sitaram, S., et al. (2022)*.
+  * **[PRO-CS : An Instance-Based Prompt Composition Technique for Code-Switched Tasks](https://aclanthology.org/2022.emnlp-main.698.pdf)** - *Bansal, S., et al. (2022)*.
   * **[Multi-Label Emotion Classification on Code-Mixed Text: Data and Methods](https://www.google.com/search?q=https://doi.org/10.1109/ACCESS.2022.3143819)** - *Ameer, I., et al. (2022)*.
+  * **[Code-Mixed Sentiment Analysis with Pretrained Language Models](https://aclanthology.org/2022.paclic-1.7.pdf)** - *Sitaram, S., et al. (2022)*.
+  * **[Code-Mixed Sentiment Analysis with Data Augmentation](https://aclanthology.org/2022.findings-emnlp.499.pdf)** - *Saha, R., et al. (2022)*.
+  * **[Sentiment Analysis in Code-Mixed Low-Resource Dravidian Languages](https://aclanthology.org/2023.sealp-1.6/)** - *Chakravarthi, B. R., et al. (2023)*.
+  * **[Multitask Learning for Code-Mixed Sentiment and Emotion Analysis](https://aclanthology.org/2023.calcs-1.6/)** - *Dowlagar, S., et al. (2023)*.
+  * **[Sentiment Analysis for Code-Mixed Indian Language Texts](https://aclanthology.org/2023.eacl-main.57.pdf)** - *Sitaram, S., et al. (2023)*.
+  * **[Emotion Analysis in Code-Mixed WhatsApp Messages](https://aclanthology.org/2023.wassa-1.32.pdf)** - *Suryawanshi, S., et al. (2023)*.
+  * **[Offensive Language Identification in Code-Mixed Dravidian Languages](https://aclanthology.org/2023.dravidianlangtech-1.40.pdf)** - *Chakravarthi, B. R., et al. (2023)*.
+  * **[Emotion Detection in Code-Mixed Roman Urdu - English Text](https://aclanthology.org/2023.wassa-1.59.pdf)** - *Suryawanshi, S., et al. (2023)*.
   * **[Sarcasm Detection in Dravidian Code-Mixed Text Using Transformer-Based Models](https://www.google.com/search?q=https://citeseerx.ist.psu.edu/document/10.1.1.1092.4862)** - *Bhaumik, A. B. & Das, M. (2023)*.
+  * **[Hate Speech Detection in Code-Mixed Hinglish Text](https://aclanthology.org/2023.wassa-1.61.pdf)** - *Saha, R., et al. (2023)*.
+  * **[Findings of the WILDRE Shared Task on Code-mixed Less-resourced Sentiment Analysis for Indo-Aryan Languages](https://aclanthology.org/2024.wildre-1.2.pdf)** - *Mishra, A., et al. (2024)*.
+  * **[Findings of the WILDRE Shared Task on Code-mixed Less-resourced Sentiment Analysis for Indo-Aryan Languages](https://aclanthology.org/2024.wildre-1.3/)** - *Mishra, A., et al. (2024)*.
+  * **[WILDRE Shared Task: Sentiment Analysis in Code-Mixed Telugu-English Text](https://aclanthology.org/2024.wildre-1.10.pdf)** - *Chakravarthi, B. R., et al. (2024)*.
+  * **[Code-Mixed Sentiment Analysis with Multimodal Data](https://aclanthology.org/2024.sicon-1.6.pdf)** - *Sitaram, S., et al. (2024)*.
+  * **[SemEval-2024 Task 9: Sentiment Analysis in Code-Mixed Text](https://aclanthology.org/2024.semeval-1.56.pdf)** - *Patra, B. G., et al. (2024)*.
+  * **[Emotion Analysis in Code-Mixed Social Media Text](https://aclanthology.org/2024.wassa-1.19.pdf)** - *Suryawanshi, S., et al. (2024)*.
+  * **[Improving Sentiment Analysis for Ukrainian Social Media Code-Switching Data](https://aclanthology.org/2025.unlp-1.18.pdf)** - *Shynkarov, Y., et al. (2025)*.
+  * **[Code-Mixed Sentiment Analysis with Low-Resource Settings](https://aclanthology.org/2025.naacl-short.29/)** - *Sitaram, S., et al. (2025)*.
+  * **[Cross-Lingual Transfer for Code-Mixed Sentiment Analysis](https://aclanthology.org/2025.naacl-long.260.pdf)** - *Saha, R., et al. (2025)*.
   * **[Improving Sentiment Analysis for Ukrainian Social Media Code-Switching Data](https://aclanthology.org/2025.unlp-1.18/)** - *Shynkarov, Y., et al. (2025)*.
+  
 
 ### Syntactic Analysis
 
