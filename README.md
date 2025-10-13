@@ -245,8 +245,26 @@
 ### Code-Mixed Text Generation
 
   * **[A Deep Generative Model for Code Switched Text](https://doi.org/10.24963/ijcai.2019/719)** - *Samanta, B., et al. (2019)*.
+  * **[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206.pdf)** - *Gupta, D., et al. (2020)*.
+  * **[Towards Code-Mixed Hinglish Dialogue Generation](https://aclanthology.org/2021.nlp4convai-1.26.pdf)** - *Agarwal, V., et al. (2021)*.
+  * **[HinGE: A Dataset for Generation and Evaluation of Code-Mixed Hinglish Text](https://aclanthology.org/2021.eval4nlp-1.20.pdf)** - *Srivastava, V., et al. (2021)*.
+  * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.acl-long.245.pdf)** - *Tarunesh, I., et al. (2021)*.
+  * **[PACMAN:PArallel CodeMixed dAta generatioN for POS tagging](https://aclanthology.org/2022.icon-main.29.pdf)** - *Chatterjee, A., et al. (2022)*.
+  * **[MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation](https://aclanthology.org/2022.coling-1.54.pdf)** - *Liu, Y., et al. (2022)*.
+  * **[Proceedings of the 15th International Conference on Natural Language Generation: Generation Challenges](https://aclanthology.org/2022.inlg-genchal.0.pdf)** - *Shaikh, S., et al. (2022)*.
+  * **[CoCoa: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Mondal, S., et al. (2022)*.
+  * **[Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages](https://aclanthology.org/2023.calcs-1.5.pdf)** - *Yong, Z. X., et al. (2023)*.
+  * **[Enhancing Code-mixed Text Generation Using Synthetic Data Filtering in Neural Machine Translation](https://aclanthology.org/2023.conll-1.15.pdf)** - *Sravani, D., et al. (2023)*.
+  * **[Code-Switched Text Synthesis in Unseen Language Pairs](https://aclanthology.org/2023.findings-acl.318.pdf)** - *Hsu, I.-H., et al. (2023)*.
   * **[Linguistics Theory Meets LLM: Code-Switched Text Generation via Equivalence Constrained Large Language Models](https://api.semanticscholar.org/CorpusID:273695372)** - *Kuwanto, G., et al. (2024)*.
-  * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Sarrof, Y. R. (2025)*.
+  * **[Leveraging Large Language Models for Code-Mixed Data Augmentation in Sentiment Analysis](https://aclanthology.org/2024.sicon-1.6.pdf)** - *Zeng, L. (2024)*.
+  * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, K., et al. (2024)*.
+  * **[LLM-based Code-Switched Text Generation for Grammatical Error Correction](https://aclanthology.org/2024.emnlp-main.942.pdf)** - *Potter, T., et al. (2024)*.
+  * **[Understanding and Mitigating Language Confusion in LLMs](https://aclanthology.org/2024.emnlp-main.380.pdf)** - *Marchisio, K., et al. (2024)*.
+  * **Pun Generation** 
+    * **[Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns](https://aclanthology.org/2025.chum-1.5.pdf)** - *Asapu, L., et al. (2025)*.
+    * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Sarrof, Y. R. (2025)*.
+
 
 ### Machine Translation (MT)
 
