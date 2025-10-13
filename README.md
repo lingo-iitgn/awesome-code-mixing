@@ -220,6 +220,13 @@
 
   * **[Detecting entailment in code-mixed Hindi-English conversations](https://aclanthology.org/2020.wnut-1.22/)** - *Chakravarthy, S., et al. (2020)*.
   * **[A New Dataset for Natural Language Inference from Code-mixed Conversations](https://aclanthology.org/2020.calcs-1.2/)** - *Khanuja, S., et al. (2020)*.
+  * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Qin, L., et al. (2020)*.
+* **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Prasad, A., et al. (2021)*.
+* **[On Utilizing Constituent Language Resources to Improve Downstream Tasks in Hinglish](https://aclanthology.org/2022.findings-emnlp.283.pdf)** - *Kumar, V., et al. (2022)*.
+* **[Toward the Limitation of Code-Switching in Cross-Lingual Transfer](https://aclanthology.org/2022.emnlp-main.400.pdf)** - *Feng, Y., et al. (2022)*.
+* **[Aligning Multilingual Embeddings for Improved Code-switched Natural Language Understanding](https://aclanthology.org/2022.coling-1.375.pdf)** - *Fazili, B., et al. (2022)*.
+* **[Incontext Mixing (ICM): Codemixed Prompts for Multilingual LLMs](https://aclanthology.org/2024.acl-long.228.pdf)** - *Shankar, B., et al. (2024)*.
+* **[Using Contextually Aligned Online Reviews to Measure LLMs’ Performance Disparities Across Language Varieties](https://aclanthology.org/2025.naacl-short.29/)** - *Tang, Z., et al. (2025)*. 
 
 -----
 
