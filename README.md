@@ -56,7 +56,6 @@
 ## Survey Papers
 
 > Comprehensive reviews of the code-switching research landscape. A great place to start.
-  * **[Challenges of Computational Processing of Code-Switching](https://aclanthology.org/W16-5801/)** - *Çetinoğlu, Ö., et al. (2016)*.
   * **[A Survey of Current Datasets for Code-Switching Research](https://ieeexplore.ieee.org/document/9074205)** - *Jose, N., et al. (2020)*.
   * **[A Survey of Code-switched Speech and Language Processing](https://arxiv.org/pdf/1904.00784)** - *Sitaram, S., et al. (2020)*.
   * **[A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies](https://aclanthology.org/2021.acl-long.131/)** - *Doğruöz, A. S., et al. (2021)*.
