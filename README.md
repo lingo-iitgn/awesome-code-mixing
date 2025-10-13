@@ -105,6 +105,12 @@
   * **[Development of POS tagger for English-Bengali Code-Mixed data](https://aclanthology.org/2019.icon-1.17/)** - *Raha, T., et al. (2019)*.
   * **[Creation of Corpus and Analysis in Code-Mixed Kannada-English Social Media Data for POS Tagging](https://aclanthology.org/2020.icon-main.13/)** - *Appidi, A. R., et al. (2020)*.
   * **[A Pre-trained Transformer and CNN Model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42/)** - *Dowlagar, S. & Mamidi, R. (2021)*.
+  * **[Are Multilingual Models Effective in Code-Switching?](https://aclanthology.org/2021.calcs-1.20.pdf)** - *Winata, G. I., et al. (2021)*.
+  * **[On Utilizing Constituent Language Resources to Improve Downstream Tasks in Hinglish](https://aclanthology.org/2022.findings-emnlp.283.pdf)** - *Kumar, V., et al. (2022)*.
+  * **[PRO-CS : An Instance-Based Prompt Composition Technique for Code-Switched Tasks](https://aclanthology.org/2022.emnlp-main.698.pdf)** - *Bansal, S., et al. (2022)*.
+  * **[PACMAN: PArallel CodeMixed dAta generatioN for POS tagging](https://aclanthology.org/2022.icon-main.29.pdf)** - *Chatterjee, A., et al. (2022)*.
+  * **[CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics](https://aclanthology.org/2023.findings-acl.506.pdf)** - *Arora, G., et al. (2023)*.
+  * **[Improving Sentiment Analysis for Ukrainian Social Media Code-Switching Data](https://aclanthology.org/2025.unlp-1.18.pdf)** - *Shynkarov, Y., et al. (2025)*.
   * **[Fine-Tuning Cross-Lingual LLMs for POS Tagging in Code-Switched Contexts](https://aclanthology.org/2025.resourceful-1.2/)** - *Absar, S. (2025)*.
 
 ### Named Entity Recognition (NER)
