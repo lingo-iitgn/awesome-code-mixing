@@ -309,9 +309,15 @@
 
 ### Cross-lingual Transfer
 
+  * **[XLP at SemEval-2020 Task 9: Cross-lingual Models with Focal Loss for Sentiment Analysis of Code-Mixing Language](https://aclanthology.org/2020.semeval-1.126.pdf)** - *Ma, Y., et al. (2020)*.
+  * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Qin, L., et al. (2020)*.
+  * **[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18.pdf)** - *Krishnan, J., et al. (2021)*.
+  * **[Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification](https://aclanthology.org/2021.findings-emnlp.55.pdf)** - *Lai, S., et al. (2021)*.
   * **[Scopa: Soft code-switching and pairwise alignment for zero-shot cross-lingual transfer](https://dl.acm.org/doi/10.1145/3459637.3482176)** - *Lee, D., et al. (2021)*.
-  * **[EntityCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching](https://aclanthology.org/2022.findings-emnlp.499/)** - *Whitehouse, C., et al. (2022)*.
-  * **[Improving Zero-Shot Cross-Lingual Transfer via Progressive Code-Switching](https://api.semanticscholar.org/CorpusID:270619569)** - *Li, Z., et al. (2024)*.
+  * **[Toward the Limitation of Code-Switching in Cross-Lingual Transfer](https://aclanthology.org/2022.emnlp-main.400.pdf)** - *Feng, Y., et al. (2022)*.
+  * **[ENTITYCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching](https://aclanthology.org/2022.findings-emnlp.499.pdf)** - *Whitehouse, C., et al. (2022)*.
+  * **[Improving Zero-Shot Cross-Lingual Transfer via Progressive Code-Switching](https://api.semanticscholar.org/CorpusID:270619569)** - *Li, Z., et al. (2024)*. 
+  * **[Test-Time Code-Switching for Cross-lingual Aspect Sentiment Triplet Extraction](https://aclanthology.org/2025.naacl-long.260.pdf)** - *Sheng, D., et al. (2025)*.
 
 ### Text Summarization
   * **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499/)** - *Mehnaz, L., et al. (2021)*.
