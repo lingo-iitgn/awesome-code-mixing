@@ -331,8 +331,18 @@
 
 ### Dialogue Generation
 
-  * **[MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation](https://aclanthology.org/2022.coling-1.54/)** - *Liu, Y., et al. (2022)*.
+  * **[Detecting Entailment in Code-Mixed Hindi-English Conversations](https://aclanthology.org/2020.wnut-1.22.pdf)** - *Sharanya Chakravarthy, et al. (2020)*.
+  * **[A New Dataset for Natural Language Inference from Code-mixed Conversations](https://aclanthology.org/2020.calcs-1.2.pdf)** - *Simran Khanuja, et al. (2020)*.
+  * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Libo Qin, et al. (2020)*.
+  * **[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18.pdf)** - *Jitin Krishnan, et al. (2021)*.
+  * **[Towards Code-Mixed Hinglish Dialogue Generation](https://aclanthology.org/2021.nlp4convai-1.26.pdf)** - *Vibhav Agarwal, et al. (2021)*.
+  * **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499.pdf)** - *Laiba Mehnaz, et al. (2021)*.
+  * **[Code-switched inspired losses for generic spoken dialog representations](https://aclanthology.org/2021.emnlp-main.656.pdf)** - *Emile Chapuis, et al. (2021)*.
+  * **[MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation](https://aclanthology.org/2022.coling-1.54.pdf)** - *Yongkang Liu, et al. (2022)*.
+  * **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174.pdf)** - *Mehrad Moradshahi, et al. (2023)*.
   * **[CST5: Data Augmentation for Code-Switched Semantic Parsing](https://aclanthology.org/2023.tllm-1.1/)** - *Agarwal, A., et al. (2023)*.
+  * **[Does a code-switching dialogue system help users learn conversational fluency in Choctaw?](https://aclanthology.org/2025.americasnlp-1.2.pdf)** - *Jacqueline Brixey, et al. (2025)*.
+  * **[Performance Analysis of Effective Retrieval of Kannada Translations in Code-Mixed Sentences using BERT and MPnet](https://etasr.com/index.php/ETASR/article/view/9013/4413)** - *H. P. Rohith, et al. (2025)*.
 
 ### Transliteration
 
