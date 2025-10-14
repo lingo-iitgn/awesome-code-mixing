@@ -400,10 +400,20 @@
 
 ### Pre-training Approaches
 
-  * **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423/)** - *Devlin, J., et al. (2019)*.
+  * **[Modeling Code-Switch Languages Using Bilingual Parallel Corpus](https://aclanthology.org/2020.acl-main.80.pdf)** - *Grandee Lee, et al. (2020)*.
+  * **[SJ AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44.pdf)** - *Sai Muralidhar Jayanthi, et al. (2021)*.
+  * **[Switch Point biased Self-Training: Re-purposing Pretrained Models for Code-Switching](https://aclanthology.org/2021.findings-emnlp.373.pdf)** - *Parul Chopra, et al. (2021)*.
+  * **[Unsupervised Self-Training for Sentiment Analysis of Code-Switched Data](https://aclanthology.org/2021.calcs-1.13.pdf)** - *Akshat Gupta, et al. (2021)*.
+  * **[Task-Specific Pre-Training and Cross Lingual Transfer for Code-Switched Data](https://aclanthology.org/2021.dravidianlangtech-1.9.pdf)** - *Akshat Gupta, et al. (2021)*.
   * **[BERTologiCoMix: How does Code-Mixing interact with Multilingual BERT?](https://aclanthology.org/2021.adaptnlp-1.12/)** - *Santy, S., et al. (2021)*.
-  * **[Where Does mBERT Understand Code-Mixing? Layer-Dependent Performance on Semantic Tasks](https://www.google.com/search?q=https://doi.org/10.1109/ACCESS.2025.3594135)** - *Somani, A., et al. (2025)*.
   * **[HingBERT: A Code Mixed Hindi-English Dataset and BERT Language Models](https://aclanthology.org/2022.wildre-1.2/)** - *Nayak, R. & Joshi, R. (2022)*.
+  * **[L3Cube-HingCorpus and HingBERT: A Code Mixed Hindi-English Dataset and BERT Model for Language Identification](https://aclanthology.org/anthology-files/anthology-files/pdf/wildre/2022.wildre-1.pdf#page=19)** - *Raviraj Joshi, et al. (2022)*.
+  * **[MALM: Mixing Augmented Language Modeling for Zero-Shot Machine Translation](https://aclanthology.org/2022.nlp4dh-1.8.pdf)** - *Kshitij Gupta (2022)*.
+  * **[Transfer Learning for Code-Mixed Data: Do Pretraining Languages Matter?](https://aclanthology.org/2023.wassa-1.32.pdf)** - *Kushal Tatariya, et al. (2023)*.
+  * **[Improving Pretraining Techniques for Code-Switched NLP](https://aclanthology.org/2023.acl-long.66.pdf)** - *Richeek Das, et al. (2023)*.
+  * **[Exploring Enhanced Code-Switched Noising for Pretraining in Neural Machine Translation](https://aclanthology.org/2023.findings-eacl.72.pdf)** - *Vivek Iyer, et al. (2023)*.
+  * **[Investigating and Scaling up Code-Switching for Multilingual Language Model Pre-Training](https://aclanthology.org/2025.findings-acl.575.pdf)** - *Zhijun Wang, et al. (2025)*.
+  * **[Breaking the Language Barrier: Can One Language Model Understand All Languages?](https://aclanthology.org/2025.unlp-1.1.pdf)** - *Sanchit Ahuja, et al. (2025)*.
 
 ### Fine-tuning Approaches
 
