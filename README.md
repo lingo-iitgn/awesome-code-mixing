@@ -361,8 +361,23 @@
 > Corpora, toolkits, and frameworks to support your research.
 
 ### Datasets
+
+  * **[Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data](https://aclanthology.org/P18-1143.pdf)** - *Adithya Pratapa, et al. (2018)*.
+  * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural Based Question Answering](https://aclanthology.org/K18-1012/)** - *Deepak Gupta, et al. (2018)*.
+  * **[Dependency Parser for Bengali-English Code-Mixed Data enhanced with a Synthetic Treebank](https://aclanthology.org/W19-7810/)** - *Upendra Kumar, et al. (2019)*.
+  * **[Dependency Parsing for English–Malayalam Code-mixed Text](https://aclanthology.org/K19-1026/)** - *Sanket Sonu, et al. (2019)*.
+  * **[A New Dataset for Natural Language Inference from Code-mixed Conversations](https://aclanthology.org/2020.calcs-1.2.pdf)** - *Simran Khanuja, et al. (2020)*.
+  * **[Detecting Entailment in Code-Mixed Hindi-English Conversations](https://aclanthology.org/2020.wnut-1.22/)** - *Sharanya Chakravarthy, et al. (2020)*.
+  * **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499.pdf)** - *Laiba Mehnaz, et al. (2021)*.
+  * **[CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences](https://aclanthology.org/2021.calcs-1.7.pdf)** - *Devansh Gautam, et al. (2021)*.
+  * **[Exploring Language Identification from Short Multilingual Code-Switched Texts](https://aclanthology.org/2022.paclic-1.7.pdf)** - *Pei-Chi Lo, et al. (2022)*.
+  * **[A Comparison of Architectures and Pretraining Methods for Contextualized Multilingual Word Embeddings](https://arxiv.org/abs/2204.08398)** - *Milana Karaica, et al. (2022)*.
+  * **[Code-MixPro: A Framework for Code-Mixed Data Augmentation via Prompt Tuning](https://aclanthology.org/2023.ranlp-1.108.pdf)** - *Rohit Kundu, et al. (2023)*.
   * **[OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification](https://aclanthology.org/2023.socialnlp-1.3/)** - *Goswami, D., et al. (2023)*.
   * **[My Boli: A Comprehensive Suite of Corpora and Pre-trained Models for Marathi-English Code-Mixing](https://aclanthology.org/2023.eacl-main.249)** - *Joshi, A., et al. (2023)*.
+  * **[Sentiment Analysis in Code-Mixed Telugu-English Text with Multi-task Learning](https://aclanthology.org/2024.wassa-1.19.pdf)** - *Siva Sai, et al. (2024)*.
+  * **[Multilingual Harmful Meme Detection Using Large Language Models](https://aclanthology.org/2024.woah-1.3.pdf)** - *Sanchit Ahuja, et al. (2024)*.
+  * **[Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/pdf/2403.05887)** - *Hexin Liu, et al. (2024)*.
   * **[HiACC: Hinglish adult & children code-switched corpus](https://doi.org/10.1016/j.dib.2025.111886)** - *Singh, S., et al. (2025)*.
   * **[AfroCS-xs: Creating a Compact, High-Quality, Human-Validated Code-Switched Dataset for African Languages](https://aclanthology.org/2025.acl-long.1601/)** - *Olaleye, K., et al. (2025)*.
 
