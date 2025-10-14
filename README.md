@@ -93,10 +93,12 @@
     * **[MUCS@DravidianLangTech-EACL2021:COOLI-Code-Mixing Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.47.pdf)** - *Balouchzahi, F., et al. (2021)*.
     * **[SJ AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44.pdf)** - *Jayanthi, S. M., et al. (2021)*.
     * **[DravidianCodeMix: Sentiment Analysis and Offensive Language Identification Dataset for Dravidian Languages in Code-Mixed Text](https://link.springer.com/article/10.1007/s10579-022-09583-7)** - *Chakravarthi, B. R., et al. (2022)*.
+    * **[Offensive Content Detection Via Synthetic Code-Switched Text](https://aclanthology.org/2022.coling-1.575.pdf)** - *Salaam, C., et al. (2022)*.
     * **[Offensive Language Identification in Transliterated and Code-Mixed Bangla](https://aclanthology.org/2023.banglalp-1.1.pdf)** - *Raihan, M. N., et al. (2023)*.
     * **[OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification](https://aclanthology.org/2023.socialnlp-1.3/)** - *Goswami, D., et al. (2023)*.
     * **[Towards Safer Communities: Detecting Aggression and Offensive Language in Code-Mixed Tweets to Combat Cyberbullying](https://aclanthology.org/2023.woah-1.3.pdf)** - *Nafis, N., et al. (2023)*.
-    * **[Offensive Content Detection Via Synthetic Code-Switched Text](https://aclanthology.org/2022.coling-1.575.pdf)** - *Salaam, C., et al. (2022)*.
+    * **[SetFit: A Robust Approach for Offensive Content Detection in Tamil-English Code-Mixed Conversations Using Sentence Transfer Fine-tuning](https://aclanthology.org/2024.dravidianlangtech-1.6.pdf)** - *Kathiravan Pannerselvam, et al. (2024)*.
+    * **[LLMsAgainstHate@NLU of Devanagari Script Languages 2025: Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs](https://aclanthology.org/2025.chipsal-1.34/)** - *Rushendra Sidibomma, et al. (2025)*.
 
 * **Hope Speech Detection** 
     * **[SJ_AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44/)** - *Jayanthi, S. M., et al. (2021)*.
