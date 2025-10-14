@@ -269,9 +269,43 @@
 ### Machine Translation (MT)
 
   * **[Towards translating mixed-code comments from social media](https://doi.org/10.1007/978-3-319-77116-8_34)** - *Singh, T. D. & Solorio, T. (2017)*.
-  * **[PhraseOut: A Code Mixed Data Augmentation Method for MultilingualNeural Machine Tranlsation](https://aclanthology.org/2020.icon-main.63/)** - *Jasim, B., et al. (2020)*.
-  * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.acl-long.245/)** - *Tarunesh, I., et al. (2021)*.
-  * **[Neural Machine Translation for Sinhala-English Code-Mixed Text](https://aclanthology.org/2021.ranlp-1.82/)** - *Kugathasan, A. & Sumathipala, S. (2021)*.
+  * **[Code-Switching for Enhancing NMT with Pre-Specified Translation](https://aclanthology.org/N19-1044.pdf)** - *Song, K., et al. (2019)*.
+  * **[PhraseOut: A Code Mixed Data Augmentation Method for Multilingual Neural Machine Translation](https://aclanthology.org/2020.icon-main.63.pdf)** - *Jasim, B., et al. (2020)*.
+  * **[CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences](https://aclanthology.org/2021.calcs-1.7.pdf)** - *Gautam, D., et al. (2021)*.
+  * **[Training Data Augmentation for Code-Mixed Translation](https://aclanthology.org/2021.naacl-main.459.pdf)** - *Gupta, A., et al. (2021)*.
+  * **[Translate and Classify: Improving Sequence Level Classification for English-Hindi Code-Mixed Data](https://aclanthology.org/2021.calcs-1.3.pdf)** - *Gautam, D., et al. (2021)*.
+  * **[Gated Convolutional Sequence to Sequence Based Learning for English-Hinglish Code-Switched Machine Translation](https://aclanthology.org/2021.calcs-1.4.pdf)** - *Dowlagar, S., et al. (2021)*.
+  * **[IITP-MT at CALCS2021: English to Hinglish Neural Machine Translation using Unsupervised Synthetic Code-Mixed Parallel Corpus](https://aclanthology.org/2021.calcs-1.5.pdf)** - *Appicharla, R., et al. (2021)*.
+  * **[Exploring Text-to-Text Transformers for English to Hinglish Machine Translation with Synthetic Code-Mixing](https://aclanthology.org/2021.calcs-1.6.pdf)** - *Jawahar, G., et al. (2021)*.
+  * **[Investigating Code-Mixed Modern Standard Arabic-Egyptian to English Machine Translation](https://aclanthology.org/2021.calcs-1.8.pdf)** - *Nagoudi, E. M. B., et al. (2021)*.
+  * **[Hinglish to English Machine Translation using Multilingual Transformers](https://aclanthology.org/2021.ranlp-srw.3.pdf)** - *Agarwal, V., et al. (2021)*.
+  * **[Neural Machine Translation for Sinhala-English Code-Mixed Text](https://aclanthology.org/2021.ranlp-1.82.pdf)** - *Kugathasan, A., et al. (2021)*.
+  * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.acl-long.245.pdf)** - *Tarunesh, I., et al. (2021)*.
+  * **[Adapting Multilingual Models for Code-Mixed Translation](https://aclanthology.org/2022.findings-emnlp.528.pdf)** - *Vavre, A., et al. (2022)*.
+  * **[MUCS@MixMT: indicTrans-based Machine Translation for Hinglish Text](https://aclanthology.org/2022.wmt-1.113.pdf)** - *Hegde, A., et al. (2022)*.
+  * **[SIT at MixMT 2022: Fluent Translation Built on Giant Pre-trained Models](https://aclanthology.org/2022.wmt-1.114.pdf)** - *Khan, A. R., et al. (2022)*.
+  * **[Gui at MixMT 2022 : English-Hinglish : An MT approach for translation of code mixed data](https://aclanthology.org/2022.wmt-1.112.pdf)** - *Gahoi, A., et al. (2022)*.
+  * **[CNLP-NITS-PP at MixMT 2022: Hinglish–English Code-Mixed Machine Translation](https://aclanthology.org/2022.wmt-1.116.pdf)** - *Laskar, S. R., et al. (2022)*.
+  * **[End-to-End Speech Translation for Code Switched Speech](https://aclanthology.org/2022.findings-acl.113.pdf)** - *Weller, O., et al. (2022)*.
+  * **[MALM: Mixing Augmented Language Modeling for Zero-Shot Machine Translation](https://aclanthology.org/2022.nlp4dh-1.8.pdf)** - *Gupta, K. (2022)*.
+  * **[Can You Translate for Me? Code-Switched Machine Translation with Large Language Models](https://aclanthology.org/2023.ijcnlp-short.10/)** - *Khatri, J., et al. (2023)*.
+  * **[Lost in Translation No More : Fine-tuned transformer-based models for CodeMix to English Machine Translation](https://aclanthology.org/2023.icon-1.25.pdf)** - *Chatterjee, A., et al. (2023)*.
+  * **[Enhancing Code-mixed Text Generation Using Synthetic Data Filtering in Neural Machine Translation](https://aclanthology.org/2023.conll-1.15.pdf)** - *Sravani, D., et al. (2023)*.
+  * **[Towards Real-World Streaming Speech Translation for Code-Switched Speech](https://aclanthology.org/2023.calcs-1.2.pdf)** - *Alastruey, B., et al. (2023)*.
+  * **[Exploring Segmentation Approaches for Neural Machine Translation of Code-Switched Egyptian Arabic-English Text](https://aclanthology.org/2023.eacl-main.256.pdf)** - *Gaser, M., et al. (2023)*.
+  * **[Exploring Enhanced Code-Switched Noising for Pretraining in Neural Machine Translation](https://aclanthology.org/2023.findings-eacl.72.pdf)** - *Iyer, V., et al. (2023)*.
+  * **[Evaluating Code-Switching Translation with Large Language Models](https://aclanthology.org/2024.lrec-main.565.pdf)** - *Huzaifah, M., et al. (2024)*.
+  * **[Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?](https://aclanthology.org/2024.findings-eacl.71.pdf)** - *Hada, R., et al. (2024)*.
+  * **[ContrastiveMix: Overcoming Code-Mixing Dilemma in Cross-Lingual Transfer for Information Retrieval](https://aclanthology.org/2024.naacl-short.17.pdf)** - *Do, J., et al. (2024)*.
+  * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, et al. (2024)*.
+  * **[CoVoSwitch: Machine Translation of Synthetic Code-Switched Text Based on Intonation Units](https://aclanthology.org/2024.acl-srw.40.pdf)** - *Kang, Y. (2024)*.
+  * **[MIGRATE: Cross-Lingual Adaptation of Domain-Specific LLMs through Code-Switching and Embedding Transfer](https://aclanthology.org/2025.coling-main.617.pdf)** - *Hong, S., et al. (2025)*.
+  * **[Next-Level Cantonese-to-Mandarin Translation: Fine-Tuning and Post-Processing with LLMs](https://aclanthology.org/2025.loreslm-1.32.pdf)** - *Dai, Y., et al. (2025)*.
+  * **[Investigating and Scaling up Code-Switching for Multilingual Language Model Pre-Training](https://aclanthology.org/2025.findings-acl.575.pdf)** - *Wang, Z., et al. (2025)*.
+  * **[From English to Second Language Mastery: Enhancing LLMs with Cross-Lingual Continued Instruction Tuning](https://aclanthology.org/2025.acl-long.1121.pdf)** - *Wu, L., et al. (2025)*.
+  * **[The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR](https://aclanthology.org/2025.calcs-1.2.pdf)** - *Hamed, I., et al. (2025)*.
+  * **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Upadhayay, B., et al. (2025)*.
+  * **[Low-resource Machine Translation for Code-switched Kazakh-Russian Language Pair](https://aclanthology.org/2025.naacl-srw.7.pdf)** - *Borisov, M., et al. (2025)*.
 
 ### Cross-lingual Transfer
 
