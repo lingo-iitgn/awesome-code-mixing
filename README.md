@@ -407,9 +407,35 @@
 
 ### Fine-tuning Approaches
 
+  * **[From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://aclanthology.org/2020.acl-main.716.pdf)** - *Gustavo Aguilar, et al. (2020)*.
+  * **[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206.pdf)** - *Deepak Gupta, et al. (2020)*.
+  * **[A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42.pdf)** - *Suman Dowlagar, et al. (2021)*.
+  * **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Archiki Prasad, et al. (2021)*.
+  * **[Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification](https://aclanthology.org/2021.findings-emnlp.55.pdf)** - *Siyu Lai, et al. (2021)*.
+  * **[On Utilizing Constituent Language Resources to Improve Downstream Tasks in Hinglish](https://aclanthology.org/2022.findings-emnlp.283.pdf)** - *Vishwajeet Kumar, et al. (2022)*.
+  * **[Adapting Multilingual Models for Code-Mixed Translation](https://aclanthology.org/2022.findings-emnlp.528.pdf)** - *Aditya Vavre, et al. (2022)*.
+  * **[PRO-CS : An Instance-Based Prompt Composition Technique for Code-Switched Tasks](https://aclanthology.org/2022.emnlp-main.698.pdf)** - *Srijan Bansal, et al. (2022)*.
+  * **[Progressive Sentiment Analysis for Code-Switched Text Data](https://aclanthology.org/2022.findings-emnlp.82.pdf)** - *Sudhanshu Ranjan, et al. (2022)*.
+  * **[ENTITYCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching](https://aclanthology.org/2022.findings-emnlp.499.pdf)** - *Chenxi Whitehouse, et al. (2022)*.
+  * **[COCOA: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Sneha Mondal, et al. (2022)*.
+  * **[Transfer Learning for Code-Mixed Data: Do Pretraining Languages Matter?](https://aclanthology.org/2023.wassa-1.32.pdf)** - *Kushal Tatariya, et al. (2023)*.
+  * **[From Translation to Generative LLMs: Classification of Code-Mixed Affective Tasks](https://ieeexplore.ieee.org/abstract/document/10938193)** - *Authors not extracted (2024)*.
+  * **[SetFit: A Robust Approach for Offensive Content Detection in Tamil-English Code-Mixed Conversations Using Sentence Transfer Fine-tuning](https://aclanthology.org/2024.dravidianlangtech-1.6.pdf)** - *Kathiravan Pannerselvam, et al. (2024)*.
+  * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, et al. (2024)*.
   * **[COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning](https://aclanthology.org/2024.findings-naacl.198/)** - *Lee, J., et al. (2024)*.
   * **[Demystifying Instruction Mixing for Fine-tuning Large Language Models](https://arxiv.org/abs/2312.10793)** - *Wang, R., et al. (2024)*.
   * **[CHAI for LLMs: Improving Code-Mixed Translation in LLMs through Reinforcement Learning with AI Feedback](https://arxiv.org/abs/2411.09073)** - *Zhang, W., et al. (2025)*.
+  * **[LLMsAgainstHate@NLU of Devanagari Script Languages 2025: Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs](https://aclanthology.org/2025.chipsal-1.34/)** - *Rushendra Sidibomma, et al. (2025)*.
+  * **[Controlling Language Confusion in Multilingual LLMs](https://aclanthology.org/2025.acl-srw.81/)** - *Nahyun Lee, et al. (2025)*.
+  * **[Fine-Tuning Cross-Lingual LLMs for POS Tagging in Code-Switched Contexts](https://aclanthology.org/2025.resourceful-1.2/)** - *Shayaan Absar (2025)*.
+  * **[Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://aclanthology.org/2025.findings-acl.407/)** - *Haneul Yoo, et al. (2025)*.
+  * **[MIGRATE: Cross-Lingual Adaptation of Domain-Specific LLMs through Code-Switching and Embedding Transfer](https://aclanthology.org/2025.coling-main.617.pdf)** - *Seongtae Hong, et al. (2025)*.
+  * **[Next-Level Cantonese-to-Mandarin Translation: Fine-Tuning and Post-Processing with LLMs](https://aclanthology.org/2025.loreslm-1.32.pdf)** - *Yuqian Dai, et al. (2025)*.
+  * **[Investigating and Scaling up Code-Switching for Multilingual Language Model Pre-Training](https://aclanthology.org/2025.findings-acl.575.pdf)** - *Zhijun Wang, et al. (2025)*.
+  * **[Beyond Monolingual Limits: Fine-Tuning Monolingual ASR for Yoruba-English Code-Switching](https://aclanthology.org/2025.calcs-1.3.pdf)** - *Oreoluwa Babatunde, et al. (2025)*.
+  * **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Bibek Upadhayay, et al. (2025)*.
+  * **[Identifying Aggression and Offensive Language in Code-Mixed Tweets: A Multi-Task Transfer Learning Approach](https://aclanthology.org/2025.indonlp-1.14.pdf)** - *Bharath Kancharla, et al. (2025)*.
+  * **[Multi-task detection of harmful content in code-mixed meme captions using large language models with zero-shot, few-shot, and fine-tuning approaches](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla, et al. (2025)*.
 
 ### Post-training Approaches
 
