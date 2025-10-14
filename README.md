@@ -320,8 +320,14 @@
   * **[Test-Time Code-Switching for Cross-lingual Aspect Sentiment Triplet Extraction](https://aclanthology.org/2025.naacl-long.260.pdf)** - *Sheng, D., et al. (2025)*.
 
 ### Text Summarization
+
   * **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499/)** - *Mehnaz, L., et al. (2021)*.
+  * **[Multilingual Large Language Models Are Not (Yet) Code-Switchers](https://aclanthology.org/2023.emnlp-main.774.pdf)** - *Zhang, R., et al. (2023)*.
+  * **[CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics](https://aclanthology.org/2023.findings-acl.506.pdf)** - *Arora, G., et al. (2023)*.
+  * **[Are Large Language Model-based Evaluators the Solution to Scaling Up Multilingual Evaluation?](https://aclanthology.org/2024.findings-eacl.71.pdf)** - *Hada, R., et al. (2024)*.
   * **[CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization](https://aclanthology.org/2024.lrec-main.367/)** - *Zhang, R. & Eickhoff, C. (2024)*.
+  * **[Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://aclanthology.org/2025.findings-acl.407.pdf)** - *Yoo, H., et al. (2025)*.
+  * **[An Adapted Few-Shot Prompting Technique Using ChatGPT to Advance Low-Resource Languages Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016028)** - *Sarrof, Y. R., et al. (2025)*.
 
 ### Dialogue Generation
 
