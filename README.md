@@ -346,9 +346,14 @@
 
 ### Transliteration
 
+  * **[Towards an Efficient Code-Mixed Grapheme-to-Phoneme Conversion in an Agglutinative Language: A Case Study on To-Korean Transliteration](https://aclanthology.org/2020.calcs-1.9.pdf)** - *Won Ik Cho, et al. (2020)*.
+  * **[Detecting Entailment in Code-Mixed Hindi-English Conversations](https://aclanthology.org/2020.wnut-1.22.pdf)** - *Sharanya Chakravarthy, et al. (2020)*.
   * **[Normalization and Back-Transliteration for Code-Switched Data](https://api.semanticscholar.org/CorpusID:235097478)** - *Parikh, D. & Solorio, T. (2021)*.
-  * **[IndicTrans: A Python Library for Indic Language Transliteration](https://aclanthology.org/2022.aacl-demo.9)** - *Anand, T. A. G. & Kumar, J. (2022)*.
-
+  * **[Abusive content detection in transliterated Bengali-English social media corpus](https://aclanthology.org/2021.calcs-1.16.pdf)** - *Salim Sazzed (2021)*.
+  * **[MUCS@MixMT: indicTrans-based Machine Translation for Hinglish Text](https://aclanthology.org/2022.wmt-1.113.pdf)** - *Asha Hegde, et al. (2022)*.
+  * **[CodeSwitching and BackTransliteration Using a Bilingual Model](https://aclanthology.org/anthology-files/pdf/findings/2024.findings-eacl.102.pdf)** - *Daniel Weisberg Mitelman, et al. (2024)*.
+  * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Arijit Nag, et al. (2024)*.
+  * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Yash Raj Sarrof (2025)*.
 -----
 
 ## 2\. Datasets & Resources
