@@ -436,10 +436,13 @@
 
 ### Evaluation Metrics
 
+
   * **[Bleu: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040/)** - *Papineni, K., et al. (2002)*.
   * **[chrF: character n-gram F-score for automatic MT evaluation](https://aclanthology.org/W15-3049/)** - *Popović, M. (2015)*.
   * **[Code-Mixing in Social Media Text](https://aclanthology.org/2013.tal-3.3/)** - *Amitava Das, et al. (2013)*.
   * **[Comparing the Level of Code-Switching in Corpora](https://aclanthology.org/L16-1292/)** - *Björn Gambäck, et al. (2016)*.
+  * **[Automatic Detection of Code-switching Style from Acoustics](https://aclanthology.org/W18-3209.pdf)** - *SaiKrishna Rallabandi, et al. (2018)*.
+  * **[Detecting de minimis Code-Switching in Historical German Books](https://aclanthology.org/2020.coling-main.163.pdf)** - *Shijia Liu, et al. (2020)*.
   * **[Challenges and Limitations with the Metrics Measuring the Complexity of Code-Mixed Text](https://aclanthology.org/2021.calcs-1.2/)** - *Vivek Srivastava, et al. (2021)*.
   * **[SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing](https://aclanthology.org/2022.findings-acl.40/)** - *Prashant Kodali, et al. (2022)*.
   * **[PreCogIIITH at HinglishEval: Leveraging Code-Mixing Metrics & Language Model Embeddings To Estimate Code-Mix Quality](https://aclanthology.org/2022.inlg-genchal.4/)** - *Prashant Kodali, et al. (2022)*.
