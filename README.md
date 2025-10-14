@@ -406,10 +406,18 @@
 
 ### Benchmarks
 
-  * **[Overview for the First Shared Task on Language Identification in Code-Switched Data](https://aclanthology.org/W14-3907/)** - *Solorio, T., et al. (2014)*.
-  * **[Overview for the Second Shared Task on Language Identification in Code-Switched Data](https://aclanthology.org/W16-5805/)** - *Molina, G., et al. (2016)*.
   * **[LinCE: A centralized benchmark for linguistic code-switching evaluation](https://aclanthology.org/2020.lrec-1.223/)** - *Aguilar, G., et al. (2020)*.
   * **[GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://aclanthology.org/2020.acl-main.329/)** - *Khanuja, S., et al. (2020)*.
+  * **[Detecting Entailment in Code-Mixed Hindi-English Conversations](https://aclanthology.org/2020.wnut-1.22/)** - *Sharanya Chakravarthy, et al. (2020)*.
+  * **[PACMAN: PArallel CodeMixed dAta generatioN for POS tagging](https://aclanthology.org/2022.icon-main.29/)** - *Arindam Chatterjee, et al. (2022)*.
+  * **[HinglishEval Generation Challenge on Quality Estimation of Synthetic Code-Mixed Text: Overview and Results](https://aclanthology.org/2022.inlg-genchal.3/)** - *Vivek Srivastava, et al. (2022)*.
+  * **[MultiCoNER: A Large-scale Multilingual Dataset for Complex Named Entity Recognition](https://aclanthology.org/2022.coling-1.334/)** - *Shervin Malmasi, et al. (2022)*.
+  * **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174/)** - *Mehrad Moradshahi, et al. (2023)*.
+  * **[CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization](https://aclanthology.org/2024.lrec-main.367.pdf)** - *Ruochen Zhang, et al. (2024)*.
+  * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143/)** - *Sanchit Ahuja, et al. (2024)*.
+  * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://arxiv.org/abs/2503.21670)** - *Rajvee Sheth (2025)*.
+  * **[CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts](https://arxiv.org/abs/2505.05063)** - *Parth Sawant (2025)*.
+  * **[SwitchLingua: The First Large-Scale Multilingual and Multi-Ethnic Code-Switching Dataset](https://arxiv.org/abs/2506.00087)** - *Peng Xie (2025)*.
 
 ### Evaluation Metrics
 
