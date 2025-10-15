@@ -526,9 +526,17 @@
   * **[ENHANCING ASR ACCURACY AND COHERENCE ACROSS INDIAN LANGUAGES WITH WAV2VEC2 AND GPT - 2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari, et al. (2025)*.
   * **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030)** - *Yu Xi, et al. (2024)*.
 * **Speech Translation**
+
+  * **[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.151.pdf)** - *Humair Raj Khan, et al. (2021)*.
   * **[End-to-End Speech Translation for Code Switched Speech](https://aclanthology.org/2022.findings-acl.113/)** - *Weller, O., et al. (2022)*.
   * **[CoVoSwitch: Machine Translation of Synthetic Code-Switched Text Based on Intonation Units](https://aclanthology.org/2024.acl-srw.40/)** - *Kang, Y. (2024)*.
-
+  * **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030&tag=1)** - *Yu Xi, et al. (2024)*.
+  * **[Beyond Monolingual Limits: Fine-Tuning Monolingual ASR for Yoruba-English Code-Switching](https://aclanthology.org/2025.calcs-1.3.pdf)** - *Oreoluwa Babatunde, et al. (2025)*.
+  * **[The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR](https://aclanthology.org/2025.calcs-1.2.pdf)** - *Injy Hamed, et al. (2025)*.
+  * **[Code-Switching and Syntax: A Large–Scale Experiment](https://aclanthology.org/2025.findings-acl.600.pdf)** - *Igor Sterner, et al. (2025)*.
+  * **[Development of a code-switched Hindi-Marathi dataset and transformer-based architecture for enhanced speech recognition using dynamic switching algorithms](https://www.sciencedirect.com/science/article/pii/S0003682X24005590)** - *P. Hemant, et al. (2025)*.
+  * **[ENHANCING ASR ACCURACY AND COHERENCE ACROSS INDIAN LANGUAGES WITH WAV2VEC2 AND GPT - 2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari, et al. (2025)*.
+    
 ### Vision-Language & Document Processing
 
   * **[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.151/)** - *Raj Khan, H., et al. (2021)*.
