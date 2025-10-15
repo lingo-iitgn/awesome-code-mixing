@@ -449,9 +449,23 @@
 
 ### Post-training Approaches
 
+  * **[Saliency-based Multi-View Mixed Language Training for Zero-shot Cross-lingual Classification](https://aclanthology.org/2021.findings-emnlp.55.pdf)** - *Siyu Lai, et al. (2021)*.
+  * **[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18.pdf)** - *Jitin Krishnan, et al. (2021)*.
   * **[PRO-CS : An Instance-Based Prompt Composition Technique for Code-Switched Tasks](https://aclanthology.org/2022.emnlp-main.698/)** - *Bansal, S., et al. (2022)*.
-  * **[In-context Mixing (ICM): Code-mixed Prompts for Multilingual LLMs](https://aclanthology.org/2024.acl-long.228/)** - *Shankar, B., et al. (2024)*.
+  * **[ENTITY CS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching](https://aclanthology.org/2022.findings-emnlp.499.pdf)** - *Chenxi Whitehouse, et al. (2022)*.
+  * **[MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation](https://aclanthology.org/2022.coling-1.54.pdf)** - *Yongkang Liu, et al. (2022)*.
+  * **[MALM: Mixing Augmented Language Modeling for Zero-Shot Machine Translation](https://aclanthology.org/2022.nlp4dh-1.8.pdf)** - *Kshitij Gupta (2022)*.
+  * **[Multilingual Large Language Models Are Not (Yet) Code-Switchers](https://aclanthology.org/2023.emnlp-main.774.pdf)** - *Ruochen Zhang, et al. (2023)*.
+  * **[Transfer Learning for Code-Mixed Data: Do Pretraining Languages Matter?](https://aclanthology.org/2023.wassa-1.32.pdf)** - *Kushal Tatariya, et al. (2023)*.
+  * **[Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages](https://aclanthology.org/2023.calcs-1.5.pdf)** - *Zheng-Xin Yong, et al. (2023)*.
+  * **[OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification](https://aclanthology.org/2023.socialnlp-1.3/)** - *Dhiman Goswami, et al. (2023)*.
   * **[Leveraging Large Language Models for Code-Mixed Data Augmentation in Sentiment Analysis](https://aclanthology.org/2024.sicon-1.6/)** - *Zeng, L. (2024)*.
+  * **[In-context Mixing (ICM): Code-mixed Prompts for Multilingual LLMs](https://aclanthology.org/2024.acl-long.228/)** - *Shankar, B., et al. (2024)*.
+  * **[From Translation to Generative LLMs: Classification of Code-Mixed Affective Tasks](https://ieeexplore.ieee.org/abstract/document/10938193)** - *Authors not extracted (2024)*.
+  * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://arxiv.org/pdf/2503.21670)** - *Rajvee Sheth, et al. (2025)*.
+  * **[DweshVaani: An LLM for Detecting Religious Hate Speech in Code-Mixed Hindi-English](https://aclanthology.org/2025.chipsal-1.5.pdf)** - *Varad Srivastava (2025)*.
+  * **[Multi-task detection of harmful content in code-mixed meme captions using large language models with zero-shot, few-shot, and fine-tuning approaches](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla, et al. (2025)*.
+  * **[An Adapted Few-Shot Prompting Technique Using ChatGPT to Advance Low-Resource Languages Understanding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016028)** - *Yash Raj Sarrof, et al. (2025)*.
 
 -----
 
