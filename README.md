@@ -461,7 +461,7 @@
   * **[OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification](https://aclanthology.org/2023.socialnlp-1.3/)** - *Dhiman Goswami, et al. (2023)*.
   * **[Leveraging Large Language Models for Code-Mixed Data Augmentation in Sentiment Analysis](https://aclanthology.org/2024.sicon-1.6/)** - *Zeng, L. (2024)*.
   * **[In-context Mixing (ICM): Code-mixed Prompts for Multilingual LLMs](https://aclanthology.org/2024.acl-long.228/)** - *Shankar, B., et al. (2024)*.
-  * **[From Translation to Generative LLMs: Classification of Code-Mixed Affective Tasks](https://ieeexplore.ieee.org/abstract/document/10938193)** - *Authors not extracted (2024)*.
+  * **[From Translation to Generative LLMs: Classification of Code-Mixed Affective Tasks](https://ieeexplore.ieee.org/abstract/document/10938193)** - * Anjali Yadav, et al. (2024)*.
   * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://arxiv.org/pdf/2503.21670)** - *Rajvee Sheth, et al. (2025)*.
   * **[DweshVaani: An LLM for Detecting Religious Hate Speech in Code-Mixed Hindi-English](https://aclanthology.org/2025.chipsal-1.5.pdf)** - *Varad Srivastava (2025)*.
   * **[Multi-task detection of harmful content in code-mixed meme captions using large language models with zero-shot, few-shot, and fine-tuning approaches](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla, et al. (2025)*.
