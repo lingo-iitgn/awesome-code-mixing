@@ -543,6 +543,10 @@
   * **["To Have the 'Million' Readers Yet": Building a Digitally Enhanced Edition of the Bilingual Irish-English Newspaper](https://aclanthology.org/2024.lt4hala-1.9/)** - *Dereza, O., et al. (2024)*.
   * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143.pdf)** - *Sanchit Ahuja, et al. (2024)*.
   * **[ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos](https://aclanthology.org/2024.findings-acl.663.pdf)** - *Krishanu Maity, et al. (2024)*.
+  * **[Multi-task detection of harmful content in code-mixed meme captions using large language models with zero-shot, few-shot, and fine-tuning approaches](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla, et al. (2025)*.
+  * **[BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service](https://arxiv.org/abs/2503.22283)** - *Francesco Kruk (2025)*.
+  * **[Qorǵau: Evaluating Safety in Kazakh-Russian Bilingual Contexts](https://aclanthology.org/2025.findings-acl.507/)** - *Maiya Goloburda, et al. (2025)*.
+  * **[Enhancing Participatory Development Research in South Asia through LLM Agents System: An Empirically-Grounded Methodological Initiative from Field Evidence in Sri Lankan](https://aclanthology.org/2025.indonlp-1.13/)** - *Xinjie Zhao, et al. (2025)*.
 
 ### Cross-Modal Integration
 
