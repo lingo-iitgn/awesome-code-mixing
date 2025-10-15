@@ -550,9 +550,14 @@
 
 ### Cross-Modal Integration
 
+  * **[Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences](https://aclanthology.org/K19-1026/)** - *Genta Indra Winata, et al. (2019)*.
+  * **[Translate and Classify: Improving Sequence Level Classification for English-Hindi Code-Mixed Data](https://aclanthology.org/2021.calcs-1.3/)** - *Devansh Gautam, et al. (2021)*.
+  * **[Data Augmentation to Address Out of Vocabulary Problem in Low Resource Sinhala English Neural Machine Translation](https://aclanthology.org/2021.paclic-1.7/)** - *Aloka Fernando, et al. (2021)*.
   * **[CI-AVSR: A Cantonese Audio-Visual Speech Dataset for In-car Command Recognition](https://aclanthology.org/2022.lrec-1.731/)** - *Dai, W., et al. (2022)*.
+  * **[Typo-Robust Representation Learning for Dense Retrieval](https://aclanthology.org/2023.acl-short.95/)** - *Panuthep Tasawong, et al. (2023)*.
+  * **[Advancing Multi-Criteria Chinese Word Segmentation Through Criterion Classification and Denoising](https://aclanthology.org/2023.acl-long.356/)** - *Tzu Hsuan Chou, et al. (2023)*.
   * **[ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos](https://aclanthology.org/2024.findings-acl.663/)** - *Maity, K., et al. (2024)*.
-
+  * **[Machine Translation and Transliteration for Indo-Aryan Languages: A Systematic Review](https://aclanthology.org/2025.indonlp-1.2/)** - *Sandun Sameera Perera, et al. (2025)*.
 -----
 
 
