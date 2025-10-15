@@ -418,6 +418,7 @@
 ### Fine-tuning Approaches
 
   * **[From English to Code-Switching: Transfer Learning with Strong Morphological Clues](https://aclanthology.org/2020.acl-main.716.pdf)** - *Gustavo Aguilar, et al. (2020)*.
+  * **[FiSSA at SemEval-2020 Task 9: Fine-tuned for Feelings](https://aclanthology.org/2020.semeval-1.165/)** - *Bertelt Braaksma, et al. (2020)*.
   * **[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206.pdf)** - *Deepak Gupta, et al. (2020)*.
   * **[A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42.pdf)** - *Suman Dowlagar, et al. (2021)*.
   * **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Archiki Prasad, et al. (2021)*.
