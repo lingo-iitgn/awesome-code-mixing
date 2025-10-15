@@ -384,6 +384,7 @@
 ### Frameworks & Toolkits
 
   * **[CoSSAT: Code-Switched Speech Annotation Tool](https://aclanthology.org/D19-5907/)** - *Shah, S., et al. (2019)*.
+  * **[A Unified Framework for Multilingual and Code-Mixed Visual Question Answering](https://aclanthology.org/2020.aacl-main.90/)** - *Deepak Gupta, et al. (2020)*.
   * **[CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing](https://aclanthology.org/2021.calcs-1.14/)** - *Jayanthi, S. M., et al. (2021)*.
   * **[GCM: A Toolkit for Generating Synthetic Code-mixed Text](https://aclanthology.org/2021.eacl-demos.24/)** - *Rizvi, M. S. Z., et al. (2021)*.
   * **[Commentator: A Code-mixed Multilingual Text Annotation Framework](https://aclanthology.org/2024.emnlp-demo.11)** - *Sheth, R., et al. (2024)*.
