@@ -492,7 +492,6 @@
 
 ### Evaluation Metrics
 
-
   * **[Bleu: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040/)** - *Papineni, K., et al. (2002)*.
   * **[chrF: character n-gram F-score for automatic MT evaluation](https://aclanthology.org/W15-3049/)** - *Popović, M. (2015)*.
   * **[Code-Mixing in Social Media Text](https://aclanthology.org/2013.tal-3.3/)** - *Amitava Das, et al. (2013)*.
@@ -542,6 +541,7 @@
 
   * **[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.151/)** - *Raj Khan, H., et al. (2021)*.
   * **["To Have the 'Million' Readers Yet": Building a Digitally Enhanced Edition of the Bilingual Irish-English Newspaper](https://aclanthology.org/2024.lt4hala-1.9/)** - *Dereza, O., et al. (2024)*.
+  * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143.pdf)** - *Sanchit Ahuja, et al. (2024)*.
 
 ### Cross-Modal Integration
 
