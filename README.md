@@ -332,6 +332,7 @@
 
   * **[Detecting Entailment in Code-Mixed Hindi-English Conversations](https://aclanthology.org/2020.wnut-1.22.pdf)** - *Sharanya Chakravarthy, et al. (2020)*.
   * **[A New Dataset for Natural Language Inference from Code-mixed Conversations](https://aclanthology.org/2020.calcs-1.2.pdf)** - *Simran Khanuja, et al. (2020)*.
+  * **[Do Multilingual Users Prefer Chat-bots that Code-mix? Let's Nudge and Find Out!](https://dl.acm.org/doi/abs/10.1145/3392846)** - *Anshul Bawa, et al. (2020)*.
   * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Libo Qin, et al. (2020)*.
   * **[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18.pdf)** - *Jitin Krishnan, et al. (2021)*.
   * **[Towards Code-Mixed Hinglish Dialogue Generation](https://aclanthology.org/2021.nlp4convai-1.26.pdf)** - *Vibhav Agarwal, et al. (2021)*.
