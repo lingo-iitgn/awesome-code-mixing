@@ -61,6 +61,9 @@
   * **[A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies](https://aclanthology.org/2021.acl-long.131/)** - *Doğruöz, A. S., et al. (2021)*.
   * **[The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges](https://aclanthology.org/2023.findings-acl.185/)** - *Winata, G. I., et al. (2023)*.
   * **[A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions](https://aclanthology.org/2025.coling-main.307/)** - *Hamed, I., et al. (2025)*.
+
+* **Position Paper** 
+   * **[Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions](https://www.mdpi.com/2226-471X/7/3/220)** - *Li Nguyen, et al. (2022)*.
 -----
 
 ## 1\. NLP Tasks
