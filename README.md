@@ -71,8 +71,6 @@
 
 ### Language Identification (LID)
 
-
-  * **[Word-level Language Identification using CRF: Code-switching Shared Task Report of MSR India System](https://aclanthology.org/W14-3908/)** - *Chittaranjan, G., et al. (2014)*.
   * **[Word Level Language Identification in English Telugu Code Mixed Data](https://aclanthology.org/Y18-1021/)** - *Gundapu, S. & Mamidi, R. (2018)*.
   * **[A fast, compact, accurate model for language identification of codemixed text](https://arxiv.org/abs/1810.04142)** - *Zhang, Y., et al. (2018)*.
   * **[Language identification framework in code-mixed social media text based on quantum LSTM](https://api.semanticscholar.org/CorpusID:214459891)** - *Shekhar, S., et al. (2020)*.
@@ -270,7 +268,6 @@
 
 ### Machine Translation (MT)
 
-  * **[Towards translating mixed-code comments from social media](https://doi.org/10.1007/978-3-319-77116-8_34)** - *Singh, T. D. & Solorio, T. (2017)*.
   * **[Code-Switching for Enhancing NMT with Pre-Specified Translation](https://aclanthology.org/N19-1044.pdf)** - *Song, K., et al. (2019)*.
   * **[PhraseOut: A Code Mixed Data Augmentation Method for Multilingual Neural Machine Translation](https://aclanthology.org/2020.icon-main.63.pdf)** - *Jasim, B., et al. (2020)*.
   * **[CoMeT: Towards Code-Mixed Translation Using Parallel Monolingual Sentences](https://aclanthology.org/2021.calcs-1.7.pdf)** - *Gautam, D., et al. (2021)*.
