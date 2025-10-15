@@ -511,8 +511,20 @@
 > Applying code-switching NLP to speech, vision, and other modalities.
 
 ### Speech Processing
-
-  * **[Bilingual by default: Voice Assistants and the role of code-switching in creating a bilingual user experience](https://doi.org/10.1145/3543829.3544511)** - *Cihan, H., et al. (2022)*.
+* **ASR** 
+  * **[Dependency Parsing for English–Malayalam Code-mixed Text](https://aclanthology.org/K19-1026.pdf)** - *Sanket Sonu, et al. (2019)*.
+  * **[Semi-supervised Acoustic and Language Model Training for English-isiZulu Code-Switched Speech Recognition](https://aclanthology.org/2020.calcs-1.7.pdf)** - *Astik Biswas, et al. (2020)*.
+  * **[Improving code-switched ASR with linguistic information](https://aclanthology.org/2022.coling-1.627.pdf)** - *Jie Chi, et al. (2022)*.
+  * **[End-to-End Speech Translation for Code Switched Speech](https://aclanthology.org/2022.findings-acl.113.pdf)** - *Orion Weller, et al. (2022)*.
+  * **[Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation](https://aclanthology.org/2023.findings-emnlp.382.pdf)** - *A. Seza Doğruöz, et al. (2023)*.
+  * **[New Datasets and Controllable Iterative Data Augmentation Method for Code-switching ASR Error Correction](https://aclanthology.org/2023.findings-emnlp.543.pdf)** - *Zhaohong Wan, et al. (2023)*.
+  * **[Code-Mixed Text Augmentation for Latvian ASR](https://aclanthology.org/2024.lrec-main.308.pdf)** - *Martins Kronis, et al. (2024)*.
+  * **[The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR](https://aclanthology.org/2025.calcs-1.2.pdf)** - *Injy Hamed, et al. (2025)*.
+  * **[Beyond Monolingual Limits: Fine-Tuning Monolingual ASR for Yoruba-English Code-Switching](https://aclanthology.org/2025.calcs-1.3.pdf)** - *Oreoluwa Babatunde, et al. (2025)*.
+  * **[Development of a code-switched Hindi-Marathi dataset and transformer-based architecture for enhanced speech recognition using dynamic switching algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005590)** - *Palash Jain, et al. (2025)*.
+  * **[ENHANCING ASR ACCURACY AND COHERENCE ACROSS INDIAN LANGUAGES WITH WAV2VEC2 AND GPT - 2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari, et al. (2025)*.
+  * **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030)** - *Yu Xi, et al. (2024)*.
+* **Speech Translation**
   * **[End-to-End Speech Translation for Code Switched Speech](https://aclanthology.org/2022.findings-acl.113/)** - *Weller, O., et al. (2022)*.
   * **[CoVoSwitch: Machine Translation of Synthetic Code-Switched Text Based on Intonation Units](https://aclanthology.org/2024.acl-srw.40/)** - *Kang, Y. (2024)*.
 
