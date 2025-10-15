@@ -429,7 +429,7 @@
   * **[ENTITYCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching](https://aclanthology.org/2022.findings-emnlp.499.pdf)** - *Chenxi Whitehouse, et al. (2022)*.
   * **[COCOA: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Sneha Mondal, et al. (2022)*.
   * **[Transfer Learning for Code-Mixed Data: Do Pretraining Languages Matter?](https://aclanthology.org/2023.wassa-1.32.pdf)** - *Kushal Tatariya, et al. (2023)*.
-  * **[From Translation to Generative LLMs: Classification of Code-Mixed Affective Tasks](https://ieeexplore.ieee.org/abstract/document/10938193)** - *Authors not extracted (2024)*.
+  * **[From Translation to Generative LLMs: Classification of Code-Mixed Affective Tasks](https://ieeexplore.ieee.org/abstract/document/10938193)** - *Anjali Yadav, et al. (2024)*.
   * **[SetFit: A Robust Approach for Offensive Content Detection in Tamil-English Code-Mixed Conversations Using Sentence Transfer Fine-tuning](https://aclanthology.org/2024.dravidianlangtech-1.6.pdf)** - *Kathiravan Pannerselvam, et al. (2024)*.
   * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, et al. (2024)*.
   * **[COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning](https://aclanthology.org/2024.findings-naacl.198/)** - *Lee, J., et al. (2024)*.
