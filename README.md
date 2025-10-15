@@ -542,6 +542,7 @@
   * **[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.151/)** - *Raj Khan, H., et al. (2021)*.
   * **["To Have the 'Million' Readers Yet": Building a Digitally Enhanced Edition of the Bilingual Irish-English Newspaper](https://aclanthology.org/2024.lt4hala-1.9/)** - *Dereza, O., et al. (2024)*.
   * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143.pdf)** - *Sanchit Ahuja, et al. (2024)*.
+  * **[ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos](https://aclanthology.org/2024.findings-acl.663.pdf)** - *Krishanu Maity, et al. (2024)*.
 
 ### Cross-Modal Integration
 
