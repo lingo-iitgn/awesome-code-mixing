@@ -580,7 +580,7 @@
 
 ## Contributing
 
-Your contributions are always welcome and make this community resource better\! Please read the `CONTRIBUTING.md` file for guidelines.
+Your contributions are always welcome and make this community resource better\!
 
 If you have a paper, dataset, or tool you'd like to add:
 
