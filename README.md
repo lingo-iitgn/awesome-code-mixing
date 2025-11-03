@@ -488,7 +488,7 @@
   * **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174/)** - *Mehrad Moradshahi, et al. (2023)*.
   * **[CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization](https://aclanthology.org/2024.lrec-main.367.pdf)** - *Ruochen Zhang, et al. (2024)*.
   * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143/)** - *Sanchit Ahuja, et al. (2024)*.
-  * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://arxiv.org/abs/2503.21670)** - *Rajvee Sheth (2025)*.
+  * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://aclanthology.org/2025.findings-emnlp.422.pdf)** - *Rajvee Sheth, et al. (2025)*.
   * **[CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts](https://arxiv.org/abs/2505.05063)** - *Parth Sawant (2025)*.
   * **[SwitchLingua: The First Large-Scale Multilingual and Multi-Ethnic Code-Switching Dataset](https://arxiv.org/abs/2506.00087)** - *Peng Xie (2025)*.
 
