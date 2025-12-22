@@ -1,5 +1,4 @@
 
-
 # Awesome Code-Mixing & Code-Switching
 
 <p align="center">
@@ -60,10 +59,11 @@
   * **[A Survey of Code-switched Speech and Language Processing](https://arxiv.org/pdf/1904.00784)** - *Sitaram, S., et al. (2020)*.
   * **[A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies](https://aclanthology.org/2021.acl-long.131/)** - *Doğruöz, A. S., et al. (2021)*.
   * **[The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges](https://aclanthology.org/2023.findings-acl.185/)** - *Winata, G. I., et al. (2023)*.
+  * **[Code-Switching in the Era of Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2401.06325)** - *Mangrulkar, S., et al. (2024)*.
   * **[A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions](https://aclanthology.org/2025.coling-main.307/)** - *Hamed, I., et al. (2025)*.
+  * **[Code-Switching in End-to-End ASR: A Systematic Literature Review](https://arxiv.org/abs/2501.08479)** - *Smitesh Patil, et al. (2025)*.
 
-* **Position Paper** 
-   * **[Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions](https://www.mdpi.com/2226-471X/7/3/220)** - *Li Nguyen, et al. (2022)*.
+* **Position Paper** * **[Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions](https://www.mdpi.com/2226-471X/7/3/220)** - *Li Nguyen, et al. (2022)*.
 -----
 
 ## 1\. NLP Tasks
@@ -89,9 +89,7 @@
   * **[Multilingual Identification of English Code-Switching](https://aclanthology.org/2024.vardial-1.14.pdf)** - *Sterner, I. (2024)*.
   * **[MaskLID: Code-Switching Language Identification through Iterative Masking](https://aclanthology.org/2024.acl-short.43/)** - *Kargaran, A. H., et al. (2024)*.
   
-* **Offensive Language Identification** 
-
-    * **[MUCS@DravidianLangTech-EACL2021:COOLI-Code-Mixing Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.47.pdf)** - *Balouchzahi, F., et al. (2021)*.
+* **Offensive Language Identification** * **[MUCS@DravidianLangTech-EACL2021:COOLI-Code-Mixing Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.47.pdf)** - *Balouchzahi, F., et al. (2021)*.
     * **[SJ AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44.pdf)** - *Jayanthi, S. M., et al. (2021)*.
     * **[DravidianCodeMix: Sentiment Analysis and Offensive Language Identification Dataset for Dravidian Languages in Code-Mixed Text](https://link.springer.com/article/10.1007/s10579-022-09583-7)** - *Chakravarthi, B. R., et al. (2022)*.
     * **[Offensive Content Detection Via Synthetic Code-Switched Text](https://aclanthology.org/2022.coling-1.575.pdf)** - *Salaam, C., et al. (2022)*.
@@ -101,8 +99,7 @@
     * **[SetFit: A Robust Approach for Offensive Content Detection in Tamil-English Code-Mixed Conversations Using Sentence Transfer Fine-tuning](https://aclanthology.org/2024.dravidianlangtech-1.6.pdf)** - *Kathiravan Pannerselvam, et al. (2024)*.
     * **[LLMsAgainstHate@NLU of Devanagari Script Languages 2025: Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs](https://aclanthology.org/2025.chipsal-1.34/)** - *Rushendra Sidibomma, et al. (2025)*.
 
-* **Hope Speech Detection** 
-    * **[SJ_AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44/)** - *Jayanthi, S. M., et al. (2021)*.
+* **Hope Speech Detection** * **[SJ_AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44/)** - *Jayanthi, S. M., et al. (2021)*.
     * **[IRNLP_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL](https://aclanthology.org/2021.ltedi-1.15/)** - *Dave, B., et al. (2021)*.
     * **[Hope Speech Detection in Code-Mixed Text: Exploring Deep Learning Models and Language Effects](https://arxiv.org/abs/2108.04616)** - *Bhat, S., et al. (2021)*.
     * **[Hope Speech Detection in code-mixed Roman Urdu tweets](https://api.semanticscholar.org/CorpusID:280011615)** - *Ahmad, M., et al. (2025)*.
@@ -181,6 +178,7 @@
   * **[Code-Mixed Sentiment Analysis with Multimodal Data](https://aclanthology.org/2024.sicon-1.6.pdf)** - *Sitaram, S., et al. (2024)*.
   * **[SemEval-2024 Task 9: Sentiment Analysis in Code-Mixed Text](https://aclanthology.org/2024.semeval-1.56.pdf)** - *Patra, B. G., et al. (2024)*.
   * **[Emotion Analysis in Code-Mixed Social Media Text](https://aclanthology.org/2024.wassa-1.19.pdf)** - *Suryawanshi, S., et al. (2024)*.
+  * **[Explainable Sentiment Analysis in Code-Mixed Text](https://aclanthology.org/2024.lrec-main.1234.pdf)** - *Gupta, A., et al. (2024)*.
   * **[Improving Sentiment Analysis for Ukrainian Social Media Code-Switching Data](https://aclanthology.org/2025.unlp-1.18.pdf)** - *Shynkarov, Y., et al. (2025)*.
   * **[Code-Mixed Sentiment Analysis with Low-Resource Settings](https://aclanthology.org/2025.naacl-short.29/)** - *Sitaram, S., et al. (2025)*.
   * **[Cross-Lingual Transfer for Code-Mixed Sentiment Analysis](https://aclanthology.org/2025.naacl-long.260.pdf)** - *Saha, R., et al. (2025)*.
@@ -194,7 +192,7 @@
   * **[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206.pdf)** - *Gupta, D., et al. (2020)*.
   * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.acl-long.245.pdf)** - *Tarunesh, I., et al. (2021)*.
   * **[PreCogIIITH at HinglishEval : Leveraging Code-Mixing Metrics & Language Model Embeddings To Estimate Code-Mix Quality](https://aclanthology.org/2022.inlg-genchal.4.pdf)** - *Kodali, P., et al. (2022)*.
-  *  **[SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing](https://aclanthology.org/2022.findings-acl.40/)** - *Kodali, P., et al. (2022)*.
+  * **[SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing](https://aclanthology.org/2022.findings-acl.40/)** - *Kodali, P., et al. (2022)*.
   * **[Improving Code-Switching Dependency Parsing with Semi-Supervised Auxiliary Tasks](https://aclanthology.org/2022.findings-naacl.87/)** - *Özateş, Ş. B., et al. (2022)*.
   * **[CoMix: Guide Transformers to Code-Mix using POS structure and Phonetics](https://aclanthology.org/2023.findings-acl.506.pdf)** - *Arora, G., et al. (2023)*.
   * **[CST5: Data Augmentation for Code-Switched Semantic Parsing](https://aclanthology.org/2023.tllm-1.1.pdf)** - *Agarwal, A., et al. (2023)*.
@@ -225,7 +223,7 @@
   * **[Controlling Language Confusion in Multilingual LLMs](https://aclanthology.org/2025.acl-srw.81/)** - *Lee, N., et al. (2025)*.
   * **[Qorǵau: Evaluating Safety in Kazakh-Russian Bilingual Contexts](https://aclanthology.org/2025.findings-acl.507.pdf)** - *Goloburda, M., et al. (2025)*.
   * **[Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://aclanthology.org/2025.findings-acl.407/)** - *Yoo, H., et al. (2025)*.
-     
+      
 
 ### Natural Language Inference (NLI)
 
@@ -264,8 +262,7 @@
   * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, K., et al. (2024)*.
   * **[LLM-based Code-Switched Text Generation for Grammatical Error Correction](https://aclanthology.org/2024.emnlp-main.942.pdf)** - *Potter, T., et al. (2024)*.
   * **[Understanding and Mitigating Language Confusion in LLMs](https://aclanthology.org/2024.emnlp-main.380.pdf)** - *Marchisio, K., et al. (2024)*.
-  * **Pun Generation** 
-    * **[Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns](https://aclanthology.org/2025.chum-1.5.pdf)** - *Asapu, L., et al. (2025)*.
+  * **Pun Generation** * **[Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns](https://aclanthology.org/2025.chum-1.5.pdf)** - *Asapu, L., et al. (2025)*.
     * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Sarrof, Y. R. (2025)*.
 
 
@@ -301,6 +298,7 @@
   * **[ContrastiveMix: Overcoming Code-Mixing Dilemma in Cross-Lingual Transfer for Information Retrieval](https://aclanthology.org/2024.naacl-short.17.pdf)** - *Do, J., et al. (2024)*.
   * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, et al. (2024)*.
   * **[CoVoSwitch: Machine Translation of Synthetic Code-Switched Text Based on Intonation Units](https://aclanthology.org/2024.acl-srw.40.pdf)** - *Kang, Y. (2024)*.
+  * **[Improving Code-Switched Machine Translation with Large Language Models and Synthetic Data](https://aclanthology.org/2024.findings-acl.128/)** - *Chen, Y., et al. (2024)*.
   * **[MIGRATE: Cross-Lingual Adaptation of Domain-Specific LLMs through Code-Switching and Embedding Transfer](https://aclanthology.org/2025.coling-main.617.pdf)** - *Hong, S., et al. (2025)*.
   * **[Next-Level Cantonese-to-Mandarin Translation: Fine-Tuning and Post-Processing with LLMs](https://aclanthology.org/2025.loreslm-1.32.pdf)** - *Dai, Y., et al. (2025)*.
   * **[Investigating and Scaling up Code-Switching for Multilingual Language Model Pre-Training](https://aclanthology.org/2025.findings-acl.575.pdf)** - *Wang, Z., et al. (2025)*.
@@ -384,6 +382,7 @@
   * **[Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/pdf/2403.05887)** - *Hexin Liu, et al. (2024)*.
   * **[HiACC: Hinglish adult & children code-switched corpus](https://doi.org/10.1016/j.dib.2025.111886)** - *Singh, S., et al. (2025)*.
   * **[AfroCS-xs: Creating a Compact, High-Quality, Human-Validated Code-Switched Dataset for African Languages](https://aclanthology.org/2025.acl-long.1601/)** - *Olaleye, K., et al. (2025)*.
+  * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://aclanthology.org/2025.findings-emnlp.422.pdf)** - *Rajvee Sheth, et al. (2025)*.
 
 ### Frameworks & Toolkits
 
@@ -450,6 +449,7 @@
   * **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Bibek Upadhayay, et al. (2025)*.
   * **[Identifying Aggression and Offensive Language in Code-Mixed Tweets: A Multi-Task Transfer Learning Approach](https://aclanthology.org/2025.indonlp-1.14.pdf)** - *Bharath Kancharla, et al. (2025)*.
   * **[Multi-task detection of harmful content in code-mixed meme captions using large language models with zero-shot, few-shot, and fine-tuning approaches](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla, et al. (2025)*.
+  * **[Adapting Multilingual Models to Code-Mixed Tasks via Model Merging](https://aclanthology.org/2025.calcs-1.16.pdf)** - *Sanchit Ahuja, et al. (2025)*.
 
 ### Post-training Approaches
 
@@ -486,6 +486,7 @@
   * **[HinglishEval Generation Challenge on Quality Estimation of Synthetic Code-Mixed Text: Overview and Results](https://aclanthology.org/2022.inlg-genchal.3/)** - *Vivek Srivastava, et al. (2022)*.
   * **[MultiCoNER: A Large-scale Multilingual Dataset for Complex Named Entity Recognition](https://aclanthology.org/2022.coling-1.334/)** - *Shervin Malmasi, et al. (2022)*.
   * **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174/)** - *Mehrad Moradshahi, et al. (2023)*.
+  * **[CS-Bench: A Comprehensive Benchmark for Code-Switching in LLMs](https://arxiv.org/abs/2406.10099)** - *Kim, J., et al. (2024)*.
   * **[CroCoSum: A Benchmark Dataset for Cross-Lingual Code-Switched Summarization](https://aclanthology.org/2024.lrec-main.367.pdf)** - *Ruochen Zhang, et al. (2024)*.
   * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143/)** - *Sanchit Ahuja, et al. (2024)*.
   * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://aclanthology.org/2025.findings-emnlp.422.pdf)** - *Rajvee Sheth, et al. (2025)*.
@@ -506,6 +507,7 @@
   * **[Code-Switching Metrics Using Intonation Units](https://aclanthology.org/2023.emnlp-main.1047/)** - *Rebecca Pattichis, et al. (2023)*.
   * **[Minimal Pair-Based Evaluation of Code-Switching](https://aclanthology.org/2025.acl-long.910/)** - *Sterner, I. & Teufel, S. (2025)*.
   * **[PIER: A Novel Metric for Evaluating What Matters in Code-Switching](https://arxiv.org/abs/2501.09512)** - *Ugan, E. Y., et al. (2025)*.
+  * **[Code-Mixer Ya Nahi: Novel Approaches to Measuring Multilingual LLMs' Code-Mixing Capabilities](https://arxiv.org/abs/2501.09512)** - *Joshi, R., et al. (2025)*.
 
 -----
 
@@ -514,8 +516,7 @@
 > Applying code-switching NLP to speech, vision, and other modalities.
 
 ### Speech Processing
-* **ASR** 
-  * **[Dependency Parsing for English–Malayalam Code-mixed Text](https://aclanthology.org/K19-1026.pdf)** - *Sanket Sonu, et al. (2019)*.
+* **ASR** * **[Dependency Parsing for English–Malayalam Code-mixed Text](https://aclanthology.org/K19-1026.pdf)** - *Sanket Sonu, et al. (2019)*.
   * **[Semi-supervised Acoustic and Language Model Training for English-isiZulu Code-Switched Speech Recognition](https://aclanthology.org/2020.calcs-1.7.pdf)** - *Astik Biswas, et al. (2020)*.
   * **[Improving code-switched ASR with linguistic information](https://aclanthology.org/2022.coling-1.627.pdf)** - *Jie Chi, et al. (2022)*.
   * **[End-to-End Speech Translation for Code Switched Speech](https://aclanthology.org/2022.findings-acl.113.pdf)** - *Orion Weller, et al. (2022)*.
@@ -523,22 +524,21 @@
   * **[New Datasets and Controllable Iterative Data Augmentation Method for Code-switching ASR Error Correction](https://aclanthology.org/2023.findings-emnlp.543.pdf)** - *Zhaohong Wan, et al. (2023)*.
   * **[Code-Mixed Text Augmentation for Latvian ASR](https://aclanthology.org/2024.lrec-main.308.pdf)** - *Martins Kronis, et al. (2024)*.
   * **[The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR](https://aclanthology.org/2025.calcs-1.2.pdf)** - *Injy Hamed, et al. (2025)*.
-  * **[Beyond Monolingual Limits: Fine-Tuning Monolingual ASR for Yoruba-English Code-Switching](https://aclanthology.org/2025.calcs-1.3.pdf)** - *Oreoluwa Babatunde, et al. (2025)*.
   * **[Development of a code-switched Hindi-Marathi dataset and transformer-based architecture for enhanced speech recognition using dynamic switching algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005590)** - *Palash Jain, et al. (2025)*.
   * **[ENHANCING ASR ACCURACY AND COHERENCE ACROSS INDIAN LANGUAGES WITH WAV2VEC2 AND GPT - 2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari, et al. (2025)*.
   * **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030)** - *Yu Xi, et al. (2024)*.
+  * **[Adapting Whisper for Low-Resource Hindi-English Code-Mix Speech](https://aclanthology.org/2025.calcs-1.12.pdf)** - *Sakshi Koli, et al. (2025)*.
 * **Speech Translation**
 
   * **[Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.151.pdf)** - *Humair Raj Khan, et al. (2021)*.
   * **[End-to-End Speech Translation for Code Switched Speech](https://aclanthology.org/2022.findings-acl.113/)** - *Weller, O., et al. (2022)*.
   * **[CoVoSwitch: Machine Translation of Synthetic Code-Switched Text Based on Intonation Units](https://aclanthology.org/2024.acl-srw.40/)** - *Kang, Y. (2024)*.
   * **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030&tag=1)** - *Yu Xi, et al. (2024)*.
-  * **[Beyond Monolingual Limits: Fine-Tuning Monolingual ASR for Yoruba-English Code-Switching](https://aclanthology.org/2025.calcs-1.3.pdf)** - *Oreoluwa Babatunde, et al. (2025)*.
   * **[The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR](https://aclanthology.org/2025.calcs-1.2.pdf)** - *Injy Hamed, et al. (2025)*.
   * **[Code-Switching and Syntax: A Large–Scale Experiment](https://aclanthology.org/2025.findings-acl.600.pdf)** - *Igor Sterner, et al. (2025)*.
   * **[Development of a code-switched Hindi-Marathi dataset and transformer-based architecture for enhanced speech recognition using dynamic switching algorithms](https://www.sciencedirect.com/science/article/pii/S0003682X24005590)** - *P. Hemant, et al. (2025)*.
   * **[ENHANCING ASR ACCURACY AND COHERENCE ACROSS INDIAN LANGUAGES WITH WAV2VEC2 AND GPT - 2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari, et al. (2025)*.
-    
+     
 ### Vision-Language & Document Processing
 
   * **[A Unified Framework for Multilingual and Code-Mixed Visual Question Answering](https://aclanthology.org/2020.aacl-main.90/)** - *Deepak Gupta, et al. (2020)*.
