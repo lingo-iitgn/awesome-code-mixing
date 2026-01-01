@@ -53,6 +53,9 @@
 
 -----
 
+## Taxonomy diagram of research landscape in codemixing
+<img width="932" height="1398" alt="image" src="https://github.com/user-attachments/assets/f53ed277-9dfc-4627-bc9b-a128b58c5eb9" />
+
 ## Survey Papers
 
 > Comprehensive reviews of the code-switching research landscape. A great place to start.
