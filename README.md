@@ -79,7 +79,7 @@
 
   * **[Word Level Language Identification in English Telugu Code Mixed Data](https://aclanthology.org/Y18-1021/)** - *Gundapu, S. & Mamidi, R. (2018)*. ![](https://img.shields.io/badge/date-2018-red)
   * **[A fast, compact, accurate model for language identification of codemixed text](https://arxiv.org/abs/1810.04142)** - *Zhang, Y., et al. (2018)*. ![](https://img.shields.io/badge/date-2018-red)
-  * **[Language identification framework in code-mixed social media text based on quantum LSTM](https://api.semanticscholar.org/CorpusID:214459891)** - *Shekhar, S., et al. (2020)*. ![](https://img.shields.io/badge/date-202--red)
+  * **[Language identification framework in code-mixed social media text based on quantum LSTM](https://api.semanticscholar.org/CorpusID:214459891)** - *Shekhar, S., et al. (2020)*. ![](https://img.shields.io/badge/date-2020-red)
   * **[A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42.pdf)** - *Dowlagar, S., et al. (2021)*. ![](https://img.shields.io/badge/date-2021-red)
   * **[Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far can we get?](https://aclanthology.org/2021.calcs-1.9/)** - *Iliescu, D.-M., et al. (2021)*. ![](https://img.shields.io/badge/date-2021-red)
   * **[IRNLP\_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL](https://aclanthology.org/2021.ltedi-1.15/)** - *Dave, B., et al. (2021)*. ![](https://img.shields.io/badge/date-2021-red)
