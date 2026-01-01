@@ -33,7 +33,7 @@
       * [Text Summarization](#text-summarization)
       * [Dialogue Generation](#dialogue-generation)
       * [Transliteration](#transliteration)
-  * [1.3. Underexplored and Frontier Tasks](#13-underexplored-tasks)
+  * [1.3. Underexplored and Frontier Tasks](#13-underexplored-and-frontier-tasks)
       * [Conversation & Speech](#conversation-and-speech)
       * [Safety & Multimodal](#safety-and-multimodal)
       * [Reasoning & Abstraction](#reasoning-and-abstraction)
@@ -210,68 +210,6 @@
   * **[A Survey of Code-switched Arabic NLP: Progress, Challenges, and Future Directions](https://aclanthology.org/2025.americasnlp-1.2.pdf)** - *Hamed, I., et al. (2025)*.
   * **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Kodali, P., et al. (2025)*.
 
-  
-### Intent Classification
-
-  * **[IIT Gandhinagar at SemEval-2020 Task 9: Code-Mixed Sentiment Classification Using Candidate Sentence Generation and Selection](https://aclanthology.org/2020.semeval-1.168/)** - *Srivastava, V. & Singh, M. (2020)*.
-  * **[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18/)** - *Krishnan, J., et al. (2021)*.
-  * **[Regional language code-switching for natural language understanding and intelligent digital assistants](https://doi.org/10.1007/978-981-16-0749-3_71)** - *Rajeshwari, S. & Kallimani, J. S. (2021)*.
-  * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Nag, A., et al. (2024)*.
-
-### Question Answering (QA)
-
-  * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering](https://aclanthology.org/K18-1012/)** - *Gupta, D., et al. (2018)*.
-  * **[Code-Mixed Question Answering Challenge using Deep Learning Methods](https://www.google.com/search?q=https://doi.org/10.1109/ICCES48766.2020.9137971)** - *Thara, S., et al. (2020)*.
-  * **[MLQA: Evaluating Cross-lingual Extractive Question Answering](https://aclanthology.org/2020.acl-main.653/)** - *Lewis, P., et al. (2020)*
-  * **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Prasad, A., et al. (2021)*.
-  * **[To Ask LLMs about English Grammaticality, Prompt Them in a Different Language](https://aclanthology.org/2024.findings-emnlp.916.pdf)** - *Behzad, S., et al. (2024)*.
-  * **[COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning](https://aclanthology.org/2024.findings-naacl.198.pdf)** - *Lee, J., et al. (2024)*.
-  * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143/)** - *Ahuja, S., et al. (2024)*.
-  * **[Controlling Language Confusion in Multilingual LLMs](https://aclanthology.org/2025.acl-srw.81/)** - *Lee, N., et al. (2025)*.
-  * **[Qorǵau: Evaluating Safety in Kazakh-Russian Bilingual Contexts](https://aclanthology.org/2025.findings-acl.507.pdf)** - *Goloburda, M., et al. (2025)*.
-  * **[Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://aclanthology.org/2025.findings-acl.407/)** - *Yoo, H., et al. (2025)*.
-      
-
-### Natural Language Inference (NLI)
-
-  * **[Detecting entailment in code-mixed Hindi-English conversations](https://aclanthology.org/2020.wnut-1.22/)** - *Chakravarthy, S., et al. (2020)*.
-  * **[A New Dataset for Natural Language Inference from Code-mixed Conversations](https://aclanthology.org/2020.calcs-1.2/)** - *Khanuja, S., et al. (2020)*.
-  * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Qin, L., et al. (2020)*.
-* **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Prasad, A., et al. (2021)*.
-* **[On Utilizing Constituent Language Resources to Improve Downstream Tasks in Hinglish](https://aclanthology.org/2022.findings-emnlp.283.pdf)** - *Kumar, V., et al. (2022)*.
-* **[Toward the Limitation of Code-Switching in Cross-Lingual Transfer](https://aclanthology.org/2022.emnlp-main.400.pdf)** - *Feng, Y., et al. (2022)*.
-* **[Aligning Multilingual Embeddings for Improved Code-switched Natural Language Understanding](https://aclanthology.org/2022.coling-1.375.pdf)** - *Fazili, B., et al. (2022)*.
-* **[Incontext Mixing (ICM): Codemixed Prompts for Multilingual LLMs](https://aclanthology.org/2024.acl-long.228.pdf)** - *Shankar, B., et al. (2024)*.
-* **[Using Contextually Aligned Online Reviews to Measure LLMs’ Performance Disparities Across Language Varieties](https://aclanthology.org/2025.naacl-short.29/)** - *Tang, Z., et al. (2025)*. 
-
------
-
-## 1.2\. Natural Language Generation (NLG) Tasks
-
-> Tasks focused on generating fluent and coherent code-mixed text.
-
-### Code-Mixed Text Generation
-
-  * **[A Deep Generative Model for Code Switched Text](https://doi.org/10.24963/ijcai.2019/719)** - *Samanta, B., et al. (2019)*.
-  * **[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206.pdf)** - *Gupta, D., et al. (2020)*.
-  * **[Towards Code-Mixed Hinglish Dialogue Generation](https://aclanthology.org/2021.nlp4convai-1.26.pdf)** - *Agarwal, V., et al. (2021)*.
-  * **[HinGE: A Dataset for Generation and Evaluation of Code-Mixed Hinglish Text](https://aclanthology.org/2021.eval4nlp-1.20.pdf)** - *Srivastava, V., et al. (2021)*.
-  * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.acl-long.245.pdf)** - *Tarunesh, I., et al. (2021)*.
-  * **[PACMAN:PArallel CodeMixed dAta generatioN for POS tagging](https://aclanthology.org/2022.icon-main.29.pdf)** - *Chatterjee, A., et al. (2022)*.
-  * **[MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation](https://aclanthology.org/2022.coling-1.54.pdf)** - *Liu, Y., et al. (2022)*.
-  * **[Proceedings of the 15th International Conference on Natural Language Generation: Generation Challenges](https://aclanthology.org/2022.inlg-genchal.0.pdf)** - *Shaikh, S., et al. (2022)*.
-  * **[CoCoa: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Mondal, S., et al. (2022)*.
-  * **[Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages](https://aclanthology.org/2023.calcs-1.5.pdf)** - *Yong, Z. X., et al. (2023)*.
-  * **[Enhancing Code-mixed Text Generation Using Synthetic Data Filtering in Neural Machine Translation](https://aclanthology.org/2023.conll-1.15.pdf)** - *Sravani, D., et al. (2023)*.
-  * **[Code-Switched Text Synthesis in Unseen Language Pairs](https://aclanthology.org/2023.findings-acl.318.pdf)** - *Hsu, I.-H., et al. (2023)*.
-  * **[Linguistics Theory Meets LLM: Code-Switched Text Generation via Equivalence Constrained Large Language Models](https://api.semanticscholar.org/CorpusID:273695372)** - *Kuwanto, G., et al. (2024)*.
-  * **[Leveraging Large Language Models for Code-Mixed Data Augmentation in Sentiment Analysis](https://aclanthology.org/2024.sicon-1.6.pdf)** - *Zeng, L. (2024)*.
-  * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, K., et al. (2024)*.
-  * **[LLM-based Code-Switched Text Generation for Grammatical Error Correction](https://aclanthology.org/2024.emnlp-main.942.pdf)** - *Potter, T., et al. (2024)*.
-  * **[Understanding and Mitigating Language Confusion in LLMs](https://aclanthology.org/2024.emnlp-main.380.pdf)** - *Marchisio, K., et al. (2024)*.
-  * **Pun Generation** * **[Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns](https://aclanthology.org/2025.chum-1.5.pdf)** - *Asapu, L., et al. (2025)*.
-    * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Sarrof, Y. R. (2025)*.
-
 
 ### Machine Translation (MT)
 
@@ -313,6 +251,66 @@
   * **[The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR](https://aclanthology.org/2025.calcs-1.2.pdf)** - *Hamed, I., et al. (2025)*.
   * **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Upadhayay, B., et al. (2025)*.
   * **[Low-resource Machine Translation for Code-switched Kazakh-Russian Language Pair](https://aclanthology.org/2025.naacl-srw.7.pdf)** - *Borisov, M., et al. (2025)*.
+
+-----
+
+## 1.2\. Natural Language Generation (NLG) Tasks
+
+> Tasks focused on generating fluent and coherent code-mixed text.
+
+### Natural Language Inference (NLI)
+
+  * **[Detecting entailment in code-mixed Hindi-English conversations](https://aclanthology.org/2020.wnut-1.22/)** - *Chakravarthy, S., et al. (2020)*.
+  * **[A New Dataset for Natural Language Inference from Code-mixed Conversations](https://aclanthology.org/2020.calcs-1.2/)** - *Khanuja, S., et al. (2020)*.
+  * **[CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://www.ijcai.org/proceedings/2020/0533.pdf)** - *Qin, L., et al. (2020)*.
+* **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Prasad, A., et al. (2021)*.
+* **[On Utilizing Constituent Language Resources to Improve Downstream Tasks in Hinglish](https://aclanthology.org/2022.findings-emnlp.283.pdf)** - *Kumar, V., et al. (2022)*.
+* **[Toward the Limitation of Code-Switching in Cross-Lingual Transfer](https://aclanthology.org/2022.emnlp-main.400.pdf)** - *Feng, Y., et al. (2022)*.
+* **[Aligning Multilingual Embeddings for Improved Code-switched Natural Language Understanding](https://aclanthology.org/2022.coling-1.375.pdf)** - *Fazili, B., et al. (2022)*.
+* **[Incontext Mixing (ICM): Codemixed Prompts for Multilingual LLMs](https://aclanthology.org/2024.acl-long.228.pdf)** - *Shankar, B., et al. (2024)*.
+* **[Using Contextually Aligned Online Reviews to Measure LLMs’ Performance Disparities Across Language Varieties](https://aclanthology.org/2025.naacl-short.29/)** - *Tang, Z., et al. (2025)*. 
+
+### Intent Classification
+
+  * **[IIT Gandhinagar at SemEval-2020 Task 9: Code-Mixed Sentiment Classification Using Candidate Sentence Generation and Selection](https://aclanthology.org/2020.semeval-1.168/)** - *Srivastava, V. & Singh, M. (2020)*.
+  * **[Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling](https://aclanthology.org/2021.mrl-1.18/)** - *Krishnan, J., et al. (2021)*.
+  * **[Regional language code-switching for natural language understanding and intelligent digital assistants](https://doi.org/10.1007/978-981-16-0749-3_71)** - *Rajeshwari, S. & Kallimani, J. S. (2021)*.
+  * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Nag, A., et al. (2024)*.
+
+### Question Answering (QA)
+
+  * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering](https://aclanthology.org/K18-1012/)** - *Gupta, D., et al. (2018)*.
+  * **[Code-Mixed Question Answering Challenge using Deep Learning Methods](https://www.google.com/search?q=https://doi.org/10.1109/ICCES48766.2020.9137971)** - *Thara, S., et al. (2020)*.
+  * **[MLQA: Evaluating Cross-lingual Extractive Question Answering](https://aclanthology.org/2020.acl-main.653/)** - *Lewis, P., et al. (2020)*
+  * **[The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding](https://aclanthology.org/2021.mrl-1.16.pdf)** - *Prasad, A., et al. (2021)*.
+  * **[To Ask LLMs about English Grammaticality, Prompt Them in a Different Language](https://aclanthology.org/2024.findings-emnlp.916.pdf)** - *Behzad, S., et al. (2024)*.
+  * **[COMMIT: Code-Mixing English-Centric Large Language Model for Multilingual Instruction Tuning](https://aclanthology.org/2024.findings-naacl.198.pdf)** - *Lee, J., et al. (2024)*.
+  * **[MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks](https://aclanthology.org/2024.naacl-long.143/)** - *Ahuja, S., et al. (2024)*.
+  * **[Controlling Language Confusion in Multilingual LLMs](https://aclanthology.org/2025.acl-srw.81/)** - *Lee, N., et al. (2025)*.
+  * **[Qorǵau: Evaluating Safety in Kazakh-Russian Bilingual Contexts](https://aclanthology.org/2025.findings-acl.507.pdf)** - *Goloburda, M., et al. (2025)*.
+  * **[Code-Switching Curriculum Learning for Multilingual Transfer in LLMs](https://aclanthology.org/2025.findings-acl.407/)** - *Yoo, H., et al. (2025)*.
+      
+### Code-Mixed Text Generation
+
+  * **[A Deep Generative Model for Code Switched Text](https://doi.org/10.24963/ijcai.2019/719)** - *Samanta, B., et al. (2019)*.
+  * **[A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning](https://aclanthology.org/2020.findings-emnlp.206.pdf)** - *Gupta, D., et al. (2020)*.
+  * **[Towards Code-Mixed Hinglish Dialogue Generation](https://aclanthology.org/2021.nlp4convai-1.26.pdf)** - *Agarwal, V., et al. (2021)*.
+  * **[HinGE: A Dataset for Generation and Evaluation of Code-Mixed Hinglish Text](https://aclanthology.org/2021.eval4nlp-1.20.pdf)** - *Srivastava, V., et al. (2021)*.
+  * **[From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text](https://aclanthology.org/2021.acl-long.245.pdf)** - *Tarunesh, I., et al. (2021)*.
+  * **[PACMAN:PArallel CodeMixed dAta generatioN for POS tagging](https://aclanthology.org/2022.icon-main.29.pdf)** - *Chatterjee, A., et al. (2022)*.
+  * **[MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation](https://aclanthology.org/2022.coling-1.54.pdf)** - *Liu, Y., et al. (2022)*.
+  * **[Proceedings of the 15th International Conference on Natural Language Generation: Generation Challenges](https://aclanthology.org/2022.inlg-genchal.0.pdf)** - *Shaikh, S., et al. (2022)*.
+  * **[CoCoa: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Mondal, S., et al. (2022)*.
+  * **[Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages](https://aclanthology.org/2023.calcs-1.5.pdf)** - *Yong, Z. X., et al. (2023)*.
+  * **[Enhancing Code-mixed Text Generation Using Synthetic Data Filtering in Neural Machine Translation](https://aclanthology.org/2023.conll-1.15.pdf)** - *Sravani, D., et al. (2023)*.
+  * **[Code-Switched Text Synthesis in Unseen Language Pairs](https://aclanthology.org/2023.findings-acl.318.pdf)** - *Hsu, I.-H., et al. (2023)*.
+  * **[Linguistics Theory Meets LLM: Code-Switched Text Generation via Equivalence Constrained Large Language Models](https://api.semanticscholar.org/CorpusID:273695372)** - *Kuwanto, G., et al. (2024)*.
+  * **[Leveraging Large Language Models for Code-Mixed Data Augmentation in Sentiment Analysis](https://aclanthology.org/2024.sicon-1.6.pdf)** - *Zeng, L. (2024)*.
+  * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, K., et al. (2024)*.
+  * **[LLM-based Code-Switched Text Generation for Grammatical Error Correction](https://aclanthology.org/2024.emnlp-main.942.pdf)** - *Potter, T., et al. (2024)*.
+  * **[Understanding and Mitigating Language Confusion in LLMs](https://aclanthology.org/2024.emnlp-main.380.pdf)** - *Marchisio, K., et al. (2024)*.
+  * **Pun Generation** * **[Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns](https://aclanthology.org/2025.chum-1.5.pdf)** - *Asapu, L., et al. (2025)*.
+    * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Sarrof, Y. R. (2025)*.
 
 ### Cross-lingual Transfer
 
@@ -364,7 +362,7 @@
   * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Arijit Nag, et al. (2024)*.
   * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Yash Raj Sarrof (2025)*.
 -----
-## 1.3. Underexplored and Frontier Tasks
+## \1.3. Underexplored and Frontier Tasks
 
 > High-potential research directions where Code-Switching intersects with reasoning, safety, creativity, and multimodal interaction.
 
