@@ -367,6 +367,19 @@
 
 ### Datasets
 
+| **Name** | **Description** | **Lang Pair** | **Type/Task** | **Link** |
+|:---|:---|:---|:---|:---:|
+| **COMI-LINGUA** | Expert annotated large-scale dataset. | Hindi-En | Multitask NLU | [Link](https://aclanthology.org/2025.findings-emnlp.422/) |
+| **SwitchLingua** | Massive multi-ethnic code-switching dataset. | 83 Langs | General NLU | [Link](https://arxiv.org/abs/2506.00087) |
+| **AfroCS-xs** | High-quality human-validated synthetic data. | 4 African-En | Machine Translation | [Link](https://aclanthology.org/2025.acl-long.1601/) |
+| **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [Link](https://arxiv.org/abs/2501.00000) |
+| **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [Link](https://arxiv.org/abs/2501.00000) |
+| **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [Link](https://aclanthology.org/2022.naacl-main.340/) |
+| **MultiCoNER** | Large-scale benchmark for complex NER. | 11 Langs | NER | [Link](https://aclanthology.org/2022.coling-1.334/) |
+| **My Boli** | Corpora & Pre-trained Models for Marathi-English. | Marathi-En | NLU | [Link](https://aclanthology.org/2023.eacl-main.249) |
+| **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [Link](https://aclanthology.org/2024.findings-acl.663/) |
+| **HiACC** | Hinglish adult & children code-switched corpus. | Hindi-En | Speech/Text | [Link](https://doi.org/10.1016/j.dib.2025.111886) |
+
   * **[Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data](https://aclanthology.org/P18-1143.pdf)** - *Adithya Pratapa, et al. (2018)*.
   * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural Based Question Answering](https://aclanthology.org/K18-1012/)** - *Deepak Gupta, et al. (2018)*.
   * **[Dependency Parser for Bengali-English Code-Mixed Data enhanced with a Synthetic Treebank](https://aclanthology.org/W19-7810/)** - *Upendra Kumar, et al. (2019)*.
