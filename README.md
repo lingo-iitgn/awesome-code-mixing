@@ -24,7 +24,7 @@
       * [Sentiment & Emotion Analysis](#sentiment--emotion-analysis)
       * [Syntactic Analysis](#syntactic-analysis)
       * [Machine Translation (MT)](#machine-translation-mt)
-  * [1.2. Emerging and Contemporary Tasks](#12-emerging-tasks)
+  * [1.2. Emerging and Contemporary Tasks](#12-emerging-and-contemporary-tasks)
       * [Natural Language Inference (NLI)](#natural-language-inference-nli)
       * [Intent Classification](#intent-classification)
       * [Question Answering (QA)](#question-answering-qa)  
@@ -254,7 +254,7 @@
 
 -----
 
-## 1.2\. Natural Language Generation (NLG) Tasks
+## 1.2\. Emerging and Contemporary Tasks
 
 > Tasks focused on generating fluent and coherent code-mixed text.
 
@@ -362,7 +362,7 @@
   * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Arijit Nag, et al. (2024)*.
   * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Yash Raj Sarrof (2025)*.
 -----
-## \1.3. Underexplored and Frontier Tasks
+## 1.3\. Underexplored and Frontier Tasks
 
 > High-potential research directions where Code-Switching intersects with reasoning, safety, creativity, and multimodal interaction.
 
