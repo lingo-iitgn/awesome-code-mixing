@@ -1,5 +1,9 @@
 
 # Awesome Code-Mixing & Code-Switching
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![ACL Anthology](https://img.shields.io/badge/ACL-Anthology-007ec6.svg)](https://aclanthology.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <a href="https://awesome.re">
