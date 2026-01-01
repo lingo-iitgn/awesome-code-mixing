@@ -15,6 +15,7 @@
 
 *Click on any link to jump to the corresponding section on this page.*
 * [Survey Papers](#survey-papers)
+* [Taxonomy Diagram](#-taxonomy-diagram-of-research-landscape)
 * [1. NLP Tasks](#1-nlp-tasks)
   * [1.1. Foundational Tasks](#11-foundational-tasks)
       * [Language Identification (LID)](#language-identification-lid)
@@ -52,7 +53,7 @@
 
 -----
 
-## Taxonomy diagram of research landscape in codemixing
+## Taxonomy Diagram of Research Landscape
 <img width="932" height="1398" alt="image" src="https://github.com/user-attachments/assets/f53ed277-9dfc-4627-bc9b-a128b58c5eb9" />
 
 ## Survey Papers
