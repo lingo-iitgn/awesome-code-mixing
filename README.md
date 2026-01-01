@@ -17,7 +17,7 @@
 *Click on any link to jump to the corresponding section on this page.*
 * [Survey Papers](#survey-papers)
 * [1. NLP Tasks](#1-nlp-tasks)
-  * [1.1. Natural Language Understanding (NLU) Tasks](#11-natural-language-understanding-nlu-tasks)
+  * [1.1. Foundational Tasks](#11-foundational-tasks)
       * [Language Identification (LID)](#language-identification-lid)
       * [Part-of-Speech (POS) Tagging](#part-of-speech-pos-tagging)
       * [Named Entity Recognition (NER)](#named-entity-recognition-ner)
@@ -26,13 +26,14 @@
       * [Intent Classification](#intent-classification)
       * [Question Answering (QA)](#question-answering-qa)
       * [Natural Language Inference (NLI)](#natural-language-inference-nli)
-  * [1.2. Natural Language Generation (NLG) Tasks](#12-natural-language-generation-nlg-tasks)
+  * [1.2. Emerging and Contemporary Tasks](#12-emerging-tasks)
       * [Code-Mixed Text Generation](#code-mixed-text-generation)
       * [Machine Translation (MT)](#machine-translation-mt)
       * [Cross-lingual Transfer](#cross-lingual-transfer)
       * [Text Summarization](#text-summarization)
       * [Dialogue Generation](#dialogue-generation)
       * [Transliteration](#transliteration)
+  * [1.3. Underexplored and Frontier Tasks](#13-underexplored-tasks)
 * [2. Datasets & Resources](#2-datasets--resources)
    * [Datasets](#datasets)
    * [Frameworks & Toolkits](#frameworks--toolkits)
@@ -67,13 +68,13 @@
 
 ## 1\. NLP Tasks
 
-## 1.1\. Natural Language Understanding (NLU) Tasks
+## 1.1\. Foundational Tasks
 
-> Tasks focused on understanding, parsing, and extracting meaning from code-mixed text.
+> Core competencies for understanding structure, syntax, and linguistic boundaries.
 
 ### Language Identification (LID)
 
-  * **[Word Level Language Identification in English Telugu Code Mixed Data](https://aclanthology.org/Y18-1021/)** - *Gundapu, S. & Mamidi, R. (2018)*.
+  * **[Word Level Language Identification in English Telugu Code Mixed Data](https://aclanthology.org/Y18-1021/)** - *Gundapu, S. & Mamidi, R. (2018)*. ![](https://img.shields.io/badge/date-2024.08-red)
   * **[A fast, compact, accurate model for language identification of codemixed text](https://arxiv.org/abs/1810.04142)** - *Zhang, Y., et al. (2018)*.
   * **[Language identification framework in code-mixed social media text based on quantum LSTM](https://api.semanticscholar.org/CorpusID:214459891)** - *Shekhar, S., et al. (2020)*.
   * **[A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42.pdf)** - *Dowlagar, S., et al. (2021)*.
