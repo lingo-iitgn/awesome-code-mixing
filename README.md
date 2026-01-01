@@ -373,8 +373,8 @@
 | **SwitchLingua** | Massive multi-ethnic code-switching dataset. | 83 Langs | General NLU | [Link](https://arxiv.org/abs/2506.00087) |
 | **AfroCS-xs** | High-quality human-validated synthetic data. | 4 African-En | Machine Translation | [Link](https://aclanthology.org/2025.acl-long.1601/) |
 | **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [Link](https://arxiv.org/abs/2501.00000) |
-| **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [Link](https://arxiv.org/abs/2501.00000) |
-| **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [Link](https://aclanthology.org/2022.naacl-main.340/) |
+| **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [Link](https://arxiv.org/pdf/2310.07423) |
+| **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [Link](\https://arxiv.org/abs/2112.06223) |
 | **MultiCoNER** | Large-scale benchmark for complex NER. | 11 Langs | NER | [Link](https://aclanthology.org/2022.coling-1.334/) |
 | **My Boli** | Corpora & Pre-trained Models for Marathi-English. | Marathi-En | NLU | [Link](https://aclanthology.org/2023.eacl-main.249) |
 | **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [Link](https://aclanthology.org/2024.findings-acl.663/) |
