@@ -23,17 +23,21 @@
       * [Named Entity Recognition (NER)](#named-entity-recognition-ner)
       * [Sentiment & Emotion Analysis](#sentiment--emotion-analysis)
       * [Syntactic Analysis](#syntactic-analysis)
-      * [Intent Classification](#intent-classification)
-      * [Question Answering (QA)](#question-answering-qa)
-      * [Natural Language Inference (NLI)](#natural-language-inference-nli)
-  * [1.2. Emerging and Contemporary Tasks](#12-emerging-tasks)
-      * [Code-Mixed Text Generation](#code-mixed-text-generation)
       * [Machine Translation (MT)](#machine-translation-mt)
+  * [1.2. Emerging and Contemporary Tasks](#12-emerging-tasks)
+      * [Natural Language Inference (NLI)](#natural-language-inference-nli)
+      * [Intent Classification](#intent-classification)
+      * [Question Answering (QA)](#question-answering-qa)  
+      * [Code-Mixed Text Generation](#code-mixed-text-generation)
       * [Cross-lingual Transfer](#cross-lingual-transfer)
       * [Text Summarization](#text-summarization)
       * [Dialogue Generation](#dialogue-generation)
       * [Transliteration](#transliteration)
   * [1.3. Underexplored and Frontier Tasks](#13-underexplored-tasks)
+      * [Conversation & Speech](#conversation-and-speech)
+      * [Safety & Multimodal](#safety-and-multimodal)
+      * [Reasoning & Abstraction](#reasoning-and-abstraction)
+      * [Creative & Code Generation](#creative-and-code-generation)
 * [2. Datasets & Resources](#2-datasets--resources)
    * [Datasets](#datasets)
    * [Frameworks & Toolkits](#frameworks--toolkits)
@@ -360,7 +364,43 @@
   * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Arijit Nag, et al. (2024)*.
   * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Yash Raj Sarrof (2025)*.
 -----
+## 1.3. Underexplored and Frontier Tasks
 
+> High-potential research directions where Code-Switching intersects with reasoning, safety, creativity, and multimodal interaction.
+
+### Conversation & Speech
+*Challenges in naturalistic mixing, phonetic disambiguation, and user engagement.*
+
+* **[BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service](https://arxiv.org/abs/2503.22283)** - *Francesco Kruk (2025)*. ![](https://img.shields.io/badge/date-2025.03-red)
+* **[Does a code-switching dialogue system help users learn conversational fluency in Choctaw?](https://aclanthology.org/2025.americasnlp-1.2.pdf)** - *Jacqueline Brixey et al. (2025)*. ![](https://img.shields.io/badge/date-2025.06-red)
+* **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174/)** - *Mehrad Moradshahi et al. (2023)*. ![](https://img.shields.io/badge/date-2023.07-red)
+* **[Development of a code-switched Hindi-Marathi dataset and transformer-based architecture for enhanced speech recognition](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005590)** - *P. Hemant et al. (2025)*. ![](https://img.shields.io/badge/date-2025.01-red)
+* **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030)** - *Yu Xi et al. (2024)*. ![](https://img.shields.io/badge/date-2024.12-red)
+* **[Enhancing ASR Accuracy and Coherence Across Indian Languages with Wav2Vec2 and GPT-2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari et al. (2025)*. ![](https://img.shields.io/badge/date-2025.01-red)
+
+### Safety & Multimodal
+*Addressing vulnerability to jailbreaks and grounding failures in mixed-media.*
+
+* **[Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding](https://aclanthology.org/2025.acl-long.657/)** - *Haneul Yoo et al. (2025)*. ![](https://img.shields.io/badge/date-2025.07-red)
+* **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Bibek Upadhayay et al. (2025)*. ![](https://img.shields.io/badge/date-2025.05-red)
+* **[CM_CLIP: Unveiling Code-Mixed Multimodal Learning with Cross-Lingual CLIP Adaptations](https://aclanthology.org/2024.icon-1.36/)** - *Gitanjali Kumari et al. (2024)*. ![](https://img.shields.io/badge/date-2024.12-red)
+* **[ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos](https://aclanthology.org/2024.findings-acl.663/)** - *Krishanu Maity et al. (2024)*. ![](https://img.shields.io/badge/date-2024.05-red)
+* **[Multi-task detection of harmful content in code-mixed meme captions using large language models](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla et al. (2025)*. ![](https://img.shields.io/badge/date-2025.02-red)
+
+### Reasoning & Abstraction
+*Testing logical, causal, and metaphorical understanding across language boundaries.*
+
+* **[Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text](https://arxiv.org/abs/2506.14012)** - *Amr Mohamed et al. (2025)*. ![](https://img.shields.io/badge/date-2025.06-red)
+* **[SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis](https://aclanthology.org/2023.sealp-1.6/)** - *Md Nishat Raihan et al. (2023)*. ![](https://img.shields.io/badge/date-2023.11-red)
+* **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Prashant Kodali et al. (2025)*. ![](https://img.shields.io/badge/date-2025.01-red)
+* **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499/)** - *Laiba Mehnaz et al. (2021)*. ![](https://img.shields.io/badge/date-2021.11-red)
+
+### Creative & Code Generation
+*Exploring structural mixing in programming and creative writing.*
+
+* **[CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts](https://arxiv.org/abs/2505.05063)** - *Zhen Yang et al. (2025)*. ![](https://img.shields.io/badge/date-2025.05-red)
+* **[COCOA: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Sneha Mondal et al. (2022)*. ![](https://img.shields.io/badge/date-2022.12-red)
+* **[Can You Translate for Me? Code-Switched Machine Translation with Large Language Models](https://aclanthology.org/2023.ijcnlp-short.10/)** - *Jyotsana Khatri et al. (2023)*. ![](https://img.shields.io/badge/date-2023.11-red)
 ## 2\. Datasets & Resources
 
 > Corpora, toolkits, and frameworks to support your research.
