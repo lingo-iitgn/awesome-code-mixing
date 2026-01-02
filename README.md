@@ -81,20 +81,20 @@
 
 ### Language Identification (LID)
 
-  * **[Word Level Language Identification in English Telugu Code Mixed Data](https://aclanthology.org/Y18-1021/)** - *Gundapu, S. & Mamidi, R. (2018)*. ![](https://img.shields.io/badge/date-2018-red)
-  * **[A fast, compact, accurate model for language identification of codemixed text](https://arxiv.org/abs/1810.04142)** - *Zhang, Y., et al. (2018)*. ![](https://img.shields.io/badge/date-2018-red)
-  * **[Language identification framework in code-mixed social media text based on quantum LSTM](https://api.semanticscholar.org/CorpusID:214459891)** - *Shekhar, S., et al. (2020)*. ![](https://img.shields.io/badge/date-2020-red)
-  * **[A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42.pdf)** - *Dowlagar, S., et al. (2021)*. ![](https://img.shields.io/badge/date-2021-red)
-  * **[Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far can we get?](https://aclanthology.org/2021.calcs-1.9/)** - *Iliescu, D.-M., et al. (2021)*. ![](https://img.shields.io/badge/date-2021-red)
-  * **[IRNLP\_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL](https://aclanthology.org/2021.ltedi-1.15/)** - *Dave, B., et al. (2021)*. ![](https://img.shields.io/badge/date-2021-red)
-  * **[Transformer-based Model for Word Level Language Identification in Code-mixed Kannada-English Texts](https://aclanthology.org/2022.icon-wlli.4/)** - *Lambebo Tonja, A., et al. (2022)*. ![](https://img.shields.io/badge/date-2022-red)
-  * **[Transformer-based Model for Word Level Language Identification in Code-mixed Kannada-English Texts](https://aclanthology.org/2022.icon-wlli.4.pdf)** - *Tonja, A. L., et al. (2022)*. ![](https://img.shields.io/badge/date-2022-red)
-  * **[TongueSwitcher: Fine-Grained Identification of German-English Code-Switching](https://aclanthology.org/2023.calcs-1.1/)** - *Sterner, I., & Teufel, S. (2023)*.![](https://img.shields.io/badge/date-2023-red)
-  * **[Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation](https://aclanthology.org/2023.findings-emnlp.382.pdf)** - *Doğruöz, A. S., et al. (2023)*. ![](https://img.shields.io/badge/date-2023-red)
-  * **[Multilingual Large Language Models Are Not (Yet) Code-Switchers](https://aclanthology.org/2023.emnlp-main.774.pdf)** - *Zhang, R., et al. (2023)*. ![](https://img.shields.io/badge/date-2023-red)
-  * **[Code-Switched Language Identification is Harder Than You Think](https://aclanthology.org/2024.eacl-long.38.pdf)** - *Burchell, L., et al. (2024)*. ![](https://img.shields.io/badge/date-2024-red)
-  * **[Multilingual Identification of English Code-Switching](https://aclanthology.org/2024.vardial-1.14.pdf)** - *Sterner, I. (2024)*. ![](https://img.shields.io/badge/date-2024-red)
-  * **[MaskLID: Code-Switching Language Identification through Iterative Masking](https://aclanthology.org/2024.acl-short.43/)** - *Kargaran, A. H., et al. (2024)*. ![](https://img.shields.io/badge/date-2024-red)
+  * **[Word Level Language Identification in English Telugu Code Mixed Data](https://aclanthology.org/Y18-1021/)** - *Gundapu, S. & Mamidi, R. (2018)*. ![]
+  * **[A fast, compact, accurate model for language identification of codemixed text](https://arxiv.org/abs/1810.04142)** - *Zhang, Y., et al. (2018)*. ![]
+  * **[Language identification framework in code-mixed social media text based on quantum LSTM](https://api.semanticscholar.org/CorpusID:214459891)** - *Shekhar, S., et al. (2020)*. 
+  * **[A Pre-trained Transformer and CNN model with Joint Language ID and Part-of-Speech Tagging for Code-Mixed Social-Media Text](https://aclanthology.org/2021.ranlp-1.42.pdf)** - *Dowlagar, S., et al. (2021)*.
+  * **[Much Gracias: Semi-supervised Code-switch Detection for Spanish-English: How far can we get?](https://aclanthology.org/2021.calcs-1.9/)** - *Iliescu, D.-M., et al. (2021)*. 
+  * **[IRNLP\_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL](https://aclanthology.org/2021.ltedi-1.15/)** - *Dave, B., et al. (2021)*. 
+  * **[Transformer-based Model for Word Level Language Identification in Code-mixed Kannada-English Texts](https://aclanthology.org/2022.icon-wlli.4/)** - *Lambebo Tonja, A., et al. (2022)*.
+  * **[Transformer-based Model for Word Level Language Identification in Code-mixed Kannada-English Texts](https://aclanthology.org/2022.icon-wlli.4.pdf)** - *Tonja, A. L., et al. (2022)*.
+  * **[TongueSwitcher: Fine-Grained Identification of German-English Code-Switching](https://aclanthology.org/2023.calcs-1.1/)** - *Sterner, I., & Teufel, S. (2023)*.![]
+  * **[Representativeness as a Forgotten Lesson for Multilingual and Code-switched Data Collection and Preparation](https://aclanthology.org/2023.findings-emnlp.382.pdf)** - *Doğruöz, A. S., et al. (2023)*. 
+  * **[Multilingual Large Language Models Are Not (Yet) Code-Switchers](https://aclanthology.org/2023.emnlp-main.774.pdf)** - *Zhang, R., et al. (2023)*. ![]
+  * **[Code-Switched Language Identification is Harder Than You Think](https://aclanthology.org/2024.eacl-long.38.pdf)** - *Burchell, L., et al. (2024)*. ![]
+  * **[Multilingual Identification of English Code-Switching](https://aclanthology.org/2024.vardial-1.14.pdf)** - *Sterner, I. (2024)*. 
+  * **[MaskLID: Code-Switching Language Identification through Iterative Masking](https://aclanthology.org/2024.acl-short.43/)** - *Kargaran, A. H., et al. (2024)*. 
   
 * **Offensive Language Identification** * **[MUCS@DravidianLangTech-EACL2021:COOLI-Code-Mixing Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.47.pdf)** - *Balouchzahi, F., et al. (2021)*.
     * **[SJ AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44.pdf)** - *Jayanthi, S. M., et al. (2021)*.
@@ -369,36 +369,36 @@
 ### Conversation & Speech
 *Challenges in naturalistic mixing, phonetic disambiguation, and user engagement.*
 
-* **[BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service](https://arxiv.org/abs/2503.22283)** - *Francesco Kruk (2025)*. ![](https://img.shields.io/badge/date-2025.03-red)
-* **[Does a code-switching dialogue system help users learn conversational fluency in Choctaw?](https://aclanthology.org/2025.americasnlp-1.2.pdf)** - *Jacqueline Brixey et al. (2025)*. ![](https://img.shields.io/badge/date-2025.06-red)
-* **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174/)** - *Mehrad Moradshahi et al. (2023)*. ![](https://img.shields.io/badge/date-2023.07-red)
-* **[Development of a code-switched Hindi-Marathi dataset and transformer-based architecture for enhanced speech recognition](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005590)** - *P. Hemant et al. (2025)*. ![](https://img.shields.io/badge/date-2025.01-red)
-* **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030)** - *Yu Xi et al. (2024)*. ![](https://img.shields.io/badge/date-2024.12-red)
-* **[Enhancing ASR Accuracy and Coherence Across Indian Languages with Wav2Vec2 and GPT-2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari et al. (2025)*. ![](https://img.shields.io/badge/date-2025.01-red)
+* **[BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service](https://arxiv.org/abs/2503.22283)** - *Francesco Kruk (2025)*.
+* **[Does a code-switching dialogue system help users learn conversational fluency in Choctaw?](https://aclanthology.org/2025.americasnlp-1.2.pdf)** - *Jacqueline Brixey et al. (2025)*.
+* **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174/)** - *Mehrad Moradshahi et al. (2023)*.
+* **[Development of a code-switched Hindi-Marathi dataset and transformer-based architecture for enhanced speech recognition](https://www.sciencedirect.com/science/article/abs/pii/S0003682X24005590)** - *P. Hemant et al. (2025)*. 
+* **[Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890030)** - *Yu Xi et al. (2024)*. 
+* **[Enhancing ASR Accuracy and Coherence Across Indian Languages with Wav2Vec2 and GPT-2](https://ictactjournals.in/paper/IJDSML_Vol_6_Iss_2_Paper_4_761_764.pdf)** - *R. Geetha Rajakumari et al. (2025)*. 
 
 ### Safety & Multimodal
 *Addressing vulnerability to jailbreaks and grounding failures in mixed-media.*
 
-* **[Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding](https://aclanthology.org/2025.acl-long.657/)** - *Haneul Yoo et al. (2025)*. ![](https://img.shields.io/badge/date-2025.07-red)
-* **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Bibek Upadhayay et al. (2025)*. ![](https://img.shields.io/badge/date-2025.05-red)
-* **[CM_CLIP: Unveiling Code-Mixed Multimodal Learning with Cross-Lingual CLIP Adaptations](https://aclanthology.org/2024.icon-1.36/)** - *Gitanjali Kumari et al. (2024)*. ![](https://img.shields.io/badge/date-2024.12-red)
-* **[ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos](https://aclanthology.org/2024.findings-acl.663/)** - *Krishanu Maity et al. (2024)*. ![](https://img.shields.io/badge/date-2024.05-red)
-* **[Multi-task detection of harmful content in code-mixed meme captions using large language models](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla et al. (2025)*. ![](https://img.shields.io/badge/date-2025.02-red)
+* **[Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding](https://aclanthology.org/2025.acl-long.657/)** - *Haneul Yoo et al. (2025)*. 
+* **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Bibek Upadhayay et al. (2025)*. 
+* **[CM_CLIP: Unveiling Code-Mixed Multimodal Learning with Cross-Lingual CLIP Adaptations](https://aclanthology.org/2024.icon-1.36/)** - *Gitanjali Kumari et al. (2024)*. 
+* **[ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos](https://aclanthology.org/2024.findings-acl.663/)** - *Krishanu Maity et al. (2024)*. 
+* **[Multi-task detection of harmful content in code-mixed meme captions using large language models](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla et al. (2025)*. 
 
 ### Reasoning & Abstraction
 *Testing logical, causal, and metaphorical understanding across language boundaries.*
 
-* **[Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text](https://arxiv.org/abs/2506.14012)** - *Amr Mohamed et al. (2025)*. ![](https://img.shields.io/badge/date-2025.06-red)
-* **[SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis](https://aclanthology.org/2023.sealp-1.6/)** - *Md Nishat Raihan et al. (2023)*. ![](https://img.shields.io/badge/date-2023.11-red)
-* **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Prashant Kodali et al. (2025)*. ![](https://img.shields.io/badge/date-2025.01-red)
-* **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499/)** - *Laiba Mehnaz et al. (2021)*. ![](https://img.shields.io/badge/date-2021.11-red)
-
+* **[Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text](https://arxiv.org/abs/2506.14012)** - *Amr Mohamed et al. (2025)*. 
+* **[SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis](https://aclanthology.org/2023.sealp-1.6/)** - *Md Nishat Raihan et al. (2023)*. 
+* **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Prashant Kodali et al. (2025)*. 
+* **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499/)** - *Laiba Mehnaz et al. (2021)*.
+  
 ### Creative & Code Generation
 *Exploring structural mixing in programming and creative writing.*
 
-* **[CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts](https://arxiv.org/abs/2505.05063)** - *Zhen Yang et al. (2025)*. ![](https://img.shields.io/badge/date-2025.05-red)
-* **[COCOA: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Sneha Mondal et al. (2022)*. ![](https://img.shields.io/badge/date-2022.12-red)
-* **[Can You Translate for Me? Code-Switched Machine Translation with Large Language Models](https://aclanthology.org/2023.ijcnlp-short.10/)** - *Jyotsana Khatri et al. (2023)*. ![](https://img.shields.io/badge/date-2023.11-red)
+* **[CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts](https://arxiv.org/abs/2505.05063)** - *Zhen Yang et al. (2025)*. 
+* **[COCOA: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158.pdf)** - *Sneha Mondal et al. (2022)*. 
+* **[Can You Translate for Me? Code-Switched Machine Translation with Large Language Models](https://aclanthology.org/2023.ijcnlp-short.10/)** - *Jyotsana Khatri et al. (2023)*. 
 ## 2\. Datasets & Resources
 
 > Corpora, toolkits, and frameworks to support your research.
