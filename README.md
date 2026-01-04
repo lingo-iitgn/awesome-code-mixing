@@ -17,7 +17,7 @@
 * [Survey Papers](#survey-papers)
 * [Taxonomy Diagram](#-taxonomy-diagram-of-research-landscape)
 * [1. NLP Tasks](#1-nlp-tasks)
-  * [1.1. Traditonal Tasks](#11-traditional-tasks)
+  * [1.1. Traditional Tasks](#11-traditional-tasks)
       * [Language Identification (LID)](#language-identification-lid)
       * [Part-of-Speech (POS) Tagging](#part-of-speech-pos-tagging)
       * [Named Entity Recognition (NER)](#named-entity-recognition-ner)
