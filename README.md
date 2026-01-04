@@ -53,7 +53,6 @@
   * [Vision-Language & Document Processing](#vision-language--document-processing)
   * [Cross-Modal Integration](#cross-modal-integration)
 * [Workshops & Shared Tasks](#workshops--shared-tasks)
-* [Contributing](#contributing)
 
 -----
 
