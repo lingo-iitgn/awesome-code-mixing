@@ -550,9 +550,7 @@
 
   * **[LinCE: A centralized benchmark for linguistic code-switching evaluation](https://aclanthology.org/2020.lrec-1.223/)** - *Aguilar, G., et al. (2020)*.
   * **[GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://aclanthology.org/2020.acl-main.329/)** - *Khanuja, S., et al. (2020)*.
-  * **[Detecting Entailment in Code-Mixed Hindi-English Conversations](https://aclanthology.org/2020.wnut-1.22/)** - *Sharanya Chakravarthy, et al. (2020)*.
   * **[PACMAN: PArallel CodeMixed dAta generatioN for POS tagging](https://aclanthology.org/2022.icon-main.29/)** - *Arindam Chatterjee, et al. (2022)*.
-  * **[HinglishEval Generation Challenge on Quality Estimation of Synthetic Code-Mixed Text: Overview and Results](https://aclanthology.org/2022.inlg-genchal.3/)** - *Vivek Srivastava, et al. (2022)*.
   * **[MultiCoNER: A Large-scale Multilingual Dataset for Complex Named Entity Recognition](https://aclanthology.org/2022.coling-1.334/)** - *Shervin Malmasi, et al. (2022)*.
   * **[X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents](https://aclanthology.org/2023.findings-acl.174/)** - *Mehrad Moradshahi, et al. (2023)*.
   * **[CS-Bench: A Comprehensive Benchmark for Code-Switching in LLMs](https://arxiv.org/abs/2406.10099)** - *Kim, J., et al. (2024)*.
