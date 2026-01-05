@@ -538,7 +538,7 @@
 | **Benchmark** | **Task Scope** | **Data Origin** | **Eval Focus** | **Link** |
 |:---|:---|:---:|:---|:---:|
 | **CodeMixBench**| Code Generation (Python) | 🧑‍💻 **Human** | Syntax & Executability | [🔗](https://arxiv.org/abs/2505.05063) |
-| **CS-Sum** | Dialogue, Summarization | 🤖 🧑‍💻 **Human** | General LLM Capability | [🔗](https://www.researchgate.net/publication/391911130_CS-Sum_A_Benchmark_for_Code-Switching_Dialogue_Summarization_and_the_Limits_of_Large_Language_Models) |
+| **CS-Sum** | Dialogue, Summarization | 🧑‍💻 **Human** | General LLM Capability | [🔗](https://www.researchgate.net/publication/391911130_CS-Sum_A_Benchmark_for_Code-Switching_Dialogue_Summarization_and_the_Limits_of_Large_Language_Models) |
 | **GLUECoS** | QA, NLI, Sentiment | 🧑‍💻 **Human** | NLU Performance | [🔗](https://aclanthology.org/2020.acl-main.329/) |
 | **LinCE** | LID, NER, POS, Sentiment | 🧑‍💻 **Human** | Linguistic Accuracy (F1) | [🔗](https://aclanthology.org/2020.lrec-1.223/) |
 | **MEGAVERSE** | Multimodal QA | ⚡ **Hybrid** | Factuality & Robustness | [🔗](https://aclanthology.org/2024.naacl-long.143/) |
