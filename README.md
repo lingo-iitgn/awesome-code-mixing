@@ -56,7 +56,7 @@
 
 -----
 
-## Taxonomy Diagram of Research Landscape
+## Taxonomy of Code-Mixed Language Analytics
 <img width="7003" height="15642" alt="1111 (1)" src="https://github.com/user-attachments/assets/e80ab921-bb6c-41d8-b84c-16675c78a00e" />
 
 ## Survey Papers
