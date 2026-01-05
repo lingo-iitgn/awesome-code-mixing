@@ -538,7 +538,7 @@
 | **Benchmark** | **Task Scope** | **Data Origin** | **Eval Focus** | **Link** |
 |:---|:---|:---:|:---|:---:|
 | **CodeMixBench**| Code Generation (Python) | 🧑‍💻 **Human** | Syntax & Executability | [🔗](https://arxiv.org/abs/2505.05063) |
-| **CS-Bench** | Reasoning, Summarization | 🤖 **LLM-Synth** | General LLM Capability | [🔗](https://arxiv.org/abs/2406.10099) |
+| **CS-Sum** | Reasoning, Summarization | 🤖 **LLM-Synth** | General LLM Capability | [🔗](https://arxiv.org/abs/2406.10099) |
 | **GLUECoS** | QA, NLI, Sentiment | 🧑‍💻 **Human** | NLU Performance | [🔗](https://aclanthology.org/2020.acl-main.329/) |
 | **LinCE** | LID, NER, POS, Sentiment | 🧑‍💻 **Human** | Linguistic Accuracy (F1) | [🔗](https://aclanthology.org/2020.lrec-1.223/) |
 | **MEGAVERSE** | Multimodal QA | ⚡ **Hybrid** | Factuality & Robustness | [🔗](https://aclanthology.org/2024.naacl-long.143/) |
@@ -553,7 +553,7 @@
 * **[PACMAN: Parallel Code-Mixed Data Generation for POS Tagging](https://aclanthology.org/2022.icon-main.29/)** – Chatterjee et al. (2022)
 * **[MultiCoNER: A Large-scale Multilingual Dataset for Complex NER](https://aclanthology.org/2022.coling-1.334/)** – Malmasi et al. (2022)
 * **[X-RiSAWOZ: High-Quality Multilingual Dialogue Datasets](https://aclanthology.org/2023.findings-acl.174/)** – Moradshahi et al. (2023)
-* **[CS-Bench: A Comprehensive Benchmark for Code-Switching in LLMs](https://www.researchgate.net/publication/391911130_CS-Sum_A_Benchmark_for_Code-Switching_Dialogue_Summarization_and_the_Limits_of_Large_Language_Models)** – Kim et al. (2024)
+* **[CS-Sum: A Benchmark for Code-Switching Dialogue Summarization and the Limits of Large Language Models](https://www.researchgate.net/publication/391911130_CS-Sum_A_Benchmark_for_Code-Switching_Dialogue_Summarization_and_the_Limits_of_Large_Language_Models)** – Kim et al. (2024)
 * **[CroCoSum: Cross-Lingual Code-Switched Summarization Benchmark](https://aclanthology.org/2024.lrec-main.367.pdf)** – Zhang et al. (2024)
 * **[MEGAVERSE: Benchmarking LLMs Across Languages and Tasks](https://aclanthology.org/2024.naacl-long.143/)** – Ahuja et al. (2024)
 * **[COMI-LINGUA: Hindi–English Code-Mixed Multitask Dataset](https://aclanthology.org/2025.findings-emnlp.422.pdf)** – Sheth et al. (2025)
