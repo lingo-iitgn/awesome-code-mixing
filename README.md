@@ -57,7 +57,7 @@
 -----
 
 ## Taxonomy Diagram of Research Landscape
-<img width="932" height="1398" alt="image" src="https://github.com/user-attachments/assets/f53ed277-9dfc-4627-bc9b-a128b58c5eb9" />
+<img width="7003" height="15642" alt="1111 (1)" src="https://github.com/user-attachments/assets/e80ab921-bb6c-41d8-b84c-16675c78a00e" />
 
 ## Survey Papers
 
