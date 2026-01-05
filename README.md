@@ -553,7 +553,7 @@
 * **[PACMAN: Parallel Code-Mixed Data Generation for POS Tagging](https://aclanthology.org/2022.icon-main.29/)** – Chatterjee et al. (2022)
 * **[MultiCoNER: A Large-scale Multilingual Dataset for Complex NER](https://aclanthology.org/2022.coling-1.334/)** – Malmasi et al. (2022)
 * **[X-RiSAWOZ: High-Quality Multilingual Dialogue Datasets](https://aclanthology.org/2023.findings-acl.174/)** – Moradshahi et al. (2023)
-* **[CS-Bench: A Comprehensive Benchmark for Code-Switching in LLMs](https://arxiv.org/abs/2406.10099)** – Kim et al. (2024)
+* **[CS-Bench: A Comprehensive Benchmark for Code-Switching in LLMs](https://www.researchgate.net/publication/391911130_CS-Sum_A_Benchmark_for_Code-Switching_Dialogue_Summarization_and_the_Limits_of_Large_Language_Models)** – Kim et al. (2024)
 * **[CroCoSum: Cross-Lingual Code-Switched Summarization Benchmark](https://aclanthology.org/2024.lrec-main.367.pdf)** – Zhang et al. (2024)
 * **[MEGAVERSE: Benchmarking LLMs Across Languages and Tasks](https://aclanthology.org/2024.naacl-long.143/)** – Ahuja et al. (2024)
 * **[COMI-LINGUA: Hindi–English Code-Mixed Multitask Dataset](https://aclanthology.org/2025.findings-emnlp.422.pdf)** – Sheth et al. (2025)
