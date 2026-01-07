@@ -312,7 +312,8 @@
   * **[Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation](https://aclanthology.org/2024.lrec-main.1345.pdf)** - *Kartik, K., et al. (2024)*.
   * **[LLM-based Code-Switched Text Generation for Grammatical Error Correction](https://aclanthology.org/2024.emnlp-main.942.pdf)** - *Potter, T., et al. (2024)*.
   * **[Understanding and Mitigating Language Confusion in LLMs](https://aclanthology.org/2024.emnlp-main.380.pdf)** - *Marchisio, K., et al. (2024)*.
-  * **Pun Generation** * **[Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns](https://aclanthology.org/2025.chum-1.5.pdf)** - *Asapu, L., et al. (2025)*.
+  * **Pun Generation**
+    * **[Bridging Laughter Across Languages: Generation of Hindi-English Code-mixed Puns](https://aclanthology.org/2025.chum-1.5.pdf)** - *Asapu, L., et al. (2025)*.
     * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Sarrof, Y. R. (2025)*.
 
 ### Cross-lingual Transfer
