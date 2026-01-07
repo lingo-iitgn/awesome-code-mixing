@@ -56,8 +56,8 @@
 
 -----
 
-### Taxonomy of Code-Mixed Language Analytics and representative works for each direction
-<img alt="Taxonomy of Code-Mixed Language Analytics" src="https://github.com/user-attachments/assets/e80ab921-bb6c-41d8-b84c-16675c78a00e" width="80%" />
+### Taxonomy of Code-Switched Language Analytics and representative works for each direction
+<img alt="Taxonomy of Code-Switched Language Analytics" src="https://github.com/user-attachments/assets/e80ab921-bb6c-41d8-b84c-16675c78a00e" width="80%" />
 
 ## Survey Papers
 
