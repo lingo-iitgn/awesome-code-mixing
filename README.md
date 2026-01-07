@@ -414,17 +414,21 @@
 
 | **Name** | **Description** | **Lang Pair** | **Type/Task** | **Link** |
 |:---|:---|:---|:---|:---:|
-| **AfroCS-xs** | High-quality human-validated synthetic data. | 4 African-En | Machine Translation | [Link](https://aclanthology.org/2025.acl-long.1601/) |
-| **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [Link](https://arxiv.org/abs/2112.06223) |
-| **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [Link](https://arxiv.org/abs/2412.13161) |
-| **COMI-LINGUA** | Expert annotated large-scale dataset. | Hindi-En | Multitask NLU | [Link](https://aclanthology.org/2025.findings-emnlp.422/) |
-| **HiACC** | Hinglish adult & children code-switched corpus. | Hindi-En | Speech/Text | [Link](https://doi.org/10.1016/j.dib.2025.111886) |
-| **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [Link](https://arxiv.org/pdf/2310.07423) |
-| **MultiCoNER** | Large-scale benchmark for complex NER. | 11 Langs | NER | [Link](https://aclanthology.org/2022.coling-1.334/) |
-| **My Boli** | Corpora & Pre-trained Models for Marathi-English. | Marathi-En | NLU | [Link](https://aclanthology.org/2023.eacl-main.249) |
-| **SwitchLingua** | Massive multi-ethnic code-switching dataset. | 83 Langs | General NLU | [Link](https://arxiv.org/abs/2506.00087) |
-| **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [Link](https://aclanthology.org/2024.findings-acl.663/) |
-
+| **AfroCS-xs** | High-quality human-validated synthetic data. | 4 African-En | Machine Translation | [Link](<https://aclanthology.org/2025.acl-long.1601/>) |
+| **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [Link](<https://arxiv.org/abs/2112.06223>) |
+| **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [Link](<https://arxiv.org/abs/2412.13161>) |
+| **CM-DailyDialog** | Synthetic code-mixed version of DailyDialog (Hinglish dialogs). | Hindi-En | Dialogue Generation | [Link](<https://aclanthology.org/2021.ranlp-srw.2/>) |
+| **CSPref** | Human preference dataset for evaluating fluency of LLM-generated code-switched text. | Hindi-En, Tamil-En, Malayalam-En | Preference/Evaluation (LLM-generated CS) | [Link](<https://arxiv.org/abs/2410.22660>) |
+| **DravidianCodeMix** | ~71K code-mixed YouTube comments from Dravidian languages. | Tamil/Kannada/Malayalam-En | Sentiment & Offensive Detection | [Link](<https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset>) |
+| **GupShup** | 6.8K+ Hindi-English code-switched conversations with summaries. | Hindi-En | Abstractive Summarization | [Link](<https://aclanthology.org/2021.emnlp-main.499/>) |
+| **HiACC** | Hinglish adult & children code-switched corpus. | Hindi-En | Speech/Text | [Link](<https://doi.org/10.1016/j.dib.2025.111886>) |
+| **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [Link](<https://arxiv.org/pdf/2310.07423>) |
+| **MultiCoNER** | Large-scale benchmark for complex NER. | 11 Langs | NER | [Link](<https://aclanthology.org/2022.coling-1.334/>) |
+| **My Boli** | Corpora & Pre-trained Models for Marathi-English. | Marathi-En | NLU | [Link](<https://aclanthology.org/2023.eacl-main.249>) |
+| **RideKE** | Over 29K code-switched tweets from Kenyan ride-hailing domain. | English-Swahili-Sheng | Sentiment & Emotion | [Link](<https://aclanthology.org/2024.wassa-1.19/>) |
+| **SCC (Saudilang Code-switch Corpus)** | LLM-generated (GPT-4) code-switched speech dataset with Arabic dialects. | Arabic dialects-En/MSA | ASR (Code-Switched) | [Link](<https://www.isca-archive.org/syndata4genai_2024/alharbi24_syndata4genai.pdf>) |
+| **SwitchLingua** | Massive multi-ethnic code-switching dataset. | 83 Langs | General NLU | [Link](<https://arxiv.org/abs/2506.00087>) |
+| **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [Link](<https://aclanthology.org/2024.findings-acl.663/>) |
 
   * **[Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data](https://aclanthology.org/P18-1143.pdf)** - *Adithya Pratapa, et al. (2018)*.
   * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural Based Question Answering](https://aclanthology.org/K18-1012/)** - *Deepak Gupta, et al. (2018)*.
@@ -545,14 +549,21 @@
 
 | **Benchmark** | **Task Scope** | **Data Origin** | **Eval Focus** | **Link** |
 |:---|:---|:---:|:---|:---:|
-| **CodeMixBench**| Code Generation (Python) | 🧑‍💻 **Human** | Syntax & Executability | [🔗](https://arxiv.org/abs/2505.05063) |
-| **CS-Sum** | Dialogue, Summarization | 🧑‍💻 **Human** | General LLM Capability | [🔗](https://www.researchgate.net/publication/391911130_CS-Sum_A_Benchmark_for_Code-Switching_Dialogue_Summarization_and_the_Limits_of_Large_Language_Models) |
-| **GLUECoS** | QA, NLI, Sentiment | 🧑‍💻 **Human** | NLU Performance | [🔗](https://aclanthology.org/2020.acl-main.329/) |
-| **LinCE** | LID, NER, POS, Sentiment | 🧑‍💻 **Human** | Linguistic Accuracy (F1) | [🔗](https://aclanthology.org/2020.lrec-1.223/) |
-| **MEGAVERSE** | Multimodal QA | ⚡ **Hybrid** | Factuality & Robustness | [🔗](https://aclanthology.org/2024.naacl-long.143/) |
-| **SwitchLingua** | Multitask NLU (83 Langs) | ⚡ **Hybrid** | Scale & Diversity | [🔗](https://arxiv.org/abs/2506.00087) |
+| **CodeMixBench** | Multitask (LID, POS, NER, SA, MT + Knowledge/Math Reasoning, Truthfulness) | 🤖 **Synthetic** (GPT-assisted) | Multilingual Code-Mixing Capabilities (18 Langs) | [🔗](<https://arxiv.org/abs/2507.18791>) |
+| **CodeMixBench (Code Gen)** | Code Generation (Python) | 🧑‍💻 **Human** (augmented from BigCodeBench) | Syntax & Executability with Code-Mixed Prompts | [🔗](<https://arxiv.org/abs/2505.05063>) |
+| **COMI-LINGUA** | LID, Matrix Language ID, POS, NER, MT | 🧑‍💻 **Human** (expert-annotated) | Multitask NLU & MT in Hindi-English Code-Mixing | [🔗](<https://aclanthology.org/2025.findings-emnlp.422/>) |
+| **CroCoSum** | Cross-lingual Code-switched Summarization | 🧑‍💻 **Human** (English-Hindi dialogues) | Summarization Quality in Code-Switched Context | [🔗](<https://aclanthology.org/2023.findings-emnlp.796/>) |
+| **CS-Sum** | Dialogue Summarization | 🧑‍💻 **Human** (annotated CS dialogues) | Comprehension & Summarization of CS Dialogues | [🔗](<https://arxiv.org/abs/2505.13559>) |
+| **CS3-Bench** | Speech-to-Speech QA & Conversation | 🧑‍💻 **Human** + 🤖 **Synthetic** | Language Alignment in Mandarin-En CS Speech | [🔗](<https://arxiv.org/abs/2510.07881>) |
+| **GLUECoS** | QA, NLI, Sentiment, LID, POS, NER | 🧑‍💻 **Human** | NLU Performance | [🔗](<https://aclanthology.org/2020.acl-main.329/>) |
+| **LinCE** | LID, NER, POS, Sentiment | 🧑‍💻 **Human** | Linguistic Accuracy (F1) | [🔗](<https://aclanthology.org/2020.lrec-1.223/>) |
+| **Lost in the Mix** | Reading Comprehension, Knowledge, NLI | 🤖 **Synthetic** (LLM-generated CS variants) | Deeper Reasoning in Code-Switched Text | [🔗](<https://arxiv.org/abs/2506.14012>) |
+| **MEGAVERSE** | Multimodal QA + Multitask NLU | ⚡ **Hybrid** | Factuality & Robustness (83 Langs) | [🔗](<https://aclanthology.org/2024.naacl-long.143/>) |
+| **PACMAN** | POS Tagging | 🤖 **Synthetic** (parallel generation) | POS Accuracy in Code-Mixed Text (Hindi-En focus) | [🔗](<https://aclanthology.org/2022.icon-main.29/>) |
+| **SwitchLingua** | Multitask NLU (83 Langs) | 🤖 **Hybrid** (LLM-synthesized) | Scale & Diversity in Code-Switching | [🔗](<https://arxiv.org/abs/2506.00087>) |
+| **X-RiSAWOZ** | Multilingual Task-Oriented Dialogue (TOD) | 🧑‍💻 **Human** (translated + rewritten) | Cross-lingual TOD in Code-Mixed Scenarios (En-Hi, En-Es, En-Fr) | [🔗](<https://aclanthology.org/2022.findings-naacl.94/>) |
 
-*(**Legend:** 🧑‍💻 **Human** = Manually annotated/curated; 🤖 **LLM-Synth** = Generated by Large Language Models; ⚡ **Hybrid** = Mixed sources or Human-filtered Synthetic data.)*
+*(**Legend:** 🧑‍💻 **Human** = Manually annotated/curated; 🤖 **Synthetic** = Generated by Large Language Models; ⚡ **Hybrid** = Mixed sources or Human-filtered Synthetic data.)*
 
 ### Benchmarks
 
