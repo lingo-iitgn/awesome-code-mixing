@@ -416,7 +416,7 @@
 |:---|:---|:---|:---|:---:|
 | **AfroCS-xs** | High-quality human-validated synthetic data. | 4 African-En | Machine Translation | [Link](https://aclanthology.org/2025.acl-long.1601/) |
 | **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [Link](https://arxiv.org/abs/2112.06223) |
-| **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [Link](https://arxiv.org/abs/2501.00000) |
+| **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [Link](https://arxiv.org/abs/2412.13161) |
 | **COMI-LINGUA** | Expert annotated large-scale dataset. | Hindi-En | Multitask NLU | [Link](https://aclanthology.org/2025.findings-emnlp.422/) |
 | **HiACC** | Hinglish adult & children code-switched corpus. | Hindi-En | Speech/Text | [Link](https://doi.org/10.1016/j.dib.2025.111886) |
 | **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [Link](https://arxiv.org/pdf/2310.07423) |
