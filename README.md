@@ -370,7 +370,7 @@
 -----
 ## 1.3\. Underexplored and Frontier Tasks
 
-> High-potential research directions where Code-Switching intersects with reasoning, safety, creativity, and multimodal interaction.
+> Unexplored research directions where Code-Switching tasks intersects with reasoning, safety, creativity, and multimodal interaction.
 
 ### Reasoning & Abstraction
 
