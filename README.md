@@ -97,7 +97,8 @@
   * **[Multilingual Identification of English Code-Switching](https://aclanthology.org/2024.vardial-1.14.pdf)** - *Sterner, I. (2024)*. 
   * **[MaskLID: Code-Switching Language Identification through Iterative Masking](https://aclanthology.org/2024.acl-short.43/)** - *Kargaran, A. H., et al. (2024)*. 
   
-* **Offensive Language Identification** * **[MUCS@DravidianLangTech-EACL2021:COOLI-Code-Mixing Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.47.pdf)** - *Balouchzahi, F., et al. (2021)*.
+* **Offensive Language Identification**
+    * **[MUCS@DravidianLangTech-EACL2021:COOLI-Code-Mixing Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.47.pdf)** - *Balouchzahi, F., et al. (2021)*.
     * **[SJ AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44.pdf)** - *Jayanthi, S. M., et al. (2021)*.
     * **[DravidianCodeMix: Sentiment Analysis and Offensive Language Identification Dataset for Dravidian Languages in Code-Mixed Text](https://link.springer.com/article/10.1007/s10579-022-09583-7)** - *Chakravarthi, B. R., et al. (2022)*.
     * **[Offensive Content Detection Via Synthetic Code-Switched Text](https://aclanthology.org/2022.coling-1.575.pdf)** - *Salaam, C., et al. (2022)*.
