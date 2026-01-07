@@ -451,7 +451,7 @@
   * **[Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/pdf/2403.05887)** - *Hexin Liu, et al. (2024)*.
   * **[HiACC: Hinglish adult & children code-switched corpus](https://doi.org/10.1016/j.dib.2025.111886)** - *Singh, S., et al. (2025)*.
   * **[AfroCS-xs: Creating a Compact, High-Quality, Human-Validated Code-Switched Dataset for African Languages](https://aclanthology.org/2025.acl-long.1601/)** - *Olaleye, K., et al. (2025)*.
-  * **[COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing](https://aclanthology.org/2025.findings-emnlp.422.pdf)** - *Rajvee Sheth, et al. (2025)*.
+
 
 ### Frameworks & Toolkits
 
