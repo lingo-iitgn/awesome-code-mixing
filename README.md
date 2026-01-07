@@ -15,7 +15,7 @@
 
 *Click on any link to jump to the corresponding section on this page.*
 * [Survey Papers](#survey-papers)
-* [Taxonomy Diagram](#-taxonomy-diagram-of-research-landscape)
+* [Taxonomy Diagram](#taxonomy-of-code-switched-language-analytics-and-representative-works-for-each-direction)
 * [1. NLP Tasks](#1-nlp-tasks)
   * [1.1. Traditional Tasks](#11-traditional-tasks)
       * [Language Identification (LID)](#language-identification-lid)
