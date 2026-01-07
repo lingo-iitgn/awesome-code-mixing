@@ -57,7 +57,7 @@
 -----
 
 ### Taxonomy of Code-Switched Language Analytics and representative works for each direction
-<img alt="Taxonomy of Code-Switched Language Analytics" src="https://github.com/user-attachments/assets/e80ab921-bb6c-41d8-b84c-16675c78a00e" width="80%" />
+<img alt="Taxonomy of Code-Switched Language Analytics" src="https://github.com/user-attachments/assets/21e48619-d805-4a46-86bd-4614b3342d1d" width="80%" />
 
 ## Survey Papers
 
