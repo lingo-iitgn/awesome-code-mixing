@@ -605,7 +605,8 @@
 > Applying code-switching NLP to speech, vision, and other modalities.
 
 ### Speech Processing
-* **ASR** * **[Dependency Parsing for English–Malayalam Code-mixed Text](https://aclanthology.org/K19-1026.pdf)** - *Sanket Sonu, et al. (2019)*.
+* **ASR**
+  * **[Dependency Parsing for English–Malayalam Code-mixed Text](https://aclanthology.org/K19-1026.pdf)** - *Sanket Sonu, et al. (2019)*.
   * **[Semi-supervised Acoustic and Language Model Training for English-isiZulu Code-Switched Speech Recognition](https://aclanthology.org/2020.calcs-1.7.pdf)** - *Astik Biswas, et al. (2020)*.
   * **[Improving code-switched ASR with linguistic information](https://aclanthology.org/2022.coling-1.627.pdf)** - *Jie Chi, et al. (2022)*.
   * **[End-to-End Speech Translation for Code Switched Speech](https://aclanthology.org/2022.findings-acl.113.pdf)** - *Orion Weller, et al. (2022)*.
