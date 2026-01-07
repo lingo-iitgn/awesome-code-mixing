@@ -21,7 +21,7 @@
       * [Language Identification (LID)](#language-identification-lid)
       * [Part-of-Speech (POS) Tagging](#part-of-speech-pos-tagging)
       * [Named Entity Recognition (NER)](#named-entity-recognition-ner)
-      * [Sentiment & Emotion Analysis](#sentiment--emotion-analysis)
+      * [Sentiment & Emotion Analysis (SA)](#sentiment--emotion-analysis)
       * [Syntactic Analysis](#syntactic-analysis)
       * [Machine Translation (MT)](#machine-translation-mt)
   * [1.2. Emerging and Contemporary Tasks](#12-emerging-and-contemporary-tasks)
