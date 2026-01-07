@@ -108,7 +108,8 @@
     * **[SetFit: A Robust Approach for Offensive Content Detection in Tamil-English Code-Mixed Conversations Using Sentence Transfer Fine-tuning](https://aclanthology.org/2024.dravidianlangtech-1.6.pdf)** - *Kathiravan Pannerselvam, et al. (2024)*.
     * **[LLMsAgainstHate@NLU of Devanagari Script Languages 2025: Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs](https://aclanthology.org/2025.chipsal-1.34/)** - *Rushendra Sidibomma, et al. (2025)*.
 
-* **Hope Speech Detection** * **[SJ_AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44/)** - *Jayanthi, S. M., et al. (2021)*.
+* **Hope Speech Detection**
+    * **[SJ_AJ@DravidianLangTech-EACL2021: Task-Adaptive Pre-Training of Multilingual BERT models for Offensive Language Identification](https://aclanthology.org/2021.dravidianlangtech-1.44/)** - *Jayanthi, S. M., et al. (2021)*.
     * **[IRNLP_DAIICT@LT-EDI-EACL2021: Hope Speech detection in Code Mixed text using TF-IDF Char N-grams and MuRIL](https://aclanthology.org/2021.ltedi-1.15/)** - *Dave, B., et al. (2021)*.
     * **[Hope Speech Detection in Code-Mixed Text: Exploring Deep Learning Models and Language Effects](https://arxiv.org/abs/2108.04616)** - *Bhat, S., et al. (2021)*.
     * **[Hope Speech Detection in code-mixed Roman Urdu tweets](https://api.semanticscholar.org/CorpusID:280011615)** - *Ahmad, M., et al. (2025)*.
