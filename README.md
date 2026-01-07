@@ -417,21 +417,21 @@
 
 | **Name** | **Description** | **Lang Pair** | **Type/Task** | **Link** |
 |:---|:---|:---|:---|:---:|
-| **AfroCS-xs** | High-quality human-validated synthetic data. | 4 African-En | Machine Translation | [Link](<https://aclanthology.org/2025.acl-long.1601/>) |
-| **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [Link](<https://arxiv.org/abs/2112.06223>) |
-| **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [Link](<https://arxiv.org/abs/2412.13161>) |
-| **CM-DailyDialog** | Synthetic code-mixed version of DailyDialog (Hinglish dialogs). | Hindi-En | Dialogue Generation | [Link](<https://aclanthology.org/2021.ranlp-srw.2/>) |
-| **CSPref** | Human preference dataset for evaluating fluency of LLM-generated code-switched text. | Hindi-En, Tamil-En, Malayalam-En | Preference/Evaluation (LLM-generated CS) | [Link](<https://arxiv.org/abs/2410.22660>) |
-| **DravidianCodeMix** | ~71K code-mixed YouTube comments from Dravidian languages. | Tamil/Kannada/Malayalam-En | Sentiment & Offensive Detection | [Link](<https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset>) |
-| **GupShup** | 6.8K+ Hindi-English code-switched conversations with summaries. | Hindi-En | Abstractive Summarization | [Link](<https://aclanthology.org/2021.emnlp-main.499/>) |
-| **HiACC** | Hinglish adult & children code-switched corpus. | Hindi-En | Speech/Text | [Link](<https://doi.org/10.1016/j.dib.2025.111886>) |
-| **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [Link](<https://arxiv.org/pdf/2310.07423>) |
-| **MultiCoNER** | Large-scale benchmark for complex NER. | 11 Langs | NER | [Link](<https://aclanthology.org/2022.coling-1.334/>) |
-| **My Boli** | Corpora & Pre-trained Models for Marathi-English. | Marathi-En | NLU | [Link](<https://aclanthology.org/2023.eacl-main.249>) |
-| **RideKE** | Over 29K code-switched tweets from Kenyan ride-hailing domain. | English-Swahili-Sheng | Sentiment & Emotion | [Link](<https://aclanthology.org/2024.wassa-1.19/>) |
-| **SCC (Saudilang Code-switch Corpus)** | LLM-generated (GPT-4) code-switched speech dataset with Arabic dialects. | Arabic dialects-En/MSA | ASR (Code-Switched) | [Link](<https://www.isca-archive.org/syndata4genai_2024/alharbi24_syndata4genai.pdf>) |
-| **SwitchLingua** | Massive multi-ethnic code-switching dataset. | 83 Langs | General NLU | [Link](<https://arxiv.org/abs/2506.00087>) |
-| **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [Link](<https://aclanthology.org/2024.findings-acl.663/>) |
+| **AfroCS-xs** | High-quality human-validated synthetic data. | 4 African-En | Machine Translation | [🔗](<https://aclanthology.org/2025.acl-long.1601/>) |
+| **ASCEND** | 10.6h spontaneous conversational speech. | Mandarin-En | ASR/Dialogue | [🔗](<https://arxiv.org/abs/2112.06223>) |
+| **BanglishRev** | 23K Bangla-English reviews for sentiment. | Bengali-En | Sentiment | [🔗](<https://arxiv.org/abs/2412.13161>) |
+| **CM-DailyDialog** | Synthetic code-mixed version of DailyDialog (Hinglish dialogs). | Hindi-En | Dialogue Generation | [🔗](<https://aclanthology.org/2021.ranlp-srw.2/>) |
+| **CSPref** | Human preference dataset for evaluating fluency of LLM-generated code-switched text. | Hindi-En, Tamil-En, Malayalam-En | Preference/Evaluation (LLM-generated CS) | [🔗](<https://arxiv.org/abs/2410.22660>) |
+| **DravidianCodeMix** | ~71K code-mixed YouTube comments from Dravidian languages. | Tamil/Kannada/Malayalam-En | Sentiment & Offensive Detection | [🔗](<https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset>) |
+| **GupShup** | 6.8K+ Hindi-English code-switched conversations with summaries. | Hindi-En | Abstractive Summarization | [🔗](<https://aclanthology.org/2021.emnlp-main.499/>) |
+| **HiACC** | Hinglish adult & children code-switched corpus. | Hindi-En | Speech/Text | [🔗](<https://doi.org/10.1016/j.dib.2025.111886>) |
+| **MMS-5** | Multi-scenario multimodal hate speech. | Tamil/Kan-En | MM Hate Speech | [🔗](<https://arxiv.org/pdf/2310.07423>) |
+| **MultiCoNER** | Large-scale benchmark for complex NER. | 11 Langs | NER | [🔗](<https://aclanthology.org/2022.coling-1.334/>) |
+| **My Boli** | Corpora & Pre-trained Models for Marathi-English. | Marathi-En | NLU | [🔗](<https://aclanthology.org/2023.eacl-main.249>) |
+| **RideKE** | Over 29K code-switched tweets from Kenyan ride-hailing domain. | English-Swahili-Sheng | Sentiment & Emotion | [🔗](<https://aclanthology.org/2024.wassa-1.19/>) |
+| **SCC (Saudilang Code-switch Corpus)** | LLM-generated (GPT-4) code-switched speech dataset with Arabic dialects. | Arabic dialects-En/MSA | ASR (Code-Switched) | [🔗](<https://www.isca-archive.org/syndata4genai_2024/alharbi24_syndata4genai.pdf>) |
+| **SwitchLingua** | Massive multi-ethnic code-switching dataset. | 83 Langs | General NLU | [🔗](<https://arxiv.org/abs/2506.00087>) |
+| **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [🔗](<https://aclanthology.org/2024.findings-acl.663/>) |
 
   * **[Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data](https://aclanthology.org/P18-1143.pdf)** - *Adithya Pratapa, et al. (2018)*.
   * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural Based Question Answering](https://aclanthology.org/K18-1012/)** - *Deepak Gupta, et al. (2018)*.
