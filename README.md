@@ -352,11 +352,16 @@
 
 ### Transliteration
 
+  * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural Based Question Answering](https://aclanthology.org/K18-1012/)** - Gupta, D., et al. (2018).
   * **[Towards an Efficient Code-Mixed Grapheme-to-Phoneme Conversion in an Agglutinative Language: A Case Study on To-Korean Transliteration](https://aclanthology.org/2020.calcs-1.9.pdf)** - *Won Ik Cho, et al. (2020)*.
   * **[Detecting Entailment in Code-Mixed Hindi-English Conversations](https://aclanthology.org/2020.wnut-1.22.pdf)** - *Sharanya Chakravarthy, et al. (2020)*.
+  * **[Graph Convolutional Networks with Multi-headed Attention for Code-Mixed Sentiment Analysis](https://aclanthology.org/2021.dravidianlangtech-1.8/)** - Dowlagar, S. & Mamidi, R. (2021).
   * **[Normalization and Back-Transliteration for Code-Switched Data](https://api.semanticscholar.org/CorpusID:235097478)** - *Parikh, D. & Solorio, T. (2021)*.
   * **[Abusive content detection in transliterated Bengali-English social media corpus](https://aclanthology.org/2021.calcs-1.16.pdf)** - *Salim Sazzed (2021)*.
+  * **[Transliteration for Low-Resource Code-Switching Texts: Building an Automatic Cyrillic-to-Latin Converter for Tatar](https://aclanthology.org/2021.calcs-1.18/)** - Taguchi, C., Sakai, Y. & Watanabe, T. (2021).
   * **[MUCS@MixMT: indicTrans-based Machine Translation for Hinglish Text](https://aclanthology.org/2022.wmt-1.113.pdf)** - *Asha Hegde, et al. (2022)*.
+  * **[Text Characterization Toolkit (TCT)](https://aclanthology.org/2022.aacl-demo.9/)** - Simig, D., et al. (2022).
+  * **[Adapting Multilingual Models for Code-Mixed Translation](https://aclanthology.org/2022.findings-emnlp.528/)** - Vavre, A., Gupta, A. & Sarawagi, S. (2022).
   * **[CodeSwitching and BackTransliteration Using a Bilingual Model](https://aclanthology.org/anthology-files/pdf/findings/2024.findings-eacl.102.pdf)** - *Daniel Weisberg Mitelman, et al. (2024)*.
   * **[Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs](https://aclanthology.org/2024.findings-emnlp.920.pdf)** - *Arijit Nag, et al. (2024)*.
   * **[Homophonic Pun Generation in Code Mixed Hindi English](https://aclanthology.org/2025.chum-1.4/)** - *Yash Raj Sarrof (2025)*.
