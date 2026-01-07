@@ -34,10 +34,11 @@
       * [Dialogue Generation](#dialogue-generation)
       * [Transliteration](#transliteration)
   * [1.3. Underexplored and Frontier Tasks](#13-underexplored-and-frontier-tasks)
-      * [Reasoning & Abstraction](#reasoning-and-abstraction)
-      * [Creative & Code Generation](#creative-and-code-generation)
-      * [Conversation & Speech](#conversation-and-speech)
-      * [Safety-oriented](#safety-oriented)
+      * [Reasoning & Abstraction](#reasoning--abstraction)
+      * [Creative & Code Generation](#creative--code-generation)
+      * [Conversational & Dialogue Systems](#conversational--dialogue-systems)
+      * [Safety & Multimodal](#safety--multimodal)
+
 
 * [2. Datasets & Resources](#2-datasets--resources)
    * [Datasets](#datasets)
@@ -400,7 +401,6 @@
 * **[CM_CLIP: Unveiling Code-Mixed Multimodal Learning with Cross-Lingual CLIP Adaptations](https://aclanthology.org/2024.icon-1.36/)** - *Gitanjali Kumari et al. (2024)*. 
 * **[ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos](https://aclanthology.org/2024.findings-acl.663/)** - *Krishanu Maity et al. (2024)*. 
 * **[Multi-task detection of harmful content in code-mixed meme captions using large language models](https://www.sciencedirect.com/science/article/pii/S1110866525000763)** - *Bharath Kancharla et al. (2025)*. 
-
 
   
 ## 2\. Datasets & Resources
