@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> A curated list of papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing.
+> A curated list of papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing in the Era of Large Language Models.
 
 ## Table of Contents
 
