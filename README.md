@@ -682,3 +682,16 @@ If you have a paper, dataset, or tool you'd like to add:
 2.  Add your resource to the relevant section.
 3.  Please try to follow the existing format and include a direct link.
 4.  Submit a pull request\!
+
+## ⭐ Citation
+
+If you find COMI-LINGUA helpful for your research, please cite it below:
+
+```bibtex
+@article{sheth2025beyond,
+  title={Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models across Modalities},
+  author={Sheth, Rajvee and Sinha, Samridhi Raj and Patil, Mahavir and Beniwal, Himanshu and Singh, Mayank},
+  journal={arXiv preprint arXiv:2510.07037},
+  year={2025}
+}
+```
