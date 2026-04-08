@@ -686,7 +686,7 @@ If you have a paper, dataset, or tool you'd like to add:
 
 ## ⭐ Citation
 
-If you find COMI-LINGUA helpful for your research, please cite it below:
+If you find this repository helpful for your research, please cite it below:
 
 ```bibtex
 @article{sheth2025beyond,
