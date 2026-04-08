@@ -7,6 +7,7 @@
   <a href="https://www.google.com/search?q=%23contributing">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
+  <a href="https://aclanthology.org/2025.findings-emnlp.422.pdf"><img alt="EMNLP" src="https://img.shields.io/badge/ACL-2026-blue"></a>
 </p>
 
 > A curated list of papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing in the Era of Large Language Models.
