@@ -684,7 +684,7 @@ If you have a paper, dataset, or tool you'd like to add:
 3.  Please try to follow the existing format and include a direct link.
 4.  Submit a pull request\!
 
-## ⭐ Citation
+## Citation
 
 If you find this repository helpful for your research, please cite it below:
 
