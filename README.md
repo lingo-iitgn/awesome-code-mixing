@@ -14,14 +14,13 @@ The official GitHub repository of the survey paper accepted at ACL 2026 titled *
 
 > A curated list of papers, datasets, and toolkits for **Code-Switching** and **Code-Mixing** in Natural Language Processing in the era of Large Language Models.
 
----
-
 ### Abstract
 
 Amidst the rapid advances of large language models (LLMs), most models still struggle with mixed-language inputs, limited code-switching datasets, and evaluation biases, which hinder their deployment in multilingual settings.
 
 This survey presents a comprehensive analysis of CS-aware LLM research, covering **324 studies** across **5 research areas**, **15+ NLP tasks**, **30+ datasets**, and **80+ languages**. It categorizes recent work based on architectures, training strategies, and evaluation methodologies, while highlighting key challenges and outlining a roadmap toward more inclusive, fair, and linguistically grounded multilingual systems.
 
+---
 <p align="center"> ⭐ If you find this repository helpful, please consider giving it a star. </p>
 
 ## Table of Contents
