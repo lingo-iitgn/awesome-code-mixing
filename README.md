@@ -12,6 +12,8 @@
 
 > A curated list of papers, datasets, and toolkits for **Code-Switching** & **Code-Mixing** in Natural Language Processing in the Era of Large Language Models.
 
+⭐ If you find this repository helpful, please consider giving it a star.
+
 ## Table of Contents
 
 *Click on any link to jump to the corresponding section on this page.*
