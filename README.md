@@ -20,8 +20,9 @@ Amidst the rapid advances of large language models (LLMs), most models still str
 
 This survey presents a comprehensive analysis of CS-aware LLM research, covering **324 studies** across **5 research areas**, **15+ NLP tasks**, **30+ datasets**, and **80+ languages**. It categorizes recent work based on architectures, training strategies, and evaluation methodologies, while highlighting key challenges and outlining a roadmap toward more inclusive, fair, and linguistically grounded multilingual systems.
 
----
 <p align="center"> ⭐ If you find this repository helpful, please consider giving it a star. </p>
+
+---
 
 ## Table of Contents
 
