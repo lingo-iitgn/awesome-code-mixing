@@ -395,6 +395,7 @@ This survey presents a comprehensive analysis of CS-aware LLM research, covering
 * **[SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis](https://aclanthology.org/2023.sealp-1.6/)** - *Md Nishat Raihan et al. (2023)*. 
 * **[From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences](https://dl.acm.org/doi/abs/10.1145/3748312)** - *Prashant Kodali et al. (2025)*. 
 * **[GupShup: Summarizing Open-Domain Code-Switched Conversations](https://aclanthology.org/2021.emnlp-main.499/)** - *Laiba Mehnaz et al. (2021)*.
+* **[Do LLMs Model Human Linguistic Variation? A Case Study in Hindi-English Verb Code-Mixing](https://aclanthology.org/2026.findings-eacl.291.pdf)** - *Mukund Choudhary et al.(2026)*.
 
 ### Creative & Code Generation
 
