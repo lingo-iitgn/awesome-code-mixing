@@ -702,10 +702,24 @@ If you have a paper, dataset, or tool you'd like to add:
 If you find this survey and repository helpful for your research, please cite it below:
 
 ```bibtex
-@article{sheth2025beyond,
-  title={Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era of Large Language Models across Modalities},
-  author={Sheth, Rajvee and Sinha, Samridhi Raj and Patil, Mahavir and Beniwal, Himanshu and Singh, Mayank},
-  journal={arXiv preprint arXiv:2510.07037},
-  year={2025}
+@inproceedings{sheth-etal-2026-beyond,
+    title = "Beyond Monolingual Assumptions: A Survey on Code-Switched {NLP} in the Era of Large Language Models across Modalities",
+    author = "Sheth, Rajvee  and
+      Sinha, Samridhi Raj  and
+      Patil, Mahavir  and
+      Beniwal, Himanshu  and
+      Singh, Mayank",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.386/",
+    pages = "8519--8566",
+    ISBN = "979-8-89176-390-6",
 }
 ```
