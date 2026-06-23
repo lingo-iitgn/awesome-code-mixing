@@ -7,10 +7,10 @@
   <a href="https://www.google.com/search?q=%23contributing">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
-  <a href="https://arxiv.org/pdf/2510.07037"><img alt="ACL" src="https://img.shields.io/badge/ACL-2026-blue"></a>
+  <a href="https://aclanthology.org/2026.acl-long.386.pdf"><img alt="ACL" src="https://img.shields.io/badge/ACL-2026-blue"></a>
 </p>
 
-The official GitHub repository of the survey paper accepted at ACL 2026 titled **["Beyond Monolingual Assumptions: A Survey on Code-Switched NLP in the Era of Large Language Models across Modalities"](https://arxiv.org/pdf/2510.07037)**.
+The official GitHub repository of the survey paper accepted at ACL 2026 titled **["Beyond Monolingual Assumptions: A Survey on Code-Switched NLP in the Era of Large Language Models across Modalities"](https://aclanthology.org/2026.acl-long.386.pdf)**.
 
 > A curated list of papers, datasets, and toolkits for **Code-Switching** and **Code-Mixing** in Natural Language Processing in the era of Large Language Models.
 
