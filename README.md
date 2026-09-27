@@ -446,7 +446,8 @@ This survey presents a comprehensive analysis of CS-aware LLM research, covering
 | **SCC (Saudilang Code-switch Corpus)** | LLM-generated (GPT-4) code-switched speech dataset with Arabic dialects. | Arabic dialects-En/MSA | ASR (Code-Switched) | [🔗](<https://www.isca-archive.org/syndata4genai_2024/alharbi24_syndata4genai.pdf>) |
 | **SwitchLingua** | Massive multi-ethnic code-switching dataset. | 83 Langs | General NLU | [🔗](<https://arxiv.org/abs/2506.00087>) |
 | **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [🔗](<https://aclanthology.org/2024.findings-acl.663/>) |
-| **TurEngMix** | Turkish-English code-mixed corpus and benchmark for language identification and named entity recognition. | Turkish-En | LID & NER | [🔗](<https://arxiv.org/abs/2609.06963>) |
+| **VietMix** | Naturally occurring Vietnamese-English code-mixed corpus with a human-translated test set. | Vietnamese-En | Machine Translation | [🔗](https://aclanthology.org/2026.eacl-long.342/) |
+| **TurEngMix** | Turkish-English code-mixed corpus and benchmark for LID and NER tasks. | Turkish-En | LID & NER | [🔗](<https://arxiv.org/abs/2609.06963>) |
 
   * **[Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data](https://aclanthology.org/P18-1143.pdf)** - *Adithya Pratapa, et al. (2018)*.
   * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural Based Question Answering](https://aclanthology.org/K18-1012/)** - *Deepak Gupta, et al. (2018)*.
