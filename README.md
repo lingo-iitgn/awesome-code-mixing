@@ -268,6 +268,7 @@ This survey presents a comprehensive analysis of CS-aware LLM research, covering
   * **[The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR](https://aclanthology.org/2025.calcs-1.2.pdf)** - *Hamed, I., et al. (2025)*.
   * **[Tongue-Tied: Breaking LLMs Safety Through New Language Learning](https://aclanthology.org/2025.calcs-1.5.pdf)** - *Upadhayay, B., et al. (2025)*.
   * **[Low-resource Machine Translation for Code-switched Kazakh-Russian Language Pair](https://aclanthology.org/2025.naacl-srw.7.pdf)** - *Borisov, M., et al. (2025)*.
+  * **[VietMix: A Naturally-Occurring Parallel Corpus and Augmentation Framework for Vietnamese-English Code-Mixed Machine Translation](https://aclanthology.org/2026.eacl-long.342/)** - *Tran, H., et al. (2026)*. 
 
 -----
 
@@ -467,6 +468,7 @@ This survey presents a comprehensive analysis of CS-aware LLM research, covering
   * **[Aligning Speech to Languages to Enhance Code-switching Speech Recognition](https://arxiv.org/pdf/2403.05887)** - *Hexin Liu, et al. (2024)*.
   * **[HiACC: Hinglish adult & children code-switched corpus](https://doi.org/10.1016/j.dib.2025.111886)** - *Singh, S., et al. (2025)*.
   * **[AfroCS-xs: Creating a Compact, High-Quality, Human-Validated Code-Switched Dataset for African Languages](https://aclanthology.org/2025.acl-long.1601/)** - *Olaleye, K., et al. (2025)*.
+  * **[VietMix: A Naturally-Occurring Parallel Corpus and Augmentation Framework for Vietnamese-English Code-Mixed Machine Translation](https://aclanthology.org/2026.eacl-long.342/)** - *Tran, H., et al. (2026)*. 
 
 
 ### Frameworks & Toolkits
