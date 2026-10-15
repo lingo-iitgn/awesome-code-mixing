@@ -449,6 +449,8 @@ This survey presents a comprehensive analysis of CS-aware LLM research, covering
 | **ToxVidLM** | Framework & dataset for toxicity in code-mixed videos. | Mixed | Video Toxicity | [🔗](<https://aclanthology.org/2024.findings-acl.663/>) |
 | **VietMix** | Naturally occurring Vietnamese-English code-mixed corpus with a human-translated test set. | Vietnamese-En | Machine Translation | [🔗](https://aclanthology.org/2026.eacl-long.342/) |
 | **TurEngMix** | Turkish-English code-mixed corpus and benchmark for LID and NER tasks. | Turkish-En | LID & NER | [🔗](<https://arxiv.org/abs/2609.06963>) |
+| **English-Hebrew Code-Switching Sentences** | Read speech of English sentences with Hebrew words in Latin script, with cased, punctuated transcripts and term-disjoint train/test splits. | Hebrew-En | ASR (Code-Switched) | [🔗](<https://huggingface.co/datasets/danielrosehill/English-Hebrew-Codeswitching-Sentences>) |
+| **Hebrew-Latin Code-Switching** | 4.7K English sentences with romanized Hebrew words, span-level BIO annotation and hard negatives. | Hebrew-En | LID (Token-level) | [🔗](<https://huggingface.co/datasets/danielrosehill/hebrew-latin-code-switching>) |
 
   * **[Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data](https://aclanthology.org/P18-1143.pdf)** - *Adithya Pratapa, et al. (2018)*.
   * **[Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural Based Question Answering](https://aclanthology.org/K18-1012/)** - *Deepak Gupta, et al. (2018)*.
